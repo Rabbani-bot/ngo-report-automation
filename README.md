@@ -32,7 +32,7 @@ Requires: pandas, numpy, scipy, matplotlib.
 Author: Mohammad Rabbani – Sustainability Data Analyst & Research Consultant
 
 ## Links
-- Kaggle notebook: https://www.kaggle.com/rabbani0123 (runnable copy of `notebook.ipynb`)
+- Kaggle notebook (runs end-to-end on Kaggle): https://www.kaggle.com/code/rabbani0123/automated-donor-reporting-with-statistical-tests
 - Cite: see `CITATION.cff`
 - Author: Mohammad Rabbani | Sustainability Data Analyst & Research Assistant
 
