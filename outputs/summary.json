@@ -1,0 +1,21 @@
+{
+  "households": 3000,
+  "overall_success_pct": 55.0,
+  "success_with_follow_up_pct": 68.7,
+  "success_without_follow_up_pct": 40.5,
+  "difference_pct_points": 28.2,
+  "difference_95ci": [
+    24.8,
+    31.6
+  ],
+  "chi2": 239.4,
+  "p_value": 5.355885703189048e-54,
+  "median_income_gain_usd": 56.3,
+  "by_quarter": {
+    "2025-Q1": 55.3,
+    "2025-Q2": 57.0,
+    "2025-Q3": 53.3,
+    "2025-Q4": 54.7
+  },
+  "report_generation_seconds": 0.34
+}

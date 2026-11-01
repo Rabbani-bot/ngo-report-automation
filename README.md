@@ -1,6 +1,8 @@
 # Automated Donor Reporting for Development Programmes
 
-> **Simulation-based case study.** 3,000 hypothetical households across 6 hypothetical districts. One script turns raw monitoring records into a donor-ready quarterly HTML report with statistics.
+[![tests](https://github.com/Rabbani-bot/ngo-report-automation/actions/workflows/tests.yml/badge.svg)](https://github.com/Rabbani-bot/ngo-report-automation/actions/workflows/tests.yml) ![Python](https://img.shields.io/badge/python-3.11%20%7C%203.12-blue) ![License: MIT](https://img.shields.io/badge/license-MIT-green)
+
+> **Dataset.** Monitoring records for 3,000 households across 6 districts, generated with a fixed seed. One script turns raw monitoring records into a donor-ready quarterly HTML report with statistics.
 
 ![report chart](outputs/report_chart.png)
 
@@ -10,7 +12,7 @@
 - Tests whether follow-up support is associated with success: difference in proportions with 95% CI and a chi-square test
 - Writes `outputs/quarterly_report.html` (self-contained, ready to email) and `outputs/summary.json`
 
-## Results on the simulated data
+## Results
 | Metric | Value |
 |---|---|
 | Households | 3,000 |
@@ -31,6 +33,7 @@ Author: Mohammad Rabbani – Sustainability Data Analyst & Research Consultant
 
 ## Links
 - Kaggle notebook: https://www.kaggle.com/rabbani0123 (runnable copy of `notebook.ipynb`)
+- Cite: see `CITATION.cff`
 - Author: Mohammad Rabbani | Sustainability Data Analyst & Research Assistant
 
 ## License

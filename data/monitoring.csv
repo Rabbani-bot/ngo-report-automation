@@ -1,0 +1,3001 @@
+household_id,district,programme,quarter,follow_up_support,outcome_success,monthly_income_gain_usd
+1,District E,Agriculture training,2025-Q3,False,True,44.5
+2,District E,Agriculture training,2025-Q2,True,False,31.1
+3,District A,Health & hygiene,2025-Q1,True,True,109.0
+4,District E,Livelihoods,2025-Q2,True,True,24.8
+5,District C,Livelihoods,2025-Q1,True,True,66.9
+6,District D,Health & hygiene,2025-Q3,True,False,28.4
+7,District D,Livelihoods,2025-Q2,True,True,57.6
+8,District B,Livelihoods,2025-Q1,False,False,24.5
+9,District F,Livelihoods,2025-Q1,False,True,170.1
+10,District A,Agriculture training,2025-Q4,False,True,34.6
+11,District B,Agriculture training,2025-Q2,False,False,12.0
+12,District C,Agriculture training,2025-Q3,False,False,20.6
+13,District D,Agriculture training,2025-Q4,False,False,33.3
+14,District C,Health & hygiene,2025-Q1,False,True,224.0
+15,District A,Livelihoods,2025-Q1,True,True,101.7
+16,District A,Agriculture training,2025-Q4,True,True,62.7
+17,District A,Agriculture training,2025-Q3,True,False,10.0
+18,District A,Agriculture training,2025-Q2,True,False,18.3
+19,District A,Health & hygiene,2025-Q2,True,True,72.0
+20,District F,Livelihoods,2025-Q1,True,True,58.0
+21,District B,Agriculture training,2025-Q3,True,True,61.4
+22,District D,Agriculture training,2025-Q2,True,True,259.2
+23,District E,Agriculture training,2025-Q4,False,False,27.5
+24,District B,Livelihoods,2025-Q3,True,True,61.4
+25,District B,Agriculture training,2025-Q1,True,True,142.3
+26,District C,Agriculture training,2025-Q3,True,False,19.7
+27,District B,Agriculture training,2025-Q3,False,False,23.6
+28,District F,Health & hygiene,2025-Q3,False,True,76.8
+29,District B,Agriculture training,2025-Q1,False,False,15.7
+30,District F,Livelihoods,2025-Q1,False,False,27.8
+31,District E,Health & hygiene,2025-Q1,False,True,155.1
+32,District F,Health & hygiene,2025-Q4,False,False,8.5
+33,District A,Livelihoods,2025-Q2,True,True,35.7
+34,District C,Livelihoods,2025-Q3,True,False,10.3
+35,District D,Livelihoods,2025-Q3,False,False,15.2
+36,District C,Health & hygiene,2025-Q3,True,True,61.9
+37,District D,Agriculture training,2025-Q3,True,False,67.0
+38,District E,Livelihoods,2025-Q2,True,False,12.5
+39,District D,Livelihoods,2025-Q1,True,True,31.1
+40,District A,Agriculture training,2025-Q4,True,True,172.9
+41,District F,Health & hygiene,2025-Q4,False,True,162.1
+42,District D,Health & hygiene,2025-Q4,True,True,88.8
+43,District F,Health & hygiene,2025-Q4,False,True,209.2
+44,District B,Agriculture training,2025-Q1,True,True,101.3
+45,District C,Agriculture training,2025-Q1,False,True,285.9
+46,District F,Livelihoods,2025-Q3,True,True,162.8
+47,District B,Agriculture training,2025-Q3,False,False,24.8
+48,District A,Agriculture training,2025-Q1,True,True,82.4
+49,District C,Agriculture training,2025-Q3,True,True,102.2
+50,District E,Agriculture training,2025-Q2,True,False,12.4
+51,District A,Agriculture training,2025-Q3,True,True,46.3
+52,District F,Livelihoods,2025-Q4,False,False,17.1
+53,District C,Health & hygiene,2025-Q1,True,False,60.6
+54,District B,Agriculture training,2025-Q3,False,True,61.3
+55,District D,Agriculture training,2025-Q2,False,False,11.3
+56,District F,Health & hygiene,2025-Q2,False,False,17.1
+57,District F,Agriculture training,2025-Q3,False,False,9.4
+58,District F,Agriculture training,2025-Q3,False,True,52.9
+59,District B,Livelihoods,2025-Q4,True,True,42.9
+60,District A,Livelihoods,2025-Q2,True,True,200.1
+61,District E,Agriculture training,2025-Q4,False,True,168.6
+62,District E,Health & hygiene,2025-Q4,False,False,27.2
+63,District E,Agriculture training,2025-Q4,False,True,88.2
+64,District A,Livelihoods,2025-Q1,True,True,75.0
+65,District A,Health & hygiene,2025-Q2,True,True,201.5
+66,District D,Health & hygiene,2025-Q1,False,True,90.5
+67,District C,Agriculture training,2025-Q4,True,True,102.7
+68,District C,Livelihoods,2025-Q3,True,False,12.5
+69,District F,Agriculture training,2025-Q1,True,True,51.0
+70,District B,Agriculture training,2025-Q1,True,True,65.6
+71,District D,Agriculture training,2025-Q3,False,False,26.9
+72,District B,Agriculture training,2025-Q2,True,True,68.1
+73,District B,Health & hygiene,2025-Q3,True,True,89.6
+74,District E,Agriculture training,2025-Q1,False,True,45.9
+75,District A,Livelihoods,2025-Q4,True,True,148.1
+76,District B,Livelihoods,2025-Q2,True,True,45.0
+77,District A,Health & hygiene,2025-Q1,True,True,90.5
+78,District A,Health & hygiene,2025-Q3,True,True,113.7
+79,District B,Livelihoods,2025-Q1,True,True,180.1
+80,District E,Health & hygiene,2025-Q2,True,True,33.1
+81,District D,Agriculture training,2025-Q1,False,False,46.3
+82,District C,Health & hygiene,2025-Q4,True,True,234.4
+83,District B,Agriculture training,2025-Q2,True,False,32.2
+84,District E,Livelihoods,2025-Q2,True,True,85.7
+85,District E,Health & hygiene,2025-Q3,False,True,62.5
+86,District B,Livelihoods,2025-Q3,False,True,128.4
+87,District A,Livelihoods,2025-Q4,True,False,16.4
+88,District B,Health & hygiene,2025-Q4,True,True,86.8
+89,District A,Agriculture training,2025-Q4,True,False,37.8
+90,District E,Livelihoods,2025-Q4,False,True,82.0
+91,District D,Agriculture training,2025-Q2,False,False,31.5
+92,District D,Livelihoods,2025-Q2,True,True,55.8
+93,District B,Health & hygiene,2025-Q2,True,True,78.1
+94,District D,Health & hygiene,2025-Q4,True,False,30.9
+95,District F,Livelihoods,2025-Q4,False,True,124.9
+96,District B,Agriculture training,2025-Q1,True,False,20.7
+97,District E,Agriculture training,2025-Q2,False,True,62.5
+98,District A,Livelihoods,2025-Q1,True,True,200.7
+99,District B,Livelihoods,2025-Q3,True,True,84.8
+100,District F,Health & hygiene,2025-Q1,False,True,61.9
+101,District F,Agriculture training,2025-Q4,False,False,11.2
+102,District A,Livelihoods,2025-Q4,False,False,36.9
+103,District F,Agriculture training,2025-Q2,False,False,15.6
+104,District F,Livelihoods,2025-Q4,False,False,19.1
+105,District C,Agriculture training,2025-Q2,True,True,84.8
+106,District C,Agriculture training,2025-Q2,False,False,14.5
+107,District F,Health & hygiene,2025-Q3,False,True,32.2
+108,District F,Livelihoods,2025-Q1,False,False,27.0
+109,District E,Livelihoods,2025-Q2,False,False,19.6
+110,District C,Livelihoods,2025-Q2,True,True,63.3
+111,District B,Agriculture training,2025-Q1,False,False,33.4
+112,District F,Agriculture training,2025-Q3,False,False,29.9
+113,District B,Health & hygiene,2025-Q1,True,True,148.6
+114,District D,Agriculture training,2025-Q3,True,False,23.6
+115,District E,Livelihoods,2025-Q3,False,False,18.7
+116,District B,Agriculture training,2025-Q4,True,False,10.7
+117,District B,Health & hygiene,2025-Q1,True,False,56.0
+118,District E,Livelihoods,2025-Q3,False,False,10.6
+119,District B,Agriculture training,2025-Q2,True,True,16.7
+120,District E,Livelihoods,2025-Q4,False,True,90.1
+121,District F,Agriculture training,2025-Q3,False,False,18.9
+122,District E,Agriculture training,2025-Q1,False,False,38.8
+123,District D,Agriculture training,2025-Q2,True,True,20.6
+124,District C,Agriculture training,2025-Q4,False,True,83.5
+125,District F,Health & hygiene,2025-Q4,True,False,25.8
+126,District B,Livelihoods,2025-Q1,False,False,54.8
+127,District C,Agriculture training,2025-Q2,True,True,82.7
+128,District D,Agriculture training,2025-Q4,False,True,168.4
+129,District D,Agriculture training,2025-Q2,True,True,68.0
+130,District A,Health & hygiene,2025-Q3,True,True,106.1
+131,District A,Livelihoods,2025-Q4,True,True,43.8
+132,District E,Agriculture training,2025-Q1,False,True,56.4
+133,District F,Agriculture training,2025-Q3,False,True,27.7
+134,District D,Health & hygiene,2025-Q3,False,False,55.2
+135,District F,Livelihoods,2025-Q1,False,False,33.7
+136,District C,Agriculture training,2025-Q3,True,False,24.4
+137,District B,Agriculture training,2025-Q4,True,True,111.1
+138,District E,Health & hygiene,2025-Q3,True,False,28.8
+139,District A,Livelihoods,2025-Q2,False,False,20.2
+140,District B,Livelihoods,2025-Q2,True,True,104.7
+141,District B,Agriculture training,2025-Q2,True,True,82.1
+142,District C,Agriculture training,2025-Q1,True,True,55.5
+143,District A,Agriculture training,2025-Q1,True,True,40.6
+144,District E,Livelihoods,2025-Q2,False,True,88.7
+145,District F,Health & hygiene,2025-Q2,False,True,80.4
+146,District C,Agriculture training,2025-Q2,True,False,14.5
+147,District A,Livelihoods,2025-Q1,False,True,89.7
+148,District E,Livelihoods,2025-Q1,False,False,25.2
+149,District A,Agriculture training,2025-Q3,True,True,135.5
+150,District D,Agriculture training,2025-Q4,False,False,17.0
+151,District B,Livelihoods,2025-Q4,False,False,13.7
+152,District F,Agriculture training,2025-Q2,False,True,64.2
+153,District E,Livelihoods,2025-Q4,False,False,14.4
+154,District F,Livelihoods,2025-Q1,False,True,93.9
+155,District D,Agriculture training,2025-Q2,False,True,75.4
+156,District E,Livelihoods,2025-Q1,False,False,24.7
+157,District C,Livelihoods,2025-Q4,True,False,15.5
+158,District E,Agriculture training,2025-Q1,False,False,26.3
+159,District A,Agriculture training,2025-Q3,True,False,32.1
+160,District A,Health & hygiene,2025-Q4,True,True,166.8
+161,District C,Livelihoods,2025-Q4,True,True,55.5
+162,District E,Agriculture training,2025-Q3,False,False,63.7
+163,District C,Health & hygiene,2025-Q2,False,False,22.9
+164,District F,Agriculture training,2025-Q3,False,False,31.4
+165,District F,Agriculture training,2025-Q3,False,False,24.0
+166,District C,Agriculture training,2025-Q3,False,False,44.5
+167,District C,Agriculture training,2025-Q4,True,True,175.3
+168,District D,Livelihoods,2025-Q3,False,True,56.6
+169,District D,Agriculture training,2025-Q4,True,False,10.8
+170,District C,Health & hygiene,2025-Q3,True,True,177.9
+171,District D,Agriculture training,2025-Q4,False,False,41.3
+172,District F,Agriculture training,2025-Q3,False,False,20.4
+173,District E,Livelihoods,2025-Q1,True,False,25.4
+174,District B,Health & hygiene,2025-Q3,False,False,40.6
+175,District C,Health & hygiene,2025-Q2,True,True,91.3
+176,District C,Agriculture training,2025-Q1,True,True,85.4
+177,District A,Agriculture training,2025-Q1,True,True,97.2
+178,District A,Agriculture training,2025-Q4,False,False,16.8
+179,District E,Agriculture training,2025-Q3,False,False,31.4
+180,District C,Agriculture training,2025-Q4,True,True,136.1
+181,District C,Livelihoods,2025-Q4,True,True,136.2
+182,District D,Agriculture training,2025-Q4,True,True,127.9
+183,District D,Agriculture training,2025-Q4,True,False,30.2
+184,District F,Health & hygiene,2025-Q3,False,False,13.1
+185,District D,Agriculture training,2025-Q3,False,False,9.1
+186,District F,Livelihoods,2025-Q3,False,True,216.5
+187,District D,Agriculture training,2025-Q2,False,False,10.1
+188,District B,Agriculture training,2025-Q3,False,False,27.6
+189,District B,Health & hygiene,2025-Q2,True,True,116.9
+190,District F,Agriculture training,2025-Q4,False,False,48.6
+191,District D,Health & hygiene,2025-Q4,True,True,94.1
+192,District B,Livelihoods,2025-Q1,True,True,49.7
+193,District E,Health & hygiene,2025-Q2,False,True,99.6
+194,District E,Agriculture training,2025-Q3,False,True,56.3
+195,District A,Livelihoods,2025-Q2,True,True,67.2
+196,District A,Agriculture training,2025-Q1,True,False,28.9
+197,District E,Agriculture training,2025-Q4,False,True,79.5
+198,District C,Health & hygiene,2025-Q1,True,True,113.7
+199,District C,Health & hygiene,2025-Q3,True,False,36.4
+200,District A,Agriculture training,2025-Q4,True,False,34.9
+201,District B,Agriculture training,2025-Q1,False,False,27.4
+202,District F,Livelihoods,2025-Q2,False,False,14.0
+203,District E,Agriculture training,2025-Q2,False,True,188.8
+204,District E,Agriculture training,2025-Q3,False,False,13.1
+205,District D,Agriculture training,2025-Q4,True,True,103.9
+206,District A,Livelihoods,2025-Q3,True,False,37.9
+207,District B,Health & hygiene,2025-Q3,True,True,284.4
+208,District D,Livelihoods,2025-Q2,False,False,35.3
+209,District F,Agriculture training,2025-Q3,False,True,188.0
+210,District B,Livelihoods,2025-Q2,True,False,53.0
+211,District D,Health & hygiene,2025-Q4,False,True,25.4
+212,District C,Agriculture training,2025-Q3,True,True,67.1
+213,District D,Agriculture training,2025-Q2,False,True,263.0
+214,District D,Agriculture training,2025-Q1,False,True,155.1
+215,District E,Agriculture training,2025-Q1,False,False,28.0
+216,District A,Health & hygiene,2025-Q1,True,True,42.5
+217,District F,Livelihoods,2025-Q1,False,True,434.0
+218,District F,Livelihoods,2025-Q3,False,False,31.5
+219,District E,Agriculture training,2025-Q3,False,False,25.5
+220,District B,Agriculture training,2025-Q4,False,True,214.5
+221,District C,Agriculture training,2025-Q1,False,False,16.7
+222,District C,Livelihoods,2025-Q3,True,True,41.3
+223,District B,Livelihoods,2025-Q4,True,True,98.1
+224,District A,Livelihoods,2025-Q3,True,True,71.8
+225,District E,Livelihoods,2025-Q3,False,False,52.1
+226,District A,Livelihoods,2025-Q1,True,False,31.0
+227,District E,Agriculture training,2025-Q4,False,True,112.5
+228,District B,Agriculture training,2025-Q2,True,True,61.3
+229,District D,Health & hygiene,2025-Q1,False,False,22.8
+230,District C,Livelihoods,2025-Q3,False,True,59.1
+231,District B,Agriculture training,2025-Q4,True,True,41.2
+232,District F,Agriculture training,2025-Q1,False,False,22.4
+233,District C,Livelihoods,2025-Q2,True,False,25.3
+234,District F,Livelihoods,2025-Q1,False,False,38.2
+235,District B,Agriculture training,2025-Q4,True,True,68.0
+236,District C,Health & hygiene,2025-Q1,False,False,43.0
+237,District C,Agriculture training,2025-Q1,True,True,129.4
+238,District C,Health & hygiene,2025-Q2,True,True,128.7
+239,District A,Health & hygiene,2025-Q3,True,False,27.1
+240,District E,Health & hygiene,2025-Q3,False,True,58.0
+241,District C,Agriculture training,2025-Q1,True,True,258.6
+242,District F,Livelihoods,2025-Q2,False,True,52.1
+243,District B,Agriculture training,2025-Q4,False,False,22.5
+244,District C,Livelihoods,2025-Q1,False,False,22.6
+245,District A,Health & hygiene,2025-Q4,False,False,38.6
+246,District E,Agriculture training,2025-Q4,False,True,45.7
+247,District D,Agriculture training,2025-Q2,False,False,70.2
+248,District C,Agriculture training,2025-Q2,True,True,29.7
+249,District F,Health & hygiene,2025-Q1,False,False,20.7
+250,District D,Agriculture training,2025-Q2,False,False,49.7
+251,District F,Livelihoods,2025-Q2,False,False,35.0
+252,District E,Health & hygiene,2025-Q2,False,False,19.3
+253,District D,Agriculture training,2025-Q3,False,True,58.9
+254,District D,Agriculture training,2025-Q4,True,False,25.0
+255,District B,Agriculture training,2025-Q1,True,True,100.9
+256,District E,Livelihoods,2025-Q3,False,True,119.5
+257,District E,Health & hygiene,2025-Q1,False,False,11.9
+258,District E,Agriculture training,2025-Q4,False,True,84.9
+259,District C,Livelihoods,2025-Q3,False,False,31.8
+260,District A,Livelihoods,2025-Q4,True,True,39.4
+261,District E,Agriculture training,2025-Q3,False,False,15.9
+262,District A,Agriculture training,2025-Q1,True,True,132.0
+263,District E,Livelihoods,2025-Q2,False,True,66.8
+264,District A,Agriculture training,2025-Q4,True,True,80.3
+265,District B,Agriculture training,2025-Q1,True,True,83.9
+266,District B,Agriculture training,2025-Q2,True,True,44.3
+267,District D,Agriculture training,2025-Q1,False,True,87.7
+268,District B,Agriculture training,2025-Q4,True,True,61.1
+269,District B,Agriculture training,2025-Q3,True,False,24.1
+270,District A,Livelihoods,2025-Q2,False,False,46.5
+271,District F,Agriculture training,2025-Q4,False,False,125.7
+272,District B,Agriculture training,2025-Q3,True,True,160.8
+273,District B,Livelihoods,2025-Q3,False,False,12.0
+274,District D,Agriculture training,2025-Q3,True,True,93.2
+275,District A,Livelihoods,2025-Q1,True,True,94.3
+276,District F,Health & hygiene,2025-Q3,False,False,21.6
+277,District E,Agriculture training,2025-Q2,True,False,35.7
+278,District C,Health & hygiene,2025-Q2,True,False,21.9
+279,District C,Livelihoods,2025-Q2,True,True,87.1
+280,District C,Health & hygiene,2025-Q3,True,False,11.2
+281,District E,Livelihoods,2025-Q1,False,False,20.3
+282,District C,Livelihoods,2025-Q3,True,True,45.9
+283,District B,Agriculture training,2025-Q2,True,True,215.9
+284,District E,Agriculture training,2025-Q2,False,False,32.0
+285,District A,Agriculture training,2025-Q1,True,True,121.0
+286,District E,Agriculture training,2025-Q2,False,False,28.0
+287,District C,Agriculture training,2025-Q3,True,True,41.9
+288,District F,Agriculture training,2025-Q1,True,True,53.9
+289,District B,Agriculture training,2025-Q4,True,False,32.3
+290,District C,Agriculture training,2025-Q3,False,False,30.8
+291,District F,Agriculture training,2025-Q4,False,False,18.0
+292,District E,Health & hygiene,2025-Q2,False,False,8.8
+293,District A,Livelihoods,2025-Q1,True,True,58.6
+294,District C,Agriculture training,2025-Q3,False,False,31.9
+295,District A,Agriculture training,2025-Q3,True,True,57.1
+296,District E,Agriculture training,2025-Q4,False,True,62.2
+297,District C,Agriculture training,2025-Q4,False,False,20.3
+298,District B,Agriculture training,2025-Q1,False,False,19.4
+299,District E,Livelihoods,2025-Q2,False,True,230.1
+300,District F,Agriculture training,2025-Q1,False,False,8.7
+301,District A,Agriculture training,2025-Q3,True,True,137.3
+302,District D,Health & hygiene,2025-Q3,False,True,49.5
+303,District C,Health & hygiene,2025-Q2,True,False,49.5
+304,District E,Livelihoods,2025-Q3,False,False,31.8
+305,District F,Health & hygiene,2025-Q4,False,False,11.6
+306,District D,Livelihoods,2025-Q1,False,False,10.8
+307,District E,Agriculture training,2025-Q2,True,True,159.6
+308,District B,Health & hygiene,2025-Q3,True,False,8.0
+309,District D,Livelihoods,2025-Q2,False,False,14.4
+310,District C,Agriculture training,2025-Q3,False,True,50.2
+311,District E,Agriculture training,2025-Q3,False,True,101.0
+312,District A,Agriculture training,2025-Q2,True,False,36.4
+313,District B,Health & hygiene,2025-Q3,True,True,174.5
+314,District A,Health & hygiene,2025-Q4,False,True,89.6
+315,District F,Health & hygiene,2025-Q3,False,False,10.4
+316,District D,Livelihoods,2025-Q4,False,True,106.4
+317,District C,Health & hygiene,2025-Q4,True,True,203.2
+318,District C,Livelihoods,2025-Q4,True,False,12.6
+319,District A,Health & hygiene,2025-Q2,True,True,93.3
+320,District E,Health & hygiene,2025-Q3,False,False,9.4
+321,District F,Livelihoods,2025-Q4,True,True,136.8
+322,District A,Agriculture training,2025-Q2,True,True,38.8
+323,District D,Livelihoods,2025-Q4,False,True,26.5
+324,District D,Livelihoods,2025-Q1,False,True,147.8
+325,District C,Agriculture training,2025-Q2,True,False,21.6
+326,District C,Health & hygiene,2025-Q3,True,True,107.6
+327,District F,Health & hygiene,2025-Q3,True,True,138.6
+328,District D,Agriculture training,2025-Q2,False,True,169.4
+329,District C,Agriculture training,2025-Q3,True,False,18.2
+330,District E,Livelihoods,2025-Q1,False,True,62.3
+331,District E,Agriculture training,2025-Q4,False,True,90.7
+332,District D,Agriculture training,2025-Q3,False,True,170.2
+333,District E,Livelihoods,2025-Q3,False,False,61.9
+334,District D,Agriculture training,2025-Q2,False,False,36.8
+335,District D,Health & hygiene,2025-Q4,False,False,26.8
+336,District C,Livelihoods,2025-Q4,True,False,18.2
+337,District D,Agriculture training,2025-Q1,False,False,45.4
+338,District D,Livelihoods,2025-Q3,False,False,57.5
+339,District F,Livelihoods,2025-Q3,False,False,10.3
+340,District B,Health & hygiene,2025-Q1,True,False,50.3
+341,District C,Agriculture training,2025-Q4,True,True,83.9
+342,District D,Health & hygiene,2025-Q1,False,False,22.2
+343,District C,Livelihoods,2025-Q3,False,False,17.0
+344,District E,Livelihoods,2025-Q4,False,True,63.9
+345,District E,Agriculture training,2025-Q1,False,False,30.3
+346,District B,Livelihoods,2025-Q1,True,True,85.0
+347,District A,Health & hygiene,2025-Q3,False,True,114.7
+348,District F,Agriculture training,2025-Q2,False,True,126.5
+349,District D,Health & hygiene,2025-Q4,False,False,24.1
+350,District E,Health & hygiene,2025-Q2,False,False,21.4
+351,District E,Agriculture training,2025-Q1,False,False,17.7
+352,District F,Agriculture training,2025-Q1,False,False,35.0
+353,District A,Livelihoods,2025-Q3,True,False,18.1
+354,District B,Agriculture training,2025-Q4,True,True,197.3
+355,District F,Health & hygiene,2025-Q3,False,False,12.3
+356,District C,Livelihoods,2025-Q2,True,False,59.3
+357,District C,Agriculture training,2025-Q3,False,False,9.9
+358,District B,Agriculture training,2025-Q4,False,True,75.7
+359,District A,Livelihoods,2025-Q2,True,True,69.1
+360,District A,Livelihoods,2025-Q2,False,True,64.8
+361,District F,Livelihoods,2025-Q1,True,True,77.3
+362,District A,Health & hygiene,2025-Q1,True,True,112.7
+363,District A,Livelihoods,2025-Q1,True,True,92.3
+364,District B,Livelihoods,2025-Q4,False,True,213.0
+365,District B,Agriculture training,2025-Q4,True,True,96.5
+366,District F,Livelihoods,2025-Q4,False,False,32.2
+367,District B,Livelihoods,2025-Q1,True,False,36.0
+368,District A,Health & hygiene,2025-Q3,True,True,60.8
+369,District C,Health & hygiene,2025-Q1,False,False,9.5
+370,District E,Agriculture training,2025-Q1,False,False,21.2
+371,District C,Agriculture training,2025-Q4,True,True,231.7
+372,District B,Livelihoods,2025-Q4,False,False,54.4
+373,District A,Agriculture training,2025-Q1,False,False,19.5
+374,District A,Agriculture training,2025-Q2,True,True,131.7
+375,District C,Agriculture training,2025-Q4,True,False,11.8
+376,District B,Agriculture training,2025-Q4,True,True,65.2
+377,District D,Agriculture training,2025-Q4,True,True,51.7
+378,District E,Livelihoods,2025-Q3,False,False,19.4
+379,District C,Livelihoods,2025-Q1,True,True,85.6
+380,District D,Livelihoods,2025-Q3,False,False,10.4
+381,District A,Livelihoods,2025-Q3,True,False,41.2
+382,District D,Livelihoods,2025-Q4,False,True,53.7
+383,District B,Agriculture training,2025-Q4,True,True,164.5
+384,District C,Agriculture training,2025-Q3,True,True,64.7
+385,District A,Agriculture training,2025-Q2,True,True,193.7
+386,District B,Agriculture training,2025-Q2,False,True,53.6
+387,District C,Livelihoods,2025-Q4,True,True,102.5
+388,District C,Agriculture training,2025-Q3,False,True,120.9
+389,District A,Livelihoods,2025-Q2,True,False,10.8
+390,District F,Agriculture training,2025-Q3,False,False,19.4
+391,District C,Livelihoods,2025-Q2,True,False,24.0
+392,District B,Agriculture training,2025-Q3,True,True,104.5
+393,District B,Agriculture training,2025-Q4,True,True,62.8
+394,District E,Health & hygiene,2025-Q4,False,True,66.7
+395,District C,Health & hygiene,2025-Q3,True,True,99.8
+396,District B,Livelihoods,2025-Q3,True,True,52.1
+397,District C,Health & hygiene,2025-Q3,True,False,13.1
+398,District B,Health & hygiene,2025-Q1,True,True,54.1
+399,District A,Agriculture training,2025-Q4,True,False,24.4
+400,District B,Livelihoods,2025-Q2,True,True,112.2
+401,District F,Livelihoods,2025-Q3,False,False,36.3
+402,District A,Livelihoods,2025-Q3,True,True,111.8
+403,District D,Health & hygiene,2025-Q3,False,False,43.4
+404,District F,Agriculture training,2025-Q1,False,False,15.8
+405,District C,Livelihoods,2025-Q1,True,True,351.9
+406,District C,Health & hygiene,2025-Q3,True,True,152.4
+407,District D,Agriculture training,2025-Q4,False,False,12.3
+408,District B,Livelihoods,2025-Q1,True,True,144.8
+409,District E,Livelihoods,2025-Q1,False,True,90.9
+410,District A,Agriculture training,2025-Q1,True,True,50.5
+411,District D,Health & hygiene,2025-Q3,False,False,17.8
+412,District A,Agriculture training,2025-Q1,True,True,121.6
+413,District A,Agriculture training,2025-Q1,True,False,54.5
+414,District B,Health & hygiene,2025-Q3,True,True,139.4
+415,District E,Health & hygiene,2025-Q3,False,True,56.7
+416,District C,Health & hygiene,2025-Q1,True,True,58.1
+417,District C,Agriculture training,2025-Q4,True,True,58.9
+418,District D,Livelihoods,2025-Q4,True,True,85.3
+419,District A,Agriculture training,2025-Q1,False,True,48.3
+420,District F,Health & hygiene,2025-Q3,False,True,223.9
+421,District C,Health & hygiene,2025-Q2,True,False,6.6
+422,District F,Livelihoods,2025-Q1,True,True,140.5
+423,District E,Agriculture training,2025-Q4,False,True,107.6
+424,District B,Livelihoods,2025-Q2,True,True,91.4
+425,District B,Health & hygiene,2025-Q2,True,True,118.2
+426,District D,Health & hygiene,2025-Q1,True,False,23.7
+427,District F,Livelihoods,2025-Q3,False,False,10.8
+428,District F,Livelihoods,2025-Q3,False,False,23.4
+429,District C,Livelihoods,2025-Q4,False,True,152.5
+430,District A,Agriculture training,2025-Q3,True,False,38.8
+431,District F,Livelihoods,2025-Q3,False,False,18.0
+432,District F,Livelihoods,2025-Q4,False,False,28.9
+433,District E,Livelihoods,2025-Q4,True,False,10.8
+434,District C,Agriculture training,2025-Q1,True,False,11.6
+435,District A,Agriculture training,2025-Q3,True,True,149.1
+436,District E,Agriculture training,2025-Q4,True,False,47.9
+437,District B,Livelihoods,2025-Q4,True,True,259.0
+438,District B,Livelihoods,2025-Q4,True,True,48.6
+439,District F,Livelihoods,2025-Q3,False,False,33.1
+440,District D,Agriculture training,2025-Q3,False,False,18.1
+441,District B,Livelihoods,2025-Q3,True,True,60.8
+442,District D,Agriculture training,2025-Q1,False,False,68.0
+443,District D,Agriculture training,2025-Q3,True,True,48.6
+444,District A,Agriculture training,2025-Q1,True,False,47.9
+445,District B,Agriculture training,2025-Q2,True,True,117.6
+446,District E,Livelihoods,2025-Q1,False,True,108.5
+447,District D,Agriculture training,2025-Q1,False,True,123.4
+448,District E,Agriculture training,2025-Q4,True,True,115.0
+449,District E,Agriculture training,2025-Q2,False,True,75.3
+450,District C,Agriculture training,2025-Q4,True,False,32.1
+451,District B,Livelihoods,2025-Q4,False,True,41.6
+452,District C,Agriculture training,2025-Q3,False,False,15.4
+453,District B,Agriculture training,2025-Q1,True,True,91.1
+454,District F,Agriculture training,2025-Q4,False,True,45.0
+455,District A,Agriculture training,2025-Q3,False,True,95.4
+456,District C,Agriculture training,2025-Q2,True,True,74.4
+457,District A,Livelihoods,2025-Q1,True,False,36.9
+458,District F,Health & hygiene,2025-Q1,True,True,109.6
+459,District D,Agriculture training,2025-Q2,False,False,50.9
+460,District C,Livelihoods,2025-Q4,True,True,81.9
+461,District E,Agriculture training,2025-Q3,False,True,172.3
+462,District C,Health & hygiene,2025-Q1,True,False,37.6
+463,District C,Agriculture training,2025-Q1,True,False,27.2
+464,District C,Agriculture training,2025-Q2,False,False,44.8
+465,District E,Livelihoods,2025-Q4,False,True,86.2
+466,District A,Agriculture training,2025-Q1,True,True,170.0
+467,District D,Livelihoods,2025-Q2,True,True,216.8
+468,District B,Livelihoods,2025-Q1,True,True,48.7
+469,District F,Agriculture training,2025-Q1,False,False,20.6
+470,District B,Health & hygiene,2025-Q4,True,False,29.3
+471,District C,Agriculture training,2025-Q2,True,False,28.1
+472,District A,Agriculture training,2025-Q3,True,True,124.0
+473,District C,Health & hygiene,2025-Q3,True,False,43.1
+474,District D,Health & hygiene,2025-Q4,False,True,101.9
+475,District E,Health & hygiene,2025-Q1,False,True,131.4
+476,District C,Agriculture training,2025-Q3,True,True,46.0
+477,District B,Livelihoods,2025-Q2,False,False,15.6
+478,District A,Agriculture training,2025-Q2,True,True,174.8
+479,District F,Agriculture training,2025-Q2,False,False,91.5
+480,District A,Livelihoods,2025-Q1,False,True,91.1
+481,District E,Health & hygiene,2025-Q1,False,True,117.3
+482,District F,Agriculture training,2025-Q2,True,True,71.1
+483,District B,Livelihoods,2025-Q4,True,True,177.1
+484,District A,Agriculture training,2025-Q2,True,False,52.5
+485,District E,Livelihoods,2025-Q3,False,True,150.8
+486,District C,Livelihoods,2025-Q3,True,False,91.2
+487,District A,Health & hygiene,2025-Q4,True,True,81.2
+488,District F,Livelihoods,2025-Q1,False,False,79.1
+489,District F,Livelihoods,2025-Q4,True,False,13.2
+490,District A,Agriculture training,2025-Q2,True,False,20.9
+491,District E,Livelihoods,2025-Q4,False,False,109.7
+492,District C,Agriculture training,2025-Q1,True,True,43.8
+493,District A,Livelihoods,2025-Q1,True,True,63.7
+494,District E,Agriculture training,2025-Q3,False,True,64.6
+495,District F,Agriculture training,2025-Q1,False,False,70.4
+496,District A,Livelihoods,2025-Q4,True,True,94.0
+497,District A,Agriculture training,2025-Q4,False,False,33.9
+498,District A,Livelihoods,2025-Q3,True,False,18.2
+499,District F,Health & hygiene,2025-Q3,False,False,22.8
+500,District F,Agriculture training,2025-Q2,False,True,117.6
+501,District F,Agriculture training,2025-Q3,False,False,12.4
+502,District E,Agriculture training,2025-Q1,False,False,8.5
+503,District A,Agriculture training,2025-Q3,True,False,15.8
+504,District B,Agriculture training,2025-Q3,True,True,57.4
+505,District D,Health & hygiene,2025-Q2,True,True,251.9
+506,District C,Agriculture training,2025-Q4,True,False,42.8
+507,District A,Livelihoods,2025-Q4,True,True,111.2
+508,District B,Livelihoods,2025-Q3,False,True,60.8
+509,District E,Livelihoods,2025-Q3,True,False,23.5
+510,District F,Agriculture training,2025-Q3,False,True,71.9
+511,District A,Agriculture training,2025-Q2,True,False,33.7
+512,District F,Livelihoods,2025-Q4,True,True,87.7
+513,District B,Agriculture training,2025-Q4,True,False,29.4
+514,District A,Agriculture training,2025-Q2,True,True,262.5
+515,District F,Livelihoods,2025-Q2,False,False,9.1
+516,District D,Agriculture training,2025-Q2,True,True,48.1
+517,District D,Agriculture training,2025-Q3,False,True,149.6
+518,District B,Agriculture training,2025-Q3,True,True,108.3
+519,District F,Health & hygiene,2025-Q3,True,False,26.0
+520,District C,Agriculture training,2025-Q2,True,True,61.0
+521,District C,Agriculture training,2025-Q3,False,False,9.3
+522,District E,Health & hygiene,2025-Q4,True,True,75.2
+523,District E,Agriculture training,2025-Q1,False,False,13.1
+524,District E,Agriculture training,2025-Q4,False,True,108.3
+525,District B,Health & hygiene,2025-Q4,False,True,124.5
+526,District B,Health & hygiene,2025-Q4,True,True,80.0
+527,District D,Health & hygiene,2025-Q2,False,True,432.8
+528,District B,Livelihoods,2025-Q3,True,True,86.0
+529,District A,Livelihoods,2025-Q1,True,True,41.6
+530,District C,Livelihoods,2025-Q3,False,False,31.6
+531,District E,Health & hygiene,2025-Q1,False,True,113.3
+532,District C,Agriculture training,2025-Q3,True,False,11.9
+533,District C,Livelihoods,2025-Q4,True,True,119.8
+534,District E,Livelihoods,2025-Q1,False,False,24.5
+535,District F,Agriculture training,2025-Q4,True,True,108.2
+536,District E,Health & hygiene,2025-Q2,True,True,158.5
+537,District A,Livelihoods,2025-Q2,True,True,82.8
+538,District C,Agriculture training,2025-Q1,True,True,149.2
+539,District D,Health & hygiene,2025-Q4,False,True,137.5
+540,District C,Agriculture training,2025-Q4,True,True,28.0
+541,District B,Livelihoods,2025-Q1,True,False,28.8
+542,District A,Livelihoods,2025-Q2,False,False,21.6
+543,District D,Agriculture training,2025-Q1,False,False,43.4
+544,District C,Livelihoods,2025-Q1,True,True,81.9
+545,District B,Health & hygiene,2025-Q3,False,False,41.0
+546,District F,Health & hygiene,2025-Q4,True,True,48.1
+547,District E,Agriculture training,2025-Q2,False,True,160.7
+548,District D,Livelihoods,2025-Q4,False,True,68.8
+549,District F,Livelihoods,2025-Q4,False,False,48.4
+550,District D,Health & hygiene,2025-Q1,True,False,69.2
+551,District F,Agriculture training,2025-Q1,False,False,69.3
+552,District D,Livelihoods,2025-Q2,False,False,18.0
+553,District C,Health & hygiene,2025-Q4,False,True,128.1
+554,District D,Health & hygiene,2025-Q2,True,False,46.7
+555,District E,Agriculture training,2025-Q4,False,True,39.3
+556,District E,Agriculture training,2025-Q3,False,False,28.4
+557,District F,Health & hygiene,2025-Q3,False,True,73.1
+558,District B,Agriculture training,2025-Q1,False,False,39.0
+559,District A,Agriculture training,2025-Q4,True,False,35.1
+560,District B,Livelihoods,2025-Q3,True,True,103.8
+561,District D,Livelihoods,2025-Q2,False,False,12.7
+562,District F,Health & hygiene,2025-Q3,False,True,121.1
+563,District F,Agriculture training,2025-Q3,True,True,57.5
+564,District C,Agriculture training,2025-Q4,False,False,8.2
+565,District A,Health & hygiene,2025-Q2,True,True,89.2
+566,District F,Agriculture training,2025-Q2,False,False,39.5
+567,District B,Agriculture training,2025-Q3,True,True,87.7
+568,District A,Livelihoods,2025-Q2,True,True,57.6
+569,District B,Livelihoods,2025-Q1,False,False,14.7
+570,District E,Agriculture training,2025-Q1,False,False,61.1
+571,District D,Agriculture training,2025-Q4,True,True,240.7
+572,District C,Agriculture training,2025-Q1,True,False,16.5
+573,District C,Health & hygiene,2025-Q4,False,True,40.5
+574,District C,Livelihoods,2025-Q1,True,True,139.1
+575,District E,Health & hygiene,2025-Q1,True,False,71.1
+576,District F,Health & hygiene,2025-Q4,False,False,28.1
+577,District F,Health & hygiene,2025-Q3,False,False,29.6
+578,District A,Livelihoods,2025-Q1,True,True,121.8
+579,District E,Agriculture training,2025-Q2,False,True,102.6
+580,District D,Agriculture training,2025-Q4,True,False,25.6
+581,District C,Livelihoods,2025-Q2,False,False,12.6
+582,District B,Health & hygiene,2025-Q2,True,True,163.4
+583,District A,Health & hygiene,2025-Q3,True,True,75.3
+584,District C,Livelihoods,2025-Q2,True,True,103.1
+585,District B,Health & hygiene,2025-Q4,True,True,99.1
+586,District E,Agriculture training,2025-Q4,False,False,8.4
+587,District F,Agriculture training,2025-Q2,False,False,131.3
+588,District C,Livelihoods,2025-Q2,True,False,7.5
+589,District C,Livelihoods,2025-Q3,True,True,88.2
+590,District E,Agriculture training,2025-Q3,True,True,113.7
+591,District A,Agriculture training,2025-Q4,True,False,47.2
+592,District A,Health & hygiene,2025-Q3,True,False,22.0
+593,District B,Livelihoods,2025-Q3,True,True,49.2
+594,District F,Health & hygiene,2025-Q4,False,False,48.0
+595,District C,Agriculture training,2025-Q4,False,False,20.5
+596,District F,Agriculture training,2025-Q1,False,True,84.7
+597,District A,Livelihoods,2025-Q2,True,True,48.9
+598,District E,Health & hygiene,2025-Q1,False,False,55.6
+599,District B,Agriculture training,2025-Q4,True,True,121.6
+600,District B,Agriculture training,2025-Q4,True,False,12.6
+601,District D,Livelihoods,2025-Q3,False,False,38.8
+602,District D,Livelihoods,2025-Q1,False,True,61.8
+603,District E,Agriculture training,2025-Q1,False,False,12.2
+604,District B,Livelihoods,2025-Q3,True,True,106.6
+605,District F,Health & hygiene,2025-Q4,False,False,6.1
+606,District C,Livelihoods,2025-Q1,True,True,105.2
+607,District A,Livelihoods,2025-Q4,True,False,60.4
+608,District A,Agriculture training,2025-Q1,False,False,19.3
+609,District A,Health & hygiene,2025-Q1,True,False,13.8
+610,District A,Livelihoods,2025-Q2,True,True,57.2
+611,District D,Agriculture training,2025-Q3,False,True,151.7
+612,District A,Agriculture training,2025-Q1,False,False,53.8
+613,District D,Agriculture training,2025-Q1,False,False,33.1
+614,District B,Agriculture training,2025-Q3,True,True,79.4
+615,District E,Livelihoods,2025-Q3,False,False,31.5
+616,District F,Agriculture training,2025-Q2,True,True,194.5
+617,District F,Health & hygiene,2025-Q1,False,True,41.0
+618,District B,Livelihoods,2025-Q3,True,False,4.3
+619,District C,Livelihoods,2025-Q3,True,True,100.4
+620,District E,Livelihoods,2025-Q4,False,False,41.9
+621,District E,Livelihoods,2025-Q1,True,False,40.1
+622,District A,Health & hygiene,2025-Q2,True,False,6.4
+623,District D,Health & hygiene,2025-Q3,True,True,39.3
+624,District A,Agriculture training,2025-Q2,False,False,29.2
+625,District D,Livelihoods,2025-Q2,True,True,180.8
+626,District A,Agriculture training,2025-Q2,True,True,141.8
+627,District D,Livelihoods,2025-Q2,False,True,28.4
+628,District F,Livelihoods,2025-Q4,False,True,67.4
+629,District C,Agriculture training,2025-Q3,True,True,105.0
+630,District E,Livelihoods,2025-Q4,True,True,95.8
+631,District B,Agriculture training,2025-Q1,True,True,82.0
+632,District A,Health & hygiene,2025-Q2,True,False,16.2
+633,District D,Health & hygiene,2025-Q1,True,True,64.2
+634,District F,Livelihoods,2025-Q4,False,False,24.8
+635,District E,Agriculture training,2025-Q2,False,False,16.2
+636,District B,Livelihoods,2025-Q3,True,True,62.0
+637,District B,Health & hygiene,2025-Q2,True,True,60.5
+638,District B,Agriculture training,2025-Q4,False,False,58.6
+639,District D,Livelihoods,2025-Q4,False,False,35.0
+640,District D,Livelihoods,2025-Q4,True,True,126.7
+641,District D,Agriculture training,2025-Q4,False,True,236.1
+642,District B,Agriculture training,2025-Q2,True,True,69.5
+643,District E,Agriculture training,2025-Q4,False,True,49.7
+644,District F,Agriculture training,2025-Q1,False,False,34.8
+645,District B,Livelihoods,2025-Q3,True,True,153.7
+646,District C,Livelihoods,2025-Q3,False,False,5.0
+647,District C,Livelihoods,2025-Q4,False,True,76.4
+648,District D,Health & hygiene,2025-Q4,False,True,224.0
+649,District F,Health & hygiene,2025-Q3,False,False,89.2
+650,District D,Health & hygiene,2025-Q4,False,False,39.6
+651,District F,Livelihoods,2025-Q2,False,True,107.7
+652,District B,Livelihoods,2025-Q1,True,False,16.0
+653,District D,Agriculture training,2025-Q1,False,True,104.7
+654,District E,Livelihoods,2025-Q4,False,True,54.3
+655,District F,Agriculture training,2025-Q2,True,True,182.8
+656,District F,Agriculture training,2025-Q4,False,False,19.1
+657,District C,Livelihoods,2025-Q4,True,True,78.2
+658,District D,Agriculture training,2025-Q4,True,True,152.1
+659,District E,Health & hygiene,2025-Q1,False,True,111.0
+660,District A,Agriculture training,2025-Q1,True,True,106.6
+661,District E,Livelihoods,2025-Q3,True,True,80.6
+662,District E,Agriculture training,2025-Q2,False,False,9.3
+663,District D,Livelihoods,2025-Q4,False,True,105.6
+664,District E,Health & hygiene,2025-Q4,True,True,46.0
+665,District E,Livelihoods,2025-Q4,False,True,128.0
+666,District C,Agriculture training,2025-Q3,True,True,100.2
+667,District A,Health & hygiene,2025-Q3,True,True,161.6
+668,District D,Health & hygiene,2025-Q2,False,True,117.1
+669,District D,Livelihoods,2025-Q1,True,True,93.6
+670,District B,Agriculture training,2025-Q4,True,True,77.1
+671,District C,Agriculture training,2025-Q2,False,False,17.3
+672,District B,Agriculture training,2025-Q1,True,True,75.8
+673,District A,Livelihoods,2025-Q4,True,False,30.5
+674,District D,Livelihoods,2025-Q4,False,True,70.6
+675,District C,Livelihoods,2025-Q4,False,True,81.9
+676,District A,Livelihoods,2025-Q3,True,True,120.9
+677,District B,Livelihoods,2025-Q2,False,True,126.0
+678,District D,Livelihoods,2025-Q2,True,False,26.1
+679,District A,Agriculture training,2025-Q4,True,True,113.4
+680,District B,Livelihoods,2025-Q4,True,True,113.1
+681,District B,Health & hygiene,2025-Q1,True,True,53.5
+682,District B,Livelihoods,2025-Q3,True,False,20.3
+683,District F,Agriculture training,2025-Q4,False,True,184.1
+684,District F,Agriculture training,2025-Q1,False,False,7.4
+685,District C,Agriculture training,2025-Q4,True,True,79.3
+686,District D,Agriculture training,2025-Q3,False,False,17.3
+687,District C,Agriculture training,2025-Q1,True,False,34.8
+688,District B,Health & hygiene,2025-Q2,True,True,67.0
+689,District A,Health & hygiene,2025-Q2,True,True,94.1
+690,District E,Agriculture training,2025-Q4,True,False,12.8
+691,District E,Livelihoods,2025-Q3,True,True,68.6
+692,District F,Agriculture training,2025-Q1,False,False,16.1
+693,District C,Agriculture training,2025-Q2,False,False,28.1
+694,District F,Livelihoods,2025-Q2,False,True,77.3
+695,District F,Health & hygiene,2025-Q4,False,True,139.7
+696,District E,Agriculture training,2025-Q3,True,True,67.1
+697,District E,Health & hygiene,2025-Q4,False,False,14.2
+698,District B,Agriculture training,2025-Q2,False,True,89.9
+699,District D,Agriculture training,2025-Q4,True,True,80.0
+700,District D,Health & hygiene,2025-Q2,True,True,141.9
+701,District C,Agriculture training,2025-Q1,True,False,15.1
+702,District D,Agriculture training,2025-Q3,True,True,58.1
+703,District C,Health & hygiene,2025-Q4,True,True,136.1
+704,District A,Agriculture training,2025-Q2,True,True,60.0
+705,District C,Agriculture training,2025-Q2,True,True,70.1
+706,District E,Agriculture training,2025-Q2,False,False,26.8
+707,District F,Livelihoods,2025-Q2,False,True,149.3
+708,District D,Agriculture training,2025-Q3,False,True,167.6
+709,District A,Agriculture training,2025-Q2,True,True,30.2
+710,District D,Livelihoods,2025-Q4,False,False,46.4
+711,District C,Agriculture training,2025-Q1,True,True,149.6
+712,District E,Livelihoods,2025-Q1,True,True,36.6
+713,District E,Livelihoods,2025-Q1,False,False,6.1
+714,District A,Health & hygiene,2025-Q3,True,True,56.2
+715,District F,Agriculture training,2025-Q2,False,False,51.6
+716,District B,Agriculture training,2025-Q3,True,False,47.3
+717,District D,Livelihoods,2025-Q2,False,False,37.5
+718,District F,Health & hygiene,2025-Q3,False,False,13.7
+719,District A,Agriculture training,2025-Q2,True,False,30.3
+720,District B,Livelihoods,2025-Q1,False,False,21.4
+721,District E,Livelihoods,2025-Q4,False,True,38.4
+722,District B,Livelihoods,2025-Q2,True,False,23.4
+723,District D,Agriculture training,2025-Q3,False,False,32.8
+724,District A,Agriculture training,2025-Q2,True,True,50.1
+725,District A,Agriculture training,2025-Q1,True,True,114.1
+726,District B,Livelihoods,2025-Q2,True,False,44.3
+727,District D,Agriculture training,2025-Q2,False,True,53.4
+728,District D,Health & hygiene,2025-Q2,True,False,32.0
+729,District C,Health & hygiene,2025-Q2,False,True,113.4
+730,District A,Health & hygiene,2025-Q4,True,False,21.2
+731,District D,Agriculture training,2025-Q1,False,True,47.7
+732,District B,Livelihoods,2025-Q2,True,True,138.6
+733,District C,Livelihoods,2025-Q3,False,True,75.3
+734,District B,Agriculture training,2025-Q1,True,True,132.0
+735,District A,Agriculture training,2025-Q2,True,False,50.3
+736,District A,Agriculture training,2025-Q1,True,True,71.1
+737,District C,Livelihoods,2025-Q4,True,True,90.2
+738,District E,Agriculture training,2025-Q1,True,True,37.0
+739,District E,Agriculture training,2025-Q3,False,False,9.9
+740,District F,Agriculture training,2025-Q1,True,True,39.1
+741,District B,Agriculture training,2025-Q3,True,True,59.1
+742,District F,Livelihoods,2025-Q4,False,False,28.3
+743,District C,Livelihoods,2025-Q2,True,True,54.5
+744,District C,Health & hygiene,2025-Q1,False,False,42.9
+745,District B,Health & hygiene,2025-Q4,True,True,165.7
+746,District A,Livelihoods,2025-Q2,True,False,9.6
+747,District E,Livelihoods,2025-Q1,False,False,45.6
+748,District C,Agriculture training,2025-Q2,True,False,13.4
+749,District D,Livelihoods,2025-Q3,False,False,26.9
+750,District D,Agriculture training,2025-Q2,True,True,54.9
+751,District C,Livelihoods,2025-Q4,True,True,208.9
+752,District C,Health & hygiene,2025-Q4,False,True,37.2
+753,District A,Health & hygiene,2025-Q4,True,False,26.0
+754,District E,Health & hygiene,2025-Q1,False,True,137.3
+755,District F,Agriculture training,2025-Q1,False,False,27.4
+756,District E,Livelihoods,2025-Q1,False,True,45.5
+757,District C,Livelihoods,2025-Q2,True,True,64.9
+758,District F,Livelihoods,2025-Q3,False,True,63.6
+759,District F,Health & hygiene,2025-Q1,True,True,139.9
+760,District C,Agriculture training,2025-Q3,False,False,5.6
+761,District A,Agriculture training,2025-Q1,True,True,124.4
+762,District B,Livelihoods,2025-Q4,True,False,19.6
+763,District D,Livelihoods,2025-Q1,False,True,106.9
+764,District F,Agriculture training,2025-Q2,True,True,60.3
+765,District C,Livelihoods,2025-Q4,False,True,195.4
+766,District F,Health & hygiene,2025-Q2,False,False,7.4
+767,District A,Agriculture training,2025-Q2,True,True,66.6
+768,District A,Agriculture training,2025-Q1,True,False,58.0
+769,District C,Livelihoods,2025-Q2,True,False,30.4
+770,District B,Livelihoods,2025-Q4,True,True,118.6
+771,District B,Health & hygiene,2025-Q1,True,True,71.6
+772,District D,Health & hygiene,2025-Q3,False,False,26.0
+773,District F,Livelihoods,2025-Q2,False,False,26.1
+774,District E,Livelihoods,2025-Q3,False,False,31.8
+775,District B,Agriculture training,2025-Q2,True,True,61.5
+776,District F,Health & hygiene,2025-Q2,True,True,84.2
+777,District A,Health & hygiene,2025-Q1,True,True,51.5
+778,District A,Agriculture training,2025-Q3,True,True,90.7
+779,District F,Health & hygiene,2025-Q3,False,False,13.8
+780,District B,Agriculture training,2025-Q3,True,True,300.0
+781,District E,Agriculture training,2025-Q3,False,False,39.7
+782,District C,Livelihoods,2025-Q4,True,False,44.0
+783,District D,Health & hygiene,2025-Q1,True,True,91.7
+784,District D,Livelihoods,2025-Q3,False,True,75.6
+785,District D,Livelihoods,2025-Q2,False,False,19.3
+786,District E,Agriculture training,2025-Q2,True,True,50.8
+787,District E,Health & hygiene,2025-Q3,False,False,17.1
+788,District D,Agriculture training,2025-Q1,False,True,54.7
+789,District F,Agriculture training,2025-Q4,False,True,101.9
+790,District D,Health & hygiene,2025-Q4,True,True,136.5
+791,District A,Health & hygiene,2025-Q3,True,True,154.2
+792,District B,Health & hygiene,2025-Q1,True,True,50.6
+793,District A,Livelihoods,2025-Q4,True,True,110.8
+794,District D,Agriculture training,2025-Q2,False,False,26.7
+795,District B,Agriculture training,2025-Q4,True,False,34.3
+796,District D,Livelihoods,2025-Q2,False,False,27.8
+797,District A,Livelihoods,2025-Q4,True,True,27.4
+798,District F,Livelihoods,2025-Q2,False,False,39.9
+799,District E,Livelihoods,2025-Q1,False,False,30.9
+800,District B,Agriculture training,2025-Q3,False,True,99.1
+801,District D,Agriculture training,2025-Q1,True,True,87.5
+802,District A,Agriculture training,2025-Q3,True,True,97.9
+803,District E,Agriculture training,2025-Q4,False,False,16.6
+804,District C,Livelihoods,2025-Q2,True,True,54.3
+805,District D,Livelihoods,2025-Q1,False,False,21.4
+806,District B,Agriculture training,2025-Q3,False,True,77.4
+807,District D,Agriculture training,2025-Q1,True,False,9.1
+808,District C,Livelihoods,2025-Q2,True,True,121.5
+809,District C,Health & hygiene,2025-Q1,True,True,58.9
+810,District B,Health & hygiene,2025-Q1,False,False,12.6
+811,District B,Livelihoods,2025-Q2,True,False,27.7
+812,District E,Health & hygiene,2025-Q4,False,False,63.1
+813,District F,Agriculture training,2025-Q4,False,True,99.6
+814,District E,Agriculture training,2025-Q1,False,True,86.8
+815,District D,Agriculture training,2025-Q2,False,False,33.0
+816,District A,Health & hygiene,2025-Q1,True,True,70.3
+817,District E,Agriculture training,2025-Q4,False,True,33.6
+818,District F,Health & hygiene,2025-Q1,True,True,71.2
+819,District B,Livelihoods,2025-Q2,True,True,82.2
+820,District A,Health & hygiene,2025-Q3,True,True,45.6
+821,District B,Agriculture training,2025-Q3,False,False,76.6
+822,District B,Agriculture training,2025-Q4,True,True,129.0
+823,District C,Agriculture training,2025-Q3,True,True,74.5
+824,District C,Livelihoods,2025-Q3,True,True,56.4
+825,District C,Agriculture training,2025-Q1,True,True,122.4
+826,District C,Health & hygiene,2025-Q3,True,True,132.3
+827,District C,Agriculture training,2025-Q1,True,False,34.2
+828,District B,Agriculture training,2025-Q1,True,True,120.1
+829,District D,Agriculture training,2025-Q4,False,True,121.0
+830,District E,Health & hygiene,2025-Q4,False,True,158.5
+831,District D,Agriculture training,2025-Q1,True,False,32.7
+832,District F,Agriculture training,2025-Q3,False,True,72.2
+833,District A,Health & hygiene,2025-Q4,True,True,72.8
+834,District B,Livelihoods,2025-Q3,True,False,8.9
+835,District A,Agriculture training,2025-Q2,True,True,108.5
+836,District A,Health & hygiene,2025-Q2,True,True,109.3
+837,District B,Agriculture training,2025-Q3,False,True,61.8
+838,District D,Health & hygiene,2025-Q1,True,True,187.8
+839,District B,Livelihoods,2025-Q1,True,False,29.8
+840,District A,Livelihoods,2025-Q1,True,True,138.4
+841,District A,Agriculture training,2025-Q1,True,True,96.0
+842,District F,Livelihoods,2025-Q4,True,True,46.9
+843,District B,Livelihoods,2025-Q3,True,True,67.1
+844,District F,Agriculture training,2025-Q1,False,False,40.3
+845,District D,Health & hygiene,2025-Q4,False,False,9.6
+846,District F,Livelihoods,2025-Q4,True,True,84.2
+847,District A,Agriculture training,2025-Q3,True,True,65.3
+848,District C,Livelihoods,2025-Q3,True,True,221.3
+849,District E,Health & hygiene,2025-Q4,True,False,24.9
+850,District E,Health & hygiene,2025-Q4,False,False,29.1
+851,District B,Livelihoods,2025-Q2,True,True,105.8
+852,District C,Agriculture training,2025-Q4,False,True,164.9
+853,District F,Livelihoods,2025-Q2,False,True,121.9
+854,District C,Agriculture training,2025-Q4,True,True,59.1
+855,District E,Livelihoods,2025-Q2,True,False,28.9
+856,District A,Health & hygiene,2025-Q2,True,False,28.8
+857,District E,Livelihoods,2025-Q1,False,True,57.9
+858,District A,Livelihoods,2025-Q2,True,False,8.9
+859,District D,Health & hygiene,2025-Q1,True,True,41.0
+860,District E,Health & hygiene,2025-Q4,False,False,57.7
+861,District B,Agriculture training,2025-Q4,True,True,67.4
+862,District B,Health & hygiene,2025-Q2,False,True,53.6
+863,District B,Agriculture training,2025-Q4,False,True,75.8
+864,District F,Agriculture training,2025-Q1,False,True,66.1
+865,District F,Livelihoods,2025-Q4,False,False,42.3
+866,District D,Livelihoods,2025-Q3,False,True,42.9
+867,District F,Livelihoods,2025-Q4,False,True,66.8
+868,District D,Agriculture training,2025-Q3,False,True,43.6
+869,District D,Agriculture training,2025-Q4,False,False,35.7
+870,District F,Livelihoods,2025-Q4,True,True,77.8
+871,District C,Agriculture training,2025-Q3,True,True,111.6
+872,District B,Livelihoods,2025-Q2,True,True,55.3
+873,District D,Livelihoods,2025-Q3,True,True,90.1
+874,District A,Livelihoods,2025-Q4,True,False,14.3
+875,District C,Health & hygiene,2025-Q4,True,False,37.0
+876,District B,Agriculture training,2025-Q4,True,True,116.1
+877,District A,Livelihoods,2025-Q4,True,True,109.9
+878,District C,Livelihoods,2025-Q1,True,True,71.4
+879,District D,Livelihoods,2025-Q4,False,True,72.2
+880,District A,Agriculture training,2025-Q4,True,True,120.1
+881,District D,Health & hygiene,2025-Q3,False,False,8.8
+882,District B,Health & hygiene,2025-Q1,True,True,135.4
+883,District A,Health & hygiene,2025-Q3,False,False,16.4
+884,District E,Livelihoods,2025-Q2,False,False,24.9
+885,District C,Health & hygiene,2025-Q4,True,True,142.2
+886,District C,Health & hygiene,2025-Q4,True,False,11.6
+887,District F,Livelihoods,2025-Q2,False,False,30.8
+888,District C,Livelihoods,2025-Q4,False,False,7.8
+889,District F,Health & hygiene,2025-Q4,False,False,20.9
+890,District B,Agriculture training,2025-Q2,True,True,116.3
+891,District D,Health & hygiene,2025-Q2,True,True,51.1
+892,District D,Agriculture training,2025-Q4,False,False,55.0
+893,District B,Livelihoods,2025-Q1,True,True,107.8
+894,District F,Livelihoods,2025-Q2,False,True,55.6
+895,District F,Agriculture training,2025-Q4,False,False,41.0
+896,District B,Agriculture training,2025-Q4,True,True,112.2
+897,District C,Health & hygiene,2025-Q3,True,False,70.5
+898,District F,Health & hygiene,2025-Q4,True,False,13.6
+899,District A,Health & hygiene,2025-Q2,True,True,103.1
+900,District E,Livelihoods,2025-Q3,False,False,13.8
+901,District B,Agriculture training,2025-Q4,True,True,136.5
+902,District D,Health & hygiene,2025-Q4,True,False,13.3
+903,District C,Health & hygiene,2025-Q1,True,False,28.5
+904,District D,Health & hygiene,2025-Q1,True,True,45.7
+905,District B,Health & hygiene,2025-Q2,True,True,118.9
+906,District D,Agriculture training,2025-Q1,False,False,21.3
+907,District D,Livelihoods,2025-Q4,True,True,89.6
+908,District A,Health & hygiene,2025-Q4,True,True,48.9
+909,District E,Health & hygiene,2025-Q2,False,True,166.9
+910,District D,Health & hygiene,2025-Q2,False,True,69.2
+911,District C,Livelihoods,2025-Q4,True,False,39.0
+912,District F,Agriculture training,2025-Q4,False,False,28.7
+913,District B,Agriculture training,2025-Q4,True,True,48.8
+914,District E,Health & hygiene,2025-Q1,False,False,20.2
+915,District B,Agriculture training,2025-Q1,True,False,50.6
+916,District C,Agriculture training,2025-Q3,True,True,127.5
+917,District F,Livelihoods,2025-Q4,True,False,6.5
+918,District C,Health & hygiene,2025-Q2,True,True,47.4
+919,District C,Agriculture training,2025-Q2,True,True,93.7
+920,District F,Agriculture training,2025-Q1,False,True,145.4
+921,District B,Agriculture training,2025-Q4,True,True,149.3
+922,District A,Livelihoods,2025-Q2,False,True,52.0
+923,District A,Agriculture training,2025-Q2,True,True,82.0
+924,District B,Agriculture training,2025-Q1,True,False,32.7
+925,District D,Livelihoods,2025-Q1,False,False,25.3
+926,District F,Livelihoods,2025-Q3,False,False,21.3
+927,District F,Agriculture training,2025-Q3,False,False,57.0
+928,District D,Livelihoods,2025-Q3,False,False,29.8
+929,District B,Agriculture training,2025-Q4,True,True,144.5
+930,District E,Health & hygiene,2025-Q4,False,False,16.1
+931,District C,Livelihoods,2025-Q1,False,True,69.2
+932,District D,Livelihoods,2025-Q2,True,True,50.1
+933,District E,Livelihoods,2025-Q2,False,True,153.3
+934,District A,Livelihoods,2025-Q2,False,False,32.4
+935,District D,Agriculture training,2025-Q3,False,True,390.0
+936,District D,Livelihoods,2025-Q4,False,False,14.4
+937,District B,Livelihoods,2025-Q1,False,False,34.5
+938,District D,Agriculture training,2025-Q1,True,True,90.0
+939,District E,Livelihoods,2025-Q2,False,False,12.8
+940,District A,Agriculture training,2025-Q4,True,False,17.4
+941,District F,Agriculture training,2025-Q2,True,True,100.0
+942,District C,Livelihoods,2025-Q4,True,False,44.3
+943,District E,Agriculture training,2025-Q3,True,False,37.2
+944,District F,Health & hygiene,2025-Q4,False,False,15.5
+945,District F,Livelihoods,2025-Q4,False,False,61.1
+946,District A,Agriculture training,2025-Q1,False,False,41.4
+947,District D,Agriculture training,2025-Q4,False,True,81.8
+948,District A,Agriculture training,2025-Q3,False,True,248.1
+949,District F,Agriculture training,2025-Q1,False,True,36.0
+950,District A,Health & hygiene,2025-Q1,True,True,191.3
+951,District A,Agriculture training,2025-Q2,True,True,93.1
+952,District E,Agriculture training,2025-Q4,True,True,84.3
+953,District C,Livelihoods,2025-Q1,True,True,137.7
+954,District F,Agriculture training,2025-Q2,False,False,62.2
+955,District B,Livelihoods,2025-Q1,True,True,79.5
+956,District A,Agriculture training,2025-Q1,True,False,27.3
+957,District C,Livelihoods,2025-Q3,True,False,15.3
+958,District F,Livelihoods,2025-Q1,False,False,21.9
+959,District D,Livelihoods,2025-Q2,True,True,53.0
+960,District B,Health & hygiene,2025-Q4,True,True,57.9
+961,District E,Agriculture training,2025-Q3,False,False,65.1
+962,District D,Health & hygiene,2025-Q3,False,False,18.3
+963,District D,Agriculture training,2025-Q2,True,True,116.7
+964,District E,Agriculture training,2025-Q4,False,False,20.2
+965,District E,Livelihoods,2025-Q2,False,False,20.4
+966,District A,Agriculture training,2025-Q4,True,False,28.2
+967,District A,Health & hygiene,2025-Q4,True,False,17.0
+968,District C,Health & hygiene,2025-Q3,False,False,32.1
+969,District C,Agriculture training,2025-Q3,False,True,53.7
+970,District F,Health & hygiene,2025-Q1,True,False,18.0
+971,District B,Agriculture training,2025-Q3,True,True,114.8
+972,District C,Agriculture training,2025-Q4,True,True,399.1
+973,District B,Agriculture training,2025-Q2,True,False,15.5
+974,District E,Agriculture training,2025-Q2,True,False,32.7
+975,District B,Agriculture training,2025-Q2,True,True,28.9
+976,District C,Health & hygiene,2025-Q3,True,False,19.8
+977,District E,Agriculture training,2025-Q1,False,False,69.0
+978,District F,Health & hygiene,2025-Q3,True,True,72.8
+979,District A,Agriculture training,2025-Q3,False,False,47.7
+980,District C,Livelihoods,2025-Q4,True,False,27.5
+981,District E,Agriculture training,2025-Q4,False,False,15.3
+982,District E,Health & hygiene,2025-Q1,False,False,19.4
+983,District E,Agriculture training,2025-Q4,True,True,88.8
+984,District A,Livelihoods,2025-Q3,False,False,35.7
+985,District D,Agriculture training,2025-Q2,False,False,13.1
+986,District C,Livelihoods,2025-Q2,True,True,89.1
+987,District B,Agriculture training,2025-Q1,True,True,62.2
+988,District A,Health & hygiene,2025-Q2,True,False,29.7
+989,District F,Agriculture training,2025-Q4,False,True,90.5
+990,District C,Agriculture training,2025-Q2,True,False,23.3
+991,District E,Health & hygiene,2025-Q3,False,True,35.6
+992,District C,Health & hygiene,2025-Q3,True,True,268.9
+993,District F,Agriculture training,2025-Q2,False,True,49.5
+994,District B,Agriculture training,2025-Q4,True,False,31.1
+995,District F,Agriculture training,2025-Q4,True,False,22.0
+996,District C,Agriculture training,2025-Q3,True,True,148.6
+997,District F,Agriculture training,2025-Q4,True,False,12.9
+998,District E,Health & hygiene,2025-Q3,False,False,28.0
+999,District D,Health & hygiene,2025-Q1,False,True,26.0
+1000,District D,Health & hygiene,2025-Q1,True,False,12.1
+1001,District A,Livelihoods,2025-Q4,True,True,160.7
+1002,District B,Agriculture training,2025-Q3,False,True,129.4
+1003,District A,Agriculture training,2025-Q1,True,True,38.6
+1004,District E,Agriculture training,2025-Q4,False,True,113.8
+1005,District A,Agriculture training,2025-Q4,True,True,58.4
+1006,District E,Agriculture training,2025-Q3,False,True,57.8
+1007,District A,Livelihoods,2025-Q1,True,False,38.4
+1008,District C,Livelihoods,2025-Q3,True,False,13.4
+1009,District E,Livelihoods,2025-Q1,False,True,187.1
+1010,District C,Livelihoods,2025-Q3,True,False,37.0
+1011,District F,Agriculture training,2025-Q4,False,False,19.2
+1012,District B,Agriculture training,2025-Q2,False,False,38.6
+1013,District C,Livelihoods,2025-Q2,False,False,10.9
+1014,District F,Livelihoods,2025-Q2,False,False,14.5
+1015,District D,Agriculture training,2025-Q2,False,False,13.8
+1016,District C,Livelihoods,2025-Q2,False,True,82.2
+1017,District C,Agriculture training,2025-Q4,True,True,34.8
+1018,District B,Health & hygiene,2025-Q2,True,True,84.2
+1019,District E,Agriculture training,2025-Q2,True,True,82.7
+1020,District F,Health & hygiene,2025-Q4,False,True,110.9
+1021,District D,Livelihoods,2025-Q4,False,True,44.7
+1022,District B,Agriculture training,2025-Q2,True,True,60.5
+1023,District A,Livelihoods,2025-Q2,True,True,85.0
+1024,District B,Health & hygiene,2025-Q2,True,True,43.8
+1025,District F,Health & hygiene,2025-Q1,True,True,49.4
+1026,District C,Agriculture training,2025-Q1,False,True,40.3
+1027,District F,Health & hygiene,2025-Q3,False,True,120.4
+1028,District D,Livelihoods,2025-Q2,True,True,130.2
+1029,District E,Livelihoods,2025-Q3,True,True,130.0
+1030,District D,Agriculture training,2025-Q3,False,True,62.1
+1031,District E,Agriculture training,2025-Q1,True,True,66.8
+1032,District C,Agriculture training,2025-Q1,False,False,18.1
+1033,District C,Livelihoods,2025-Q3,True,True,81.3
+1034,District E,Agriculture training,2025-Q2,True,False,4.8
+1035,District C,Agriculture training,2025-Q3,True,True,95.9
+1036,District A,Health & hygiene,2025-Q2,True,True,75.4
+1037,District B,Agriculture training,2025-Q3,True,True,63.6
+1038,District F,Agriculture training,2025-Q2,False,True,145.0
+1039,District B,Health & hygiene,2025-Q1,True,True,167.5
+1040,District C,Livelihoods,2025-Q3,False,False,28.9
+1041,District C,Agriculture training,2025-Q1,True,True,95.3
+1042,District C,Livelihoods,2025-Q3,True,False,16.0
+1043,District D,Health & hygiene,2025-Q2,True,True,77.1
+1044,District C,Agriculture training,2025-Q1,True,True,53.4
+1045,District F,Livelihoods,2025-Q2,True,True,115.0
+1046,District B,Agriculture training,2025-Q4,True,True,96.5
+1047,District D,Agriculture training,2025-Q1,False,False,35.1
+1048,District E,Agriculture training,2025-Q1,True,False,32.7
+1049,District F,Health & hygiene,2025-Q3,True,False,26.5
+1050,District C,Agriculture training,2025-Q4,True,True,97.1
+1051,District E,Livelihoods,2025-Q3,False,True,75.3
+1052,District A,Agriculture training,2025-Q4,True,False,30.9
+1053,District D,Livelihoods,2025-Q3,False,True,57.9
+1054,District C,Health & hygiene,2025-Q2,False,True,127.0
+1055,District F,Livelihoods,2025-Q3,False,False,22.2
+1056,District C,Agriculture training,2025-Q3,True,True,233.4
+1057,District C,Health & hygiene,2025-Q1,True,True,53.6
+1058,District C,Livelihoods,2025-Q2,True,True,66.3
+1059,District C,Livelihoods,2025-Q3,True,False,16.4
+1060,District A,Agriculture training,2025-Q2,True,False,25.2
+1061,District C,Agriculture training,2025-Q3,True,False,18.5
+1062,District F,Agriculture training,2025-Q4,False,True,244.7
+1063,District D,Health & hygiene,2025-Q1,False,True,198.4
+1064,District A,Livelihoods,2025-Q3,True,False,7.3
+1065,District F,Health & hygiene,2025-Q1,True,True,83.4
+1066,District E,Livelihoods,2025-Q3,False,False,92.9
+1067,District A,Agriculture training,2025-Q4,True,True,136.3
+1068,District C,Agriculture training,2025-Q4,True,True,55.8
+1069,District D,Agriculture training,2025-Q3,False,False,38.8
+1070,District C,Health & hygiene,2025-Q4,True,True,60.4
+1071,District C,Agriculture training,2025-Q2,False,False,31.9
+1072,District E,Agriculture training,2025-Q3,False,True,41.7
+1073,District F,Agriculture training,2025-Q4,True,True,95.4
+1074,District A,Livelihoods,2025-Q4,True,True,84.4
+1075,District B,Agriculture training,2025-Q4,True,True,110.2
+1076,District C,Livelihoods,2025-Q4,False,False,9.2
+1077,District A,Agriculture training,2025-Q1,True,False,27.1
+1078,District C,Health & hygiene,2025-Q3,True,False,32.0
+1079,District C,Agriculture training,2025-Q2,False,False,32.8
+1080,District C,Agriculture training,2025-Q4,False,False,27.5
+1081,District D,Livelihoods,2025-Q1,False,True,123.4
+1082,District A,Agriculture training,2025-Q4,True,True,99.0
+1083,District C,Livelihoods,2025-Q4,True,True,297.5
+1084,District A,Livelihoods,2025-Q2,False,True,144.6
+1085,District E,Livelihoods,2025-Q2,False,False,70.9
+1086,District C,Livelihoods,2025-Q2,True,True,43.9
+1087,District B,Livelihoods,2025-Q1,True,True,116.4
+1088,District C,Livelihoods,2025-Q1,True,True,137.3
+1089,District F,Agriculture training,2025-Q2,False,False,28.0
+1090,District C,Agriculture training,2025-Q3,True,True,204.3
+1091,District B,Health & hygiene,2025-Q1,True,True,57.7
+1092,District A,Agriculture training,2025-Q4,True,False,42.7
+1093,District D,Health & hygiene,2025-Q4,True,True,53.3
+1094,District C,Agriculture training,2025-Q2,True,True,82.7
+1095,District F,Agriculture training,2025-Q1,True,True,132.4
+1096,District E,Livelihoods,2025-Q2,False,False,39.0
+1097,District C,Agriculture training,2025-Q4,True,True,92.3
+1098,District E,Agriculture training,2025-Q2,True,False,23.9
+1099,District E,Livelihoods,2025-Q3,False,True,65.4
+1100,District E,Health & hygiene,2025-Q3,False,False,13.1
+1101,District D,Agriculture training,2025-Q4,False,False,145.8
+1102,District A,Health & hygiene,2025-Q2,True,True,142.4
+1103,District A,Health & hygiene,2025-Q1,True,False,24.3
+1104,District C,Agriculture training,2025-Q3,True,True,46.9
+1105,District D,Agriculture training,2025-Q2,False,False,30.6
+1106,District C,Livelihoods,2025-Q1,False,False,9.9
+1107,District D,Agriculture training,2025-Q4,False,False,47.6
+1108,District E,Health & hygiene,2025-Q1,True,True,66.2
+1109,District E,Agriculture training,2025-Q1,False,False,22.0
+1110,District D,Agriculture training,2025-Q4,True,True,104.3
+1111,District F,Agriculture training,2025-Q4,True,False,20.8
+1112,District E,Agriculture training,2025-Q3,True,False,24.0
+1113,District F,Agriculture training,2025-Q3,False,False,33.7
+1114,District E,Agriculture training,2025-Q1,False,False,47.9
+1115,District E,Health & hygiene,2025-Q1,False,False,65.9
+1116,District A,Agriculture training,2025-Q4,True,False,27.4
+1117,District F,Agriculture training,2025-Q2,False,True,97.1
+1118,District F,Agriculture training,2025-Q4,False,False,43.3
+1119,District F,Agriculture training,2025-Q1,False,False,10.8
+1120,District D,Livelihoods,2025-Q2,True,False,47.9
+1121,District B,Agriculture training,2025-Q1,True,True,77.8
+1122,District D,Livelihoods,2025-Q1,True,True,44.8
+1123,District E,Livelihoods,2025-Q3,False,False,14.1
+1124,District B,Livelihoods,2025-Q4,False,False,10.3
+1125,District A,Agriculture training,2025-Q1,False,True,118.8
+1126,District F,Agriculture training,2025-Q1,False,False,28.5
+1127,District E,Health & hygiene,2025-Q4,False,False,11.0
+1128,District F,Agriculture training,2025-Q3,False,False,51.3
+1129,District F,Livelihoods,2025-Q1,False,True,310.3
+1130,District C,Health & hygiene,2025-Q3,False,False,22.2
+1131,District C,Livelihoods,2025-Q2,True,False,19.2
+1132,District C,Agriculture training,2025-Q4,False,True,102.6
+1133,District A,Health & hygiene,2025-Q2,True,False,29.9
+1134,District A,Agriculture training,2025-Q1,True,True,173.3
+1135,District E,Agriculture training,2025-Q3,False,False,21.5
+1136,District E,Health & hygiene,2025-Q3,False,True,87.5
+1137,District A,Health & hygiene,2025-Q1,True,True,31.4
+1138,District D,Agriculture training,2025-Q3,False,False,36.1
+1139,District D,Agriculture training,2025-Q1,True,True,82.9
+1140,District B,Agriculture training,2025-Q4,True,True,66.6
+1141,District F,Livelihoods,2025-Q1,True,False,61.3
+1142,District E,Agriculture training,2025-Q2,False,False,11.3
+1143,District B,Livelihoods,2025-Q3,True,False,17.7
+1144,District D,Livelihoods,2025-Q1,True,True,109.0
+1145,District D,Health & hygiene,2025-Q3,False,True,142.2
+1146,District F,Livelihoods,2025-Q3,False,False,39.1
+1147,District D,Agriculture training,2025-Q3,False,True,56.7
+1148,District E,Health & hygiene,2025-Q3,False,False,17.7
+1149,District F,Health & hygiene,2025-Q4,False,False,35.0
+1150,District A,Agriculture training,2025-Q2,True,False,29.8
+1151,District A,Agriculture training,2025-Q4,True,False,27.7
+1152,District B,Livelihoods,2025-Q1,False,True,55.1
+1153,District A,Livelihoods,2025-Q4,True,True,68.5
+1154,District F,Agriculture training,2025-Q3,False,True,147.2
+1155,District F,Agriculture training,2025-Q2,False,False,39.2
+1156,District A,Livelihoods,2025-Q4,True,True,55.6
+1157,District E,Health & hygiene,2025-Q1,False,True,86.2
+1158,District A,Livelihoods,2025-Q3,False,False,16.2
+1159,District C,Livelihoods,2025-Q1,True,True,183.0
+1160,District F,Health & hygiene,2025-Q3,False,False,40.2
+1161,District B,Health & hygiene,2025-Q2,True,True,199.5
+1162,District E,Livelihoods,2025-Q4,False,False,16.4
+1163,District B,Health & hygiene,2025-Q1,True,False,47.4
+1164,District B,Agriculture training,2025-Q4,True,True,63.2
+1165,District B,Health & hygiene,2025-Q2,True,True,81.7
+1166,District C,Health & hygiene,2025-Q3,False,False,16.1
+1167,District E,Livelihoods,2025-Q1,True,True,235.1
+1168,District A,Livelihoods,2025-Q4,False,True,104.0
+1169,District F,Livelihoods,2025-Q3,False,True,79.0
+1170,District A,Health & hygiene,2025-Q4,False,True,87.5
+1171,District F,Health & hygiene,2025-Q1,True,True,53.1
+1172,District A,Agriculture training,2025-Q3,True,False,21.1
+1173,District E,Livelihoods,2025-Q3,False,True,142.2
+1174,District D,Health & hygiene,2025-Q3,False,False,4.7
+1175,District C,Agriculture training,2025-Q1,True,True,158.5
+1176,District D,Health & hygiene,2025-Q2,False,False,4.2
+1177,District C,Livelihoods,2025-Q4,True,False,20.3
+1178,District A,Livelihoods,2025-Q1,True,True,29.3
+1179,District E,Livelihoods,2025-Q2,False,False,60.4
+1180,District F,Agriculture training,2025-Q1,True,True,80.1
+1181,District A,Livelihoods,2025-Q2,True,True,45.4
+1182,District C,Agriculture training,2025-Q3,False,True,75.2
+1183,District D,Health & hygiene,2025-Q1,False,True,103.7
+1184,District D,Agriculture training,2025-Q4,True,True,52.4
+1185,District D,Livelihoods,2025-Q2,False,True,99.1
+1186,District D,Livelihoods,2025-Q4,False,False,58.0
+1187,District D,Agriculture training,2025-Q2,True,True,97.5
+1188,District B,Agriculture training,2025-Q2,True,False,52.0
+1189,District B,Health & hygiene,2025-Q2,True,True,51.5
+1190,District E,Agriculture training,2025-Q2,True,True,67.5
+1191,District F,Agriculture training,2025-Q3,False,False,21.7
+1192,District C,Livelihoods,2025-Q4,False,False,39.6
+1193,District A,Agriculture training,2025-Q4,False,True,26.4
+1194,District C,Health & hygiene,2025-Q1,False,True,225.5
+1195,District A,Livelihoods,2025-Q2,True,False,29.6
+1196,District A,Health & hygiene,2025-Q3,False,False,25.5
+1197,District E,Livelihoods,2025-Q2,True,False,33.2
+1198,District B,Health & hygiene,2025-Q4,True,True,43.2
+1199,District B,Agriculture training,2025-Q2,True,True,89.3
+1200,District C,Agriculture training,2025-Q2,True,True,52.9
+1201,District F,Agriculture training,2025-Q2,False,True,112.5
+1202,District E,Livelihoods,2025-Q3,False,False,24.1
+1203,District F,Livelihoods,2025-Q3,False,True,65.6
+1204,District C,Health & hygiene,2025-Q4,False,True,130.6
+1205,District A,Agriculture training,2025-Q4,True,False,36.6
+1206,District D,Health & hygiene,2025-Q2,False,True,105.2
+1207,District F,Agriculture training,2025-Q1,False,False,32.3
+1208,District E,Agriculture training,2025-Q1,False,False,35.1
+1209,District B,Livelihoods,2025-Q4,True,True,107.0
+1210,District C,Agriculture training,2025-Q4,False,True,97.9
+1211,District B,Livelihoods,2025-Q2,True,True,126.4
+1212,District A,Agriculture training,2025-Q1,True,False,27.3
+1213,District A,Health & hygiene,2025-Q3,True,True,88.9
+1214,District D,Health & hygiene,2025-Q3,False,False,38.0
+1215,District B,Agriculture training,2025-Q1,True,True,108.7
+1216,District F,Health & hygiene,2025-Q3,False,False,26.2
+1217,District E,Health & hygiene,2025-Q3,False,True,65.0
+1218,District A,Health & hygiene,2025-Q4,False,False,24.5
+1219,District E,Livelihoods,2025-Q3,False,False,14.1
+1220,District C,Health & hygiene,2025-Q1,True,False,102.6
+1221,District E,Health & hygiene,2025-Q1,False,True,133.1
+1222,District D,Health & hygiene,2025-Q1,False,False,28.1
+1223,District F,Agriculture training,2025-Q1,False,False,16.4
+1224,District C,Agriculture training,2025-Q3,True,True,97.4
+1225,District B,Health & hygiene,2025-Q4,True,True,82.8
+1226,District A,Agriculture training,2025-Q3,True,False,30.5
+1227,District B,Livelihoods,2025-Q3,True,True,195.2
+1228,District D,Agriculture training,2025-Q2,False,True,55.1
+1229,District A,Livelihoods,2025-Q4,True,False,112.8
+1230,District A,Health & hygiene,2025-Q1,True,True,109.7
+1231,District A,Agriculture training,2025-Q2,True,True,123.4
+1232,District A,Livelihoods,2025-Q3,True,True,51.2
+1233,District C,Health & hygiene,2025-Q3,True,True,54.2
+1234,District C,Livelihoods,2025-Q4,True,False,39.8
+1235,District A,Health & hygiene,2025-Q4,False,False,44.9
+1236,District B,Livelihoods,2025-Q1,False,True,73.1
+1237,District C,Agriculture training,2025-Q4,True,False,11.5
+1238,District D,Agriculture training,2025-Q4,True,False,25.0
+1239,District D,Agriculture training,2025-Q2,False,False,14.9
+1240,District F,Agriculture training,2025-Q3,True,True,41.5
+1241,District A,Livelihoods,2025-Q4,True,True,113.7
+1242,District B,Agriculture training,2025-Q3,True,False,20.2
+1243,District A,Health & hygiene,2025-Q1,True,False,8.8
+1244,District F,Agriculture training,2025-Q4,False,True,73.4
+1245,District E,Livelihoods,2025-Q4,False,True,108.1
+1246,District C,Agriculture training,2025-Q3,False,False,37.4
+1247,District A,Livelihoods,2025-Q1,True,True,47.6
+1248,District F,Agriculture training,2025-Q2,False,False,82.2
+1249,District B,Livelihoods,2025-Q4,True,False,39.3
+1250,District D,Livelihoods,2025-Q4,False,False,11.1
+1251,District C,Agriculture training,2025-Q3,True,True,134.9
+1252,District E,Agriculture training,2025-Q2,True,False,57.3
+1253,District E,Livelihoods,2025-Q1,False,False,18.4
+1254,District F,Agriculture training,2025-Q1,False,True,129.6
+1255,District A,Agriculture training,2025-Q2,True,True,193.0
+1256,District F,Health & hygiene,2025-Q4,False,True,219.8
+1257,District D,Agriculture training,2025-Q1,False,False,49.1
+1258,District A,Health & hygiene,2025-Q1,False,False,13.1
+1259,District E,Health & hygiene,2025-Q2,False,False,20.8
+1260,District F,Agriculture training,2025-Q3,True,True,62.3
+1261,District D,Agriculture training,2025-Q3,True,False,16.9
+1262,District A,Health & hygiene,2025-Q4,False,False,17.7
+1263,District F,Livelihoods,2025-Q1,False,False,36.8
+1264,District E,Agriculture training,2025-Q2,False,False,39.4
+1265,District D,Livelihoods,2025-Q3,True,True,210.6
+1266,District A,Agriculture training,2025-Q4,True,False,81.1
+1267,District C,Livelihoods,2025-Q2,False,False,25.8
+1268,District B,Health & hygiene,2025-Q1,False,True,56.7
+1269,District F,Health & hygiene,2025-Q4,False,False,36.9
+1270,District A,Health & hygiene,2025-Q4,True,True,81.5
+1271,District F,Agriculture training,2025-Q2,False,False,27.9
+1272,District D,Health & hygiene,2025-Q4,True,True,204.6
+1273,District E,Livelihoods,2025-Q4,False,True,59.6
+1274,District B,Livelihoods,2025-Q1,True,True,104.5
+1275,District D,Livelihoods,2025-Q1,False,False,40.1
+1276,District D,Health & hygiene,2025-Q1,True,False,45.1
+1277,District B,Agriculture training,2025-Q4,True,True,89.4
+1278,District B,Livelihoods,2025-Q3,True,False,66.6
+1279,District E,Health & hygiene,2025-Q1,False,False,35.8
+1280,District C,Livelihoods,2025-Q1,False,False,18.1
+1281,District F,Health & hygiene,2025-Q2,False,False,25.8
+1282,District F,Health & hygiene,2025-Q2,False,True,195.9
+1283,District B,Health & hygiene,2025-Q3,True,False,20.5
+1284,District D,Health & hygiene,2025-Q4,False,False,58.8
+1285,District E,Health & hygiene,2025-Q1,False,False,66.7
+1286,District C,Agriculture training,2025-Q4,False,False,13.9
+1287,District B,Livelihoods,2025-Q3,True,True,78.1
+1288,District E,Livelihoods,2025-Q3,False,True,148.9
+1289,District E,Agriculture training,2025-Q1,False,True,48.7
+1290,District F,Livelihoods,2025-Q2,False,False,11.3
+1291,District B,Agriculture training,2025-Q3,True,True,65.2
+1292,District C,Agriculture training,2025-Q3,True,True,56.4
+1293,District D,Health & hygiene,2025-Q4,False,True,236.2
+1294,District A,Agriculture training,2025-Q2,True,True,106.7
+1295,District C,Livelihoods,2025-Q1,True,True,52.8
+1296,District B,Livelihoods,2025-Q3,True,True,44.5
+1297,District C,Livelihoods,2025-Q1,True,True,147.8
+1298,District A,Health & hygiene,2025-Q1,True,True,93.0
+1299,District C,Agriculture training,2025-Q4,True,True,118.7
+1300,District C,Health & hygiene,2025-Q4,True,True,84.6
+1301,District A,Livelihoods,2025-Q1,False,False,12.8
+1302,District E,Health & hygiene,2025-Q4,False,True,64.5
+1303,District B,Health & hygiene,2025-Q4,True,True,442.8
+1304,District E,Health & hygiene,2025-Q2,False,True,142.6
+1305,District E,Agriculture training,2025-Q1,False,False,33.9
+1306,District A,Agriculture training,2025-Q1,True,True,169.8
+1307,District E,Livelihoods,2025-Q4,True,True,60.5
+1308,District A,Livelihoods,2025-Q3,True,True,152.5
+1309,District B,Livelihoods,2025-Q4,True,False,40.9
+1310,District C,Agriculture training,2025-Q4,False,False,61.7
+1311,District A,Agriculture training,2025-Q4,True,True,182.9
+1312,District F,Agriculture training,2025-Q2,False,False,49.3
+1313,District E,Health & hygiene,2025-Q1,False,False,11.7
+1314,District C,Agriculture training,2025-Q2,True,True,104.3
+1315,District D,Agriculture training,2025-Q1,True,False,26.9
+1316,District D,Livelihoods,2025-Q2,False,False,49.1
+1317,District E,Health & hygiene,2025-Q1,False,False,22.0
+1318,District B,Agriculture training,2025-Q3,True,True,79.0
+1319,District D,Livelihoods,2025-Q2,False,True,59.9
+1320,District D,Livelihoods,2025-Q1,False,False,28.2
+1321,District E,Agriculture training,2025-Q3,True,True,68.7
+1322,District D,Livelihoods,2025-Q1,False,False,44.6
+1323,District B,Agriculture training,2025-Q3,False,True,59.6
+1324,District C,Health & hygiene,2025-Q2,False,True,257.5
+1325,District F,Livelihoods,2025-Q3,False,True,62.6
+1326,District D,Health & hygiene,2025-Q3,False,False,24.3
+1327,District F,Agriculture training,2025-Q1,False,False,72.9
+1328,District E,Agriculture training,2025-Q1,False,False,32.0
+1329,District A,Livelihoods,2025-Q1,True,True,158.5
+1330,District C,Livelihoods,2025-Q4,True,False,41.2
+1331,District A,Agriculture training,2025-Q4,True,True,44.5
+1332,District C,Agriculture training,2025-Q3,True,True,101.0
+1333,District F,Agriculture training,2025-Q3,False,True,61.4
+1334,District A,Health & hygiene,2025-Q2,True,True,160.3
+1335,District C,Livelihoods,2025-Q2,True,True,44.1
+1336,District B,Agriculture training,2025-Q2,True,True,39.5
+1337,District C,Health & hygiene,2025-Q1,False,False,26.7
+1338,District A,Health & hygiene,2025-Q4,True,True,75.5
+1339,District D,Agriculture training,2025-Q1,False,False,25.9
+1340,District A,Livelihoods,2025-Q4,True,True,173.0
+1341,District E,Livelihoods,2025-Q3,False,False,30.6
+1342,District A,Health & hygiene,2025-Q2,True,False,32.0
+1343,District A,Health & hygiene,2025-Q4,True,False,9.4
+1344,District F,Health & hygiene,2025-Q2,False,True,62.1
+1345,District D,Agriculture training,2025-Q4,True,True,141.6
+1346,District E,Agriculture training,2025-Q2,False,True,94.5
+1347,District C,Livelihoods,2025-Q1,True,True,128.3
+1348,District D,Agriculture training,2025-Q3,False,False,11.4
+1349,District D,Agriculture training,2025-Q3,False,False,26.4
+1350,District E,Agriculture training,2025-Q2,False,True,52.4
+1351,District B,Agriculture training,2025-Q3,True,False,31.4
+1352,District B,Livelihoods,2025-Q2,True,True,65.7
+1353,District D,Health & hygiene,2025-Q4,True,True,146.7
+1354,District C,Livelihoods,2025-Q3,True,False,35.4
+1355,District F,Health & hygiene,2025-Q4,False,False,14.8
+1356,District D,Agriculture training,2025-Q4,True,False,14.2
+1357,District F,Health & hygiene,2025-Q2,False,True,92.9
+1358,District F,Agriculture training,2025-Q3,False,False,18.4
+1359,District D,Agriculture training,2025-Q2,True,True,48.8
+1360,District D,Livelihoods,2025-Q4,False,True,124.6
+1361,District A,Agriculture training,2025-Q2,True,True,108.8
+1362,District A,Agriculture training,2025-Q2,True,False,16.5
+1363,District E,Health & hygiene,2025-Q2,True,True,116.0
+1364,District A,Agriculture training,2025-Q1,True,True,97.5
+1365,District E,Agriculture training,2025-Q1,True,True,192.2
+1366,District A,Agriculture training,2025-Q1,True,True,87.0
+1367,District D,Agriculture training,2025-Q4,False,False,43.4
+1368,District E,Agriculture training,2025-Q4,False,False,19.8
+1369,District D,Livelihoods,2025-Q4,False,False,31.6
+1370,District F,Livelihoods,2025-Q2,True,False,21.6
+1371,District E,Livelihoods,2025-Q1,False,True,155.5
+1372,District A,Livelihoods,2025-Q2,True,True,93.4
+1373,District D,Agriculture training,2025-Q3,False,True,376.6
+1374,District E,Agriculture training,2025-Q4,False,True,98.3
+1375,District C,Health & hygiene,2025-Q1,False,False,49.7
+1376,District A,Health & hygiene,2025-Q1,True,True,108.5
+1377,District C,Health & hygiene,2025-Q4,True,True,226.7
+1378,District F,Livelihoods,2025-Q1,False,False,23.6
+1379,District C,Health & hygiene,2025-Q2,True,False,21.7
+1380,District E,Agriculture training,2025-Q4,True,False,8.2
+1381,District F,Agriculture training,2025-Q1,True,True,162.9
+1382,District C,Agriculture training,2025-Q1,False,False,35.3
+1383,District D,Agriculture training,2025-Q3,False,True,101.6
+1384,District C,Health & hygiene,2025-Q2,True,True,79.1
+1385,District D,Health & hygiene,2025-Q4,False,False,25.2
+1386,District B,Health & hygiene,2025-Q3,False,True,91.8
+1387,District F,Livelihoods,2025-Q1,True,True,72.3
+1388,District F,Livelihoods,2025-Q3,False,False,169.7
+1389,District E,Health & hygiene,2025-Q1,False,False,24.5
+1390,District B,Agriculture training,2025-Q4,True,True,105.1
+1391,District A,Health & hygiene,2025-Q1,True,True,73.0
+1392,District B,Agriculture training,2025-Q1,True,True,77.2
+1393,District D,Health & hygiene,2025-Q3,False,False,13.2
+1394,District E,Health & hygiene,2025-Q3,False,True,187.2
+1395,District E,Livelihoods,2025-Q3,False,True,129.3
+1396,District D,Livelihoods,2025-Q2,False,False,27.6
+1397,District A,Health & hygiene,2025-Q1,True,True,66.3
+1398,District D,Agriculture training,2025-Q3,False,False,39.2
+1399,District C,Agriculture training,2025-Q2,False,False,29.3
+1400,District D,Agriculture training,2025-Q4,False,False,14.9
+1401,District E,Livelihoods,2025-Q1,False,True,187.6
+1402,District A,Health & hygiene,2025-Q2,True,True,138.3
+1403,District C,Agriculture training,2025-Q4,True,False,24.4
+1404,District A,Agriculture training,2025-Q3,True,True,137.4
+1405,District D,Agriculture training,2025-Q1,False,True,100.5
+1406,District F,Health & hygiene,2025-Q2,False,False,62.2
+1407,District E,Health & hygiene,2025-Q4,False,False,27.0
+1408,District E,Health & hygiene,2025-Q3,False,True,83.5
+1409,District B,Health & hygiene,2025-Q3,False,False,49.1
+1410,District D,Livelihoods,2025-Q3,False,False,26.9
+1411,District A,Livelihoods,2025-Q2,False,True,104.9
+1412,District D,Agriculture training,2025-Q3,True,True,89.2
+1413,District B,Agriculture training,2025-Q1,True,True,110.8
+1414,District B,Agriculture training,2025-Q3,True,True,25.2
+1415,District A,Agriculture training,2025-Q2,True,False,24.2
+1416,District A,Livelihoods,2025-Q3,True,False,69.6
+1417,District F,Health & hygiene,2025-Q1,False,False,9.6
+1418,District D,Agriculture training,2025-Q4,True,True,88.5
+1419,District D,Livelihoods,2025-Q1,False,True,162.9
+1420,District A,Livelihoods,2025-Q3,True,True,79.9
+1421,District D,Agriculture training,2025-Q4,False,False,26.1
+1422,District A,Agriculture training,2025-Q1,True,False,12.2
+1423,District A,Livelihoods,2025-Q4,True,True,57.0
+1424,District C,Health & hygiene,2025-Q1,False,False,16.7
+1425,District A,Agriculture training,2025-Q2,True,True,56.8
+1426,District D,Agriculture training,2025-Q2,False,False,82.5
+1427,District F,Livelihoods,2025-Q4,False,False,14.7
+1428,District F,Agriculture training,2025-Q4,False,False,25.5
+1429,District D,Agriculture training,2025-Q4,True,False,18.5
+1430,District C,Agriculture training,2025-Q4,True,True,77.9
+1431,District E,Agriculture training,2025-Q4,True,True,78.8
+1432,District B,Livelihoods,2025-Q1,True,False,24.1
+1433,District C,Agriculture training,2025-Q2,True,False,12.6
+1434,District F,Agriculture training,2025-Q2,False,False,30.5
+1435,District A,Agriculture training,2025-Q4,False,True,88.6
+1436,District B,Livelihoods,2025-Q4,False,True,61.1
+1437,District F,Agriculture training,2025-Q1,False,False,34.6
+1438,District C,Health & hygiene,2025-Q4,True,True,148.6
+1439,District E,Livelihoods,2025-Q3,False,True,219.8
+1440,District C,Livelihoods,2025-Q3,True,True,119.5
+1441,District C,Health & hygiene,2025-Q2,True,True,138.8
+1442,District A,Health & hygiene,2025-Q4,True,True,89.0
+1443,District C,Livelihoods,2025-Q4,True,True,53.3
+1444,District A,Agriculture training,2025-Q1,True,True,121.0
+1445,District B,Health & hygiene,2025-Q1,True,True,173.3
+1446,District A,Health & hygiene,2025-Q1,True,False,17.4
+1447,District C,Livelihoods,2025-Q2,True,True,71.0
+1448,District E,Health & hygiene,2025-Q1,False,False,19.7
+1449,District B,Agriculture training,2025-Q1,True,False,29.7
+1450,District C,Livelihoods,2025-Q2,True,True,44.4
+1451,District E,Health & hygiene,2025-Q1,False,False,10.6
+1452,District E,Agriculture training,2025-Q1,True,True,109.9
+1453,District F,Livelihoods,2025-Q4,False,False,39.5
+1454,District C,Agriculture training,2025-Q2,True,True,236.3
+1455,District A,Livelihoods,2025-Q3,True,True,80.6
+1456,District C,Livelihoods,2025-Q3,True,True,69.9
+1457,District B,Agriculture training,2025-Q1,True,False,9.5
+1458,District F,Agriculture training,2025-Q1,True,False,11.5
+1459,District E,Livelihoods,2025-Q2,True,False,14.1
+1460,District C,Livelihoods,2025-Q1,True,True,280.9
+1461,District E,Agriculture training,2025-Q1,False,False,14.1
+1462,District A,Livelihoods,2025-Q1,True,True,59.7
+1463,District A,Agriculture training,2025-Q3,True,True,256.9
+1464,District E,Agriculture training,2025-Q4,True,True,85.1
+1465,District A,Livelihoods,2025-Q4,True,False,17.3
+1466,District A,Livelihoods,2025-Q4,True,False,82.3
+1467,District B,Health & hygiene,2025-Q4,True,True,588.2
+1468,District D,Health & hygiene,2025-Q4,True,True,265.1
+1469,District D,Health & hygiene,2025-Q1,False,True,37.1
+1470,District C,Livelihoods,2025-Q1,True,False,27.5
+1471,District F,Health & hygiene,2025-Q1,False,False,8.4
+1472,District C,Agriculture training,2025-Q1,False,False,20.1
+1473,District B,Health & hygiene,2025-Q1,True,True,117.5
+1474,District E,Health & hygiene,2025-Q3,False,False,34.0
+1475,District F,Livelihoods,2025-Q2,False,True,130.1
+1476,District F,Agriculture training,2025-Q3,False,False,21.6
+1477,District B,Health & hygiene,2025-Q1,True,True,102.8
+1478,District F,Agriculture training,2025-Q4,False,False,23.9
+1479,District C,Livelihoods,2025-Q2,True,True,87.7
+1480,District E,Agriculture training,2025-Q1,False,False,79.7
+1481,District B,Agriculture training,2025-Q2,True,True,57.5
+1482,District E,Agriculture training,2025-Q3,False,True,209.8
+1483,District C,Health & hygiene,2025-Q4,True,False,39.1
+1484,District F,Agriculture training,2025-Q2,True,True,203.5
+1485,District F,Agriculture training,2025-Q1,False,False,42.5
+1486,District C,Livelihoods,2025-Q1,True,True,94.4
+1487,District B,Livelihoods,2025-Q1,True,True,33.1
+1488,District C,Agriculture training,2025-Q1,True,True,43.4
+1489,District B,Health & hygiene,2025-Q1,True,True,149.1
+1490,District A,Agriculture training,2025-Q4,False,False,32.3
+1491,District E,Agriculture training,2025-Q3,True,False,55.4
+1492,District C,Agriculture training,2025-Q4,False,True,143.2
+1493,District F,Health & hygiene,2025-Q3,False,True,41.6
+1494,District A,Livelihoods,2025-Q4,True,False,9.2
+1495,District B,Livelihoods,2025-Q3,True,True,92.2
+1496,District B,Health & hygiene,2025-Q1,True,False,23.2
+1497,District B,Agriculture training,2025-Q1,True,True,78.6
+1498,District C,Agriculture training,2025-Q2,False,False,21.0
+1499,District E,Agriculture training,2025-Q4,False,False,34.4
+1500,District C,Livelihoods,2025-Q2,False,False,21.9
+1501,District F,Livelihoods,2025-Q2,False,True,127.8
+1502,District E,Health & hygiene,2025-Q2,False,False,21.7
+1503,District D,Livelihoods,2025-Q1,False,False,17.8
+1504,District C,Health & hygiene,2025-Q1,True,False,18.3
+1505,District C,Agriculture training,2025-Q1,False,False,29.9
+1506,District E,Health & hygiene,2025-Q4,False,True,158.6
+1507,District A,Health & hygiene,2025-Q2,True,True,114.9
+1508,District A,Health & hygiene,2025-Q1,True,False,176.8
+1509,District F,Agriculture training,2025-Q2,False,True,156.6
+1510,District E,Agriculture training,2025-Q3,True,True,110.3
+1511,District A,Agriculture training,2025-Q1,True,False,16.1
+1512,District E,Agriculture training,2025-Q2,False,True,46.4
+1513,District F,Agriculture training,2025-Q4,False,False,56.4
+1514,District A,Health & hygiene,2025-Q2,True,True,86.1
+1515,District C,Agriculture training,2025-Q4,True,True,167.8
+1516,District C,Agriculture training,2025-Q2,False,False,51.5
+1517,District D,Agriculture training,2025-Q1,False,True,146.8
+1518,District D,Agriculture training,2025-Q1,True,True,94.4
+1519,District A,Health & hygiene,2025-Q3,True,True,101.3
+1520,District A,Livelihoods,2025-Q4,True,False,17.5
+1521,District C,Agriculture training,2025-Q2,True,True,89.1
+1522,District E,Livelihoods,2025-Q1,False,True,168.4
+1523,District C,Agriculture training,2025-Q3,True,True,133.4
+1524,District F,Livelihoods,2025-Q2,False,False,21.5
+1525,District B,Livelihoods,2025-Q4,False,True,104.7
+1526,District E,Agriculture training,2025-Q3,False,False,71.8
+1527,District C,Livelihoods,2025-Q4,True,True,87.1
+1528,District D,Agriculture training,2025-Q3,True,True,42.2
+1529,District B,Livelihoods,2025-Q3,False,True,208.2
+1530,District E,Livelihoods,2025-Q2,False,False,31.1
+1531,District A,Health & hygiene,2025-Q3,True,True,226.3
+1532,District F,Agriculture training,2025-Q2,False,True,94.0
+1533,District E,Livelihoods,2025-Q3,False,True,92.7
+1534,District F,Agriculture training,2025-Q3,False,True,83.9
+1535,District E,Agriculture training,2025-Q3,True,False,28.0
+1536,District B,Agriculture training,2025-Q3,True,True,159.5
+1537,District B,Agriculture training,2025-Q4,True,True,120.2
+1538,District D,Agriculture training,2025-Q4,False,False,33.5
+1539,District A,Agriculture training,2025-Q2,False,True,43.9
+1540,District A,Livelihoods,2025-Q4,True,True,176.1
+1541,District F,Livelihoods,2025-Q2,False,False,14.5
+1542,District F,Agriculture training,2025-Q2,False,False,13.0
+1543,District A,Health & hygiene,2025-Q1,False,True,59.9
+1544,District A,Health & hygiene,2025-Q1,True,False,28.2
+1545,District A,Health & hygiene,2025-Q2,False,False,11.1
+1546,District B,Livelihoods,2025-Q3,True,False,26.4
+1547,District E,Agriculture training,2025-Q4,False,True,70.9
+1548,District D,Agriculture training,2025-Q2,True,True,90.2
+1549,District B,Livelihoods,2025-Q1,True,False,28.2
+1550,District B,Livelihoods,2025-Q1,True,False,25.6
+1551,District A,Agriculture training,2025-Q4,True,True,284.6
+1552,District C,Health & hygiene,2025-Q3,True,False,29.4
+1553,District C,Agriculture training,2025-Q1,True,False,22.9
+1554,District C,Livelihoods,2025-Q4,True,True,74.5
+1555,District C,Health & hygiene,2025-Q4,True,True,93.1
+1556,District D,Livelihoods,2025-Q2,True,True,79.2
+1557,District A,Livelihoods,2025-Q1,True,True,233.0
+1558,District D,Health & hygiene,2025-Q3,False,True,76.2
+1559,District B,Health & hygiene,2025-Q1,True,True,83.3
+1560,District E,Agriculture training,2025-Q3,False,True,78.0
+1561,District C,Agriculture training,2025-Q1,True,True,80.0
+1562,District D,Health & hygiene,2025-Q4,False,True,97.4
+1563,District C,Agriculture training,2025-Q4,True,True,122.7
+1564,District E,Agriculture training,2025-Q3,False,True,84.7
+1565,District F,Agriculture training,2025-Q3,False,False,49.2
+1566,District A,Health & hygiene,2025-Q3,True,True,297.3
+1567,District C,Livelihoods,2025-Q3,False,False,43.4
+1568,District E,Agriculture training,2025-Q2,False,False,56.4
+1569,District A,Agriculture training,2025-Q1,True,True,69.3
+1570,District F,Agriculture training,2025-Q4,False,False,103.5
+1571,District B,Livelihoods,2025-Q2,True,False,134.6
+1572,District A,Agriculture training,2025-Q4,True,True,50.7
+1573,District D,Livelihoods,2025-Q3,False,True,145.5
+1574,District E,Agriculture training,2025-Q4,False,False,37.9
+1575,District F,Health & hygiene,2025-Q3,False,True,87.9
+1576,District E,Agriculture training,2025-Q3,False,False,51.2
+1577,District E,Livelihoods,2025-Q3,True,True,139.3
+1578,District A,Agriculture training,2025-Q2,True,False,31.1
+1579,District A,Agriculture training,2025-Q3,False,False,22.0
+1580,District D,Livelihoods,2025-Q1,False,False,22.4
+1581,District E,Agriculture training,2025-Q1,False,False,21.8
+1582,District B,Health & hygiene,2025-Q3,True,True,84.4
+1583,District F,Health & hygiene,2025-Q4,True,True,177.1
+1584,District C,Health & hygiene,2025-Q4,False,True,90.9
+1585,District D,Livelihoods,2025-Q4,False,True,187.3
+1586,District F,Health & hygiene,2025-Q4,False,False,15.6
+1587,District E,Livelihoods,2025-Q1,False,False,98.6
+1588,District D,Agriculture training,2025-Q2,False,False,33.0
+1589,District E,Agriculture training,2025-Q3,True,True,79.4
+1590,District C,Agriculture training,2025-Q2,True,False,34.5
+1591,District D,Agriculture training,2025-Q2,False,False,21.5
+1592,District E,Agriculture training,2025-Q1,True,True,132.3
+1593,District F,Livelihoods,2025-Q1,True,False,29.3
+1594,District C,Agriculture training,2025-Q3,True,True,121.6
+1595,District C,Agriculture training,2025-Q2,True,True,155.8
+1596,District A,Health & hygiene,2025-Q3,True,True,88.7
+1597,District A,Health & hygiene,2025-Q1,True,False,35.2
+1598,District F,Livelihoods,2025-Q1,False,False,10.0
+1599,District C,Agriculture training,2025-Q1,True,True,85.9
+1600,District A,Agriculture training,2025-Q3,True,False,7.8
+1601,District F,Livelihoods,2025-Q4,False,False,44.5
+1602,District F,Agriculture training,2025-Q3,False,False,22.5
+1603,District F,Health & hygiene,2025-Q3,False,True,78.1
+1604,District F,Agriculture training,2025-Q1,True,True,150.8
+1605,District F,Livelihoods,2025-Q4,False,False,36.5
+1606,District C,Agriculture training,2025-Q2,True,False,17.0
+1607,District E,Livelihoods,2025-Q2,True,False,21.7
+1608,District A,Agriculture training,2025-Q4,True,True,66.6
+1609,District F,Livelihoods,2025-Q3,True,False,93.6
+1610,District C,Agriculture training,2025-Q3,False,True,73.1
+1611,District C,Health & hygiene,2025-Q2,False,False,55.9
+1612,District D,Agriculture training,2025-Q4,False,False,18.5
+1613,District B,Livelihoods,2025-Q2,True,False,25.8
+1614,District E,Agriculture training,2025-Q4,False,False,20.2
+1615,District E,Agriculture training,2025-Q2,False,True,43.8
+1616,District F,Agriculture training,2025-Q2,False,False,108.2
+1617,District B,Agriculture training,2025-Q2,True,True,127.4
+1618,District B,Livelihoods,2025-Q4,True,True,64.5
+1619,District C,Agriculture training,2025-Q4,True,True,80.2
+1620,District A,Agriculture training,2025-Q1,False,False,23.9
+1621,District B,Livelihoods,2025-Q3,True,True,110.1
+1622,District F,Agriculture training,2025-Q1,True,True,121.3
+1623,District E,Agriculture training,2025-Q2,False,False,21.9
+1624,District A,Livelihoods,2025-Q3,False,False,71.6
+1625,District D,Livelihoods,2025-Q2,False,True,81.5
+1626,District F,Agriculture training,2025-Q1,False,True,94.2
+1627,District A,Agriculture training,2025-Q3,True,True,81.3
+1628,District F,Livelihoods,2025-Q3,False,False,9.0
+1629,District A,Agriculture training,2025-Q1,True,False,15.1
+1630,District F,Agriculture training,2025-Q1,True,False,33.5
+1631,District F,Agriculture training,2025-Q3,True,True,69.4
+1632,District C,Agriculture training,2025-Q4,True,False,20.8
+1633,District C,Agriculture training,2025-Q1,True,False,33.6
+1634,District B,Agriculture training,2025-Q3,False,False,40.2
+1635,District A,Agriculture training,2025-Q2,True,False,91.9
+1636,District D,Agriculture training,2025-Q1,True,True,56.1
+1637,District F,Health & hygiene,2025-Q4,False,False,17.0
+1638,District C,Agriculture training,2025-Q3,True,True,91.3
+1639,District C,Agriculture training,2025-Q1,False,False,65.6
+1640,District E,Livelihoods,2025-Q1,False,True,95.8
+1641,District F,Livelihoods,2025-Q3,False,False,35.7
+1642,District B,Agriculture training,2025-Q4,False,True,105.6
+1643,District A,Livelihoods,2025-Q4,True,True,41.3
+1644,District C,Livelihoods,2025-Q3,True,False,38.3
+1645,District D,Agriculture training,2025-Q4,False,False,14.6
+1646,District F,Health & hygiene,2025-Q2,False,True,121.6
+1647,District A,Health & hygiene,2025-Q4,True,False,71.9
+1648,District D,Agriculture training,2025-Q1,False,True,118.6
+1649,District B,Health & hygiene,2025-Q3,False,False,22.6
+1650,District F,Livelihoods,2025-Q3,True,False,24.7
+1651,District E,Livelihoods,2025-Q4,True,True,111.8
+1652,District E,Livelihoods,2025-Q4,True,False,20.8
+1653,District F,Agriculture training,2025-Q3,False,True,88.0
+1654,District A,Agriculture training,2025-Q2,True,False,9.9
+1655,District C,Health & hygiene,2025-Q3,True,False,49.5
+1656,District D,Health & hygiene,2025-Q1,False,False,44.2
+1657,District D,Agriculture training,2025-Q1,False,False,38.3
+1658,District B,Livelihoods,2025-Q2,True,False,44.5
+1659,District A,Agriculture training,2025-Q1,True,True,88.2
+1660,District A,Agriculture training,2025-Q3,True,True,91.3
+1661,District A,Health & hygiene,2025-Q3,True,True,64.6
+1662,District D,Agriculture training,2025-Q3,False,False,14.0
+1663,District C,Agriculture training,2025-Q1,False,True,75.5
+1664,District A,Health & hygiene,2025-Q3,True,True,70.0
+1665,District F,Agriculture training,2025-Q3,False,False,75.0
+1666,District A,Agriculture training,2025-Q2,True,False,48.7
+1667,District A,Livelihoods,2025-Q2,True,True,108.2
+1668,District C,Livelihoods,2025-Q4,True,False,53.3
+1669,District D,Livelihoods,2025-Q4,False,False,12.8
+1670,District B,Agriculture training,2025-Q2,True,True,73.1
+1671,District B,Agriculture training,2025-Q2,False,False,21.2
+1672,District D,Livelihoods,2025-Q2,True,False,60.6
+1673,District F,Agriculture training,2025-Q3,False,True,91.6
+1674,District B,Health & hygiene,2025-Q3,True,True,95.9
+1675,District B,Agriculture training,2025-Q3,False,False,24.2
+1676,District B,Agriculture training,2025-Q1,True,True,90.8
+1677,District D,Agriculture training,2025-Q4,True,True,67.0
+1678,District D,Livelihoods,2025-Q2,False,False,31.9
+1679,District E,Livelihoods,2025-Q1,False,False,30.8
+1680,District D,Livelihoods,2025-Q1,False,False,25.0
+1681,District D,Agriculture training,2025-Q1,False,True,61.7
+1682,District F,Agriculture training,2025-Q3,True,True,70.6
+1683,District D,Agriculture training,2025-Q3,True,False,23.2
+1684,District E,Livelihoods,2025-Q4,False,True,126.5
+1685,District E,Agriculture training,2025-Q3,False,True,150.1
+1686,District F,Agriculture training,2025-Q3,True,True,171.4
+1687,District F,Health & hygiene,2025-Q1,False,False,12.7
+1688,District A,Agriculture training,2025-Q1,True,False,20.3
+1689,District B,Livelihoods,2025-Q1,True,False,30.5
+1690,District A,Agriculture training,2025-Q3,True,True,91.3
+1691,District F,Agriculture training,2025-Q4,False,True,172.9
+1692,District E,Health & hygiene,2025-Q4,False,False,22.3
+1693,District F,Health & hygiene,2025-Q1,False,True,72.3
+1694,District C,Agriculture training,2025-Q1,True,True,118.0
+1695,District F,Livelihoods,2025-Q1,False,False,47.8
+1696,District A,Agriculture training,2025-Q4,True,True,106.0
+1697,District C,Livelihoods,2025-Q4,False,False,23.2
+1698,District D,Agriculture training,2025-Q1,False,True,57.1
+1699,District F,Agriculture training,2025-Q4,True,True,170.6
+1700,District B,Agriculture training,2025-Q4,True,False,24.8
+1701,District B,Agriculture training,2025-Q2,True,False,29.6
+1702,District B,Livelihoods,2025-Q4,True,True,380.0
+1703,District D,Livelihoods,2025-Q2,True,True,110.8
+1704,District D,Agriculture training,2025-Q2,False,False,19.5
+1705,District C,Agriculture training,2025-Q3,True,True,98.3
+1706,District E,Livelihoods,2025-Q2,False,True,82.8
+1707,District E,Livelihoods,2025-Q3,False,False,13.5
+1708,District B,Health & hygiene,2025-Q3,True,False,13.1
+1709,District F,Agriculture training,2025-Q1,False,False,57.8
+1710,District D,Agriculture training,2025-Q2,False,False,55.5
+1711,District F,Agriculture training,2025-Q4,False,True,62.7
+1712,District B,Agriculture training,2025-Q2,True,False,86.7
+1713,District E,Health & hygiene,2025-Q2,False,False,51.2
+1714,District F,Livelihoods,2025-Q2,False,False,63.3
+1715,District E,Livelihoods,2025-Q4,False,False,16.9
+1716,District C,Livelihoods,2025-Q2,True,False,26.6
+1717,District A,Livelihoods,2025-Q2,False,True,185.3
+1718,District C,Agriculture training,2025-Q3,True,True,42.3
+1719,District E,Agriculture training,2025-Q3,False,False,7.5
+1720,District B,Livelihoods,2025-Q1,True,True,81.1
+1721,District D,Health & hygiene,2025-Q3,False,False,27.3
+1722,District C,Health & hygiene,2025-Q2,True,True,135.1
+1723,District F,Health & hygiene,2025-Q3,True,False,55.6
+1724,District B,Agriculture training,2025-Q1,True,True,65.4
+1725,District E,Livelihoods,2025-Q2,False,False,30.6
+1726,District E,Health & hygiene,2025-Q3,False,True,78.5
+1727,District C,Livelihoods,2025-Q4,True,False,21.8
+1728,District A,Agriculture training,2025-Q2,True,False,41.5
+1729,District E,Health & hygiene,2025-Q2,False,True,54.9
+1730,District D,Livelihoods,2025-Q4,False,False,8.8
+1731,District F,Livelihoods,2025-Q3,True,True,152.4
+1732,District C,Agriculture training,2025-Q1,True,True,164.4
+1733,District B,Livelihoods,2025-Q1,True,False,20.7
+1734,District F,Health & hygiene,2025-Q1,True,False,29.2
+1735,District C,Agriculture training,2025-Q2,True,True,70.3
+1736,District D,Health & hygiene,2025-Q4,True,True,192.3
+1737,District B,Agriculture training,2025-Q3,True,True,44.7
+1738,District D,Agriculture training,2025-Q3,False,False,12.8
+1739,District D,Health & hygiene,2025-Q4,False,True,70.5
+1740,District A,Livelihoods,2025-Q4,True,True,72.9
+1741,District F,Agriculture training,2025-Q1,False,False,16.3
+1742,District A,Health & hygiene,2025-Q4,False,False,29.9
+1743,District B,Health & hygiene,2025-Q4,False,True,106.2
+1744,District D,Livelihoods,2025-Q1,False,True,212.6
+1745,District B,Livelihoods,2025-Q2,True,False,33.8
+1746,District F,Agriculture training,2025-Q4,False,True,139.6
+1747,District C,Agriculture training,2025-Q1,True,True,70.8
+1748,District A,Agriculture training,2025-Q3,True,False,37.0
+1749,District A,Agriculture training,2025-Q2,True,True,103.7
+1750,District C,Agriculture training,2025-Q4,True,True,195.1
+1751,District B,Agriculture training,2025-Q3,False,False,17.4
+1752,District C,Livelihoods,2025-Q1,True,False,7.8
+1753,District D,Agriculture training,2025-Q1,False,True,266.2
+1754,District A,Health & hygiene,2025-Q2,True,True,144.1
+1755,District E,Livelihoods,2025-Q2,True,True,133.1
+1756,District D,Health & hygiene,2025-Q4,True,True,83.3
+1757,District F,Agriculture training,2025-Q1,False,False,7.9
+1758,District C,Agriculture training,2025-Q1,True,True,70.3
+1759,District E,Livelihoods,2025-Q4,False,True,115.0
+1760,District C,Agriculture training,2025-Q2,True,True,68.7
+1761,District B,Livelihoods,2025-Q2,True,False,56.2
+1762,District E,Health & hygiene,2025-Q1,False,True,148.3
+1763,District E,Health & hygiene,2025-Q4,False,False,10.2
+1764,District D,Livelihoods,2025-Q3,False,True,127.2
+1765,District D,Livelihoods,2025-Q3,False,False,18.9
+1766,District B,Agriculture training,2025-Q1,True,False,15.2
+1767,District C,Health & hygiene,2025-Q3,True,True,102.4
+1768,District F,Agriculture training,2025-Q4,True,False,18.3
+1769,District E,Health & hygiene,2025-Q3,False,False,21.6
+1770,District F,Health & hygiene,2025-Q3,False,False,36.8
+1771,District B,Agriculture training,2025-Q2,True,False,28.3
+1772,District E,Agriculture training,2025-Q2,False,True,43.1
+1773,District E,Health & hygiene,2025-Q3,False,False,27.4
+1774,District A,Agriculture training,2025-Q1,True,True,121.1
+1775,District D,Livelihoods,2025-Q4,False,False,13.9
+1776,District D,Health & hygiene,2025-Q2,True,False,86.4
+1777,District A,Agriculture training,2025-Q1,True,False,67.5
+1778,District A,Livelihoods,2025-Q1,True,True,67.2
+1779,District A,Agriculture training,2025-Q1,True,True,73.8
+1780,District B,Livelihoods,2025-Q2,False,True,71.6
+1781,District D,Agriculture training,2025-Q3,False,True,113.9
+1782,District C,Health & hygiene,2025-Q3,False,True,82.0
+1783,District C,Agriculture training,2025-Q3,True,False,40.6
+1784,District C,Agriculture training,2025-Q2,True,False,17.2
+1785,District A,Agriculture training,2025-Q4,False,False,33.0
+1786,District E,Livelihoods,2025-Q1,True,True,247.7
+1787,District D,Agriculture training,2025-Q2,False,False,40.6
+1788,District D,Livelihoods,2025-Q3,False,False,30.3
+1789,District A,Health & hygiene,2025-Q3,False,False,11.9
+1790,District D,Agriculture training,2025-Q3,True,True,185.7
+1791,District D,Health & hygiene,2025-Q2,False,False,30.1
+1792,District C,Livelihoods,2025-Q4,True,False,45.2
+1793,District A,Health & hygiene,2025-Q4,True,False,16.3
+1794,District E,Agriculture training,2025-Q3,True,True,44.1
+1795,District D,Livelihoods,2025-Q3,False,True,86.6
+1796,District B,Health & hygiene,2025-Q2,True,True,49.1
+1797,District B,Livelihoods,2025-Q4,False,True,187.7
+1798,District F,Livelihoods,2025-Q4,False,True,121.7
+1799,District B,Livelihoods,2025-Q2,True,True,82.4
+1800,District F,Livelihoods,2025-Q4,False,True,112.5
+1801,District E,Agriculture training,2025-Q1,False,False,12.5
+1802,District F,Agriculture training,2025-Q3,False,False,57.4
+1803,District F,Health & hygiene,2025-Q3,False,False,14.6
+1804,District F,Health & hygiene,2025-Q1,False,False,35.3
+1805,District F,Health & hygiene,2025-Q3,False,True,45.6
+1806,District E,Agriculture training,2025-Q3,False,True,169.1
+1807,District A,Livelihoods,2025-Q2,True,True,97.6
+1808,District B,Agriculture training,2025-Q1,True,False,18.2
+1809,District A,Livelihoods,2025-Q2,True,True,65.8
+1810,District F,Agriculture training,2025-Q3,True,True,148.0
+1811,District B,Health & hygiene,2025-Q3,True,True,34.3
+1812,District E,Agriculture training,2025-Q3,False,False,63.3
+1813,District F,Agriculture training,2025-Q4,False,True,70.1
+1814,District C,Agriculture training,2025-Q2,True,False,24.9
+1815,District D,Agriculture training,2025-Q2,True,True,76.3
+1816,District A,Agriculture training,2025-Q3,True,True,110.0
+1817,District F,Agriculture training,2025-Q1,False,True,109.8
+1818,District F,Livelihoods,2025-Q1,False,True,56.0
+1819,District D,Health & hygiene,2025-Q4,False,False,26.8
+1820,District B,Health & hygiene,2025-Q2,False,False,14.2
+1821,District B,Agriculture training,2025-Q2,True,False,35.4
+1822,District B,Agriculture training,2025-Q3,True,True,58.2
+1823,District C,Agriculture training,2025-Q2,True,True,52.3
+1824,District D,Agriculture training,2025-Q4,False,True,119.2
+1825,District F,Health & hygiene,2025-Q2,False,True,72.3
+1826,District F,Agriculture training,2025-Q3,False,False,37.7
+1827,District E,Agriculture training,2025-Q4,False,False,14.8
+1828,District B,Agriculture training,2025-Q2,True,True,55.9
+1829,District F,Agriculture training,2025-Q4,False,False,20.4
+1830,District B,Agriculture training,2025-Q4,True,False,14.4
+1831,District B,Agriculture training,2025-Q4,True,False,20.7
+1832,District E,Health & hygiene,2025-Q1,False,True,120.3
+1833,District E,Health & hygiene,2025-Q2,False,False,59.6
+1834,District D,Agriculture training,2025-Q2,False,False,9.5
+1835,District F,Agriculture training,2025-Q3,True,False,30.8
+1836,District D,Health & hygiene,2025-Q4,False,False,24.6
+1837,District A,Agriculture training,2025-Q1,True,True,69.7
+1838,District D,Agriculture training,2025-Q2,True,True,90.1
+1839,District A,Health & hygiene,2025-Q4,True,False,9.7
+1840,District E,Health & hygiene,2025-Q2,False,False,84.7
+1841,District B,Agriculture training,2025-Q2,True,True,73.4
+1842,District E,Agriculture training,2025-Q2,True,True,86.9
+1843,District F,Agriculture training,2025-Q3,True,True,93.3
+1844,District B,Livelihoods,2025-Q1,True,True,70.0
+1845,District F,Livelihoods,2025-Q4,False,False,26.8
+1846,District C,Health & hygiene,2025-Q4,True,False,8.4
+1847,District C,Livelihoods,2025-Q3,False,True,67.8
+1848,District F,Health & hygiene,2025-Q4,False,False,121.7
+1849,District F,Livelihoods,2025-Q3,False,False,16.8
+1850,District F,Agriculture training,2025-Q1,False,False,30.2
+1851,District A,Livelihoods,2025-Q2,True,True,136.3
+1852,District D,Agriculture training,2025-Q2,False,False,26.9
+1853,District B,Health & hygiene,2025-Q4,True,True,76.6
+1854,District B,Livelihoods,2025-Q1,True,True,131.8
+1855,District C,Agriculture training,2025-Q1,False,True,94.6
+1856,District F,Livelihoods,2025-Q2,False,True,151.2
+1857,District E,Agriculture training,2025-Q1,False,False,74.3
+1858,District B,Agriculture training,2025-Q4,True,True,58.4
+1859,District F,Livelihoods,2025-Q4,False,False,33.9
+1860,District C,Agriculture training,2025-Q4,True,True,84.5
+1861,District E,Livelihoods,2025-Q3,False,False,36.6
+1862,District D,Agriculture training,2025-Q3,True,True,180.8
+1863,District A,Agriculture training,2025-Q3,True,True,296.7
+1864,District E,Agriculture training,2025-Q2,True,True,94.4
+1865,District D,Livelihoods,2025-Q1,False,True,78.0
+1866,District E,Livelihoods,2025-Q4,True,False,28.5
+1867,District A,Agriculture training,2025-Q2,True,True,83.1
+1868,District E,Agriculture training,2025-Q4,False,False,27.2
+1869,District B,Health & hygiene,2025-Q3,True,True,200.9
+1870,District B,Agriculture training,2025-Q1,True,True,122.7
+1871,District F,Livelihoods,2025-Q2,True,True,140.7
+1872,District C,Livelihoods,2025-Q3,True,False,111.2
+1873,District F,Health & hygiene,2025-Q1,False,False,23.4
+1874,District E,Livelihoods,2025-Q1,False,True,47.5
+1875,District E,Health & hygiene,2025-Q4,False,True,101.0
+1876,District D,Agriculture training,2025-Q2,False,False,13.8
+1877,District E,Agriculture training,2025-Q1,True,True,45.5
+1878,District F,Agriculture training,2025-Q3,False,True,86.3
+1879,District B,Agriculture training,2025-Q1,True,False,12.0
+1880,District A,Health & hygiene,2025-Q3,True,True,124.7
+1881,District D,Agriculture training,2025-Q4,False,False,21.6
+1882,District F,Health & hygiene,2025-Q4,False,True,191.9
+1883,District E,Livelihoods,2025-Q2,False,False,18.0
+1884,District C,Agriculture training,2025-Q3,True,True,197.6
+1885,District D,Agriculture training,2025-Q1,True,True,68.1
+1886,District B,Agriculture training,2025-Q1,True,True,103.8
+1887,District D,Health & hygiene,2025-Q4,False,True,67.9
+1888,District A,Livelihoods,2025-Q3,True,False,51.1
+1889,District A,Agriculture training,2025-Q3,False,True,49.3
+1890,District A,Livelihoods,2025-Q4,False,False,47.8
+1891,District F,Health & hygiene,2025-Q2,False,True,146.3
+1892,District F,Livelihoods,2025-Q3,False,True,86.0
+1893,District E,Agriculture training,2025-Q4,False,True,139.1
+1894,District E,Agriculture training,2025-Q2,False,True,99.2
+1895,District C,Agriculture training,2025-Q3,True,False,35.0
+1896,District F,Agriculture training,2025-Q2,False,True,192.3
+1897,District D,Livelihoods,2025-Q3,False,False,35.9
+1898,District F,Health & hygiene,2025-Q3,False,False,25.3
+1899,District E,Health & hygiene,2025-Q1,False,True,49.5
+1900,District C,Livelihoods,2025-Q2,False,True,84.0
+1901,District C,Agriculture training,2025-Q1,True,True,74.6
+1902,District B,Livelihoods,2025-Q4,True,False,65.6
+1903,District E,Agriculture training,2025-Q3,False,False,15.1
+1904,District D,Health & hygiene,2025-Q3,True,True,257.7
+1905,District E,Health & hygiene,2025-Q4,True,True,97.9
+1906,District B,Livelihoods,2025-Q3,True,False,7.4
+1907,District A,Livelihoods,2025-Q3,True,True,98.1
+1908,District A,Agriculture training,2025-Q4,True,True,87.3
+1909,District C,Health & hygiene,2025-Q4,False,True,130.7
+1910,District D,Health & hygiene,2025-Q4,False,False,34.3
+1911,District A,Agriculture training,2025-Q3,True,False,31.3
+1912,District D,Health & hygiene,2025-Q3,False,True,57.6
+1913,District F,Livelihoods,2025-Q4,False,True,111.2
+1914,District F,Agriculture training,2025-Q4,False,False,38.8
+1915,District F,Livelihoods,2025-Q1,True,True,117.9
+1916,District E,Agriculture training,2025-Q2,False,False,49.9
+1917,District A,Health & hygiene,2025-Q3,True,False,27.4
+1918,District A,Agriculture training,2025-Q3,False,False,15.4
+1919,District A,Agriculture training,2025-Q3,True,False,11.8
+1920,District B,Agriculture training,2025-Q1,True,True,84.3
+1921,District F,Health & hygiene,2025-Q1,False,True,169.7
+1922,District D,Agriculture training,2025-Q4,False,False,12.8
+1923,District A,Health & hygiene,2025-Q4,True,False,25.3
+1924,District E,Agriculture training,2025-Q3,False,False,34.1
+1925,District D,Livelihoods,2025-Q3,False,False,58.4
+1926,District F,Health & hygiene,2025-Q2,False,False,7.1
+1927,District A,Agriculture training,2025-Q3,True,True,82.8
+1928,District D,Livelihoods,2025-Q4,False,True,137.4
+1929,District B,Livelihoods,2025-Q2,True,False,18.1
+1930,District C,Livelihoods,2025-Q4,True,False,8.1
+1931,District D,Agriculture training,2025-Q4,False,True,57.0
+1932,District A,Agriculture training,2025-Q3,True,True,98.4
+1933,District C,Livelihoods,2025-Q1,True,True,125.4
+1934,District C,Livelihoods,2025-Q3,True,False,18.2
+1935,District A,Health & hygiene,2025-Q3,True,True,107.1
+1936,District F,Health & hygiene,2025-Q3,False,False,39.4
+1937,District B,Livelihoods,2025-Q2,True,True,46.0
+1938,District A,Health & hygiene,2025-Q3,True,True,211.9
+1939,District F,Livelihoods,2025-Q3,True,True,98.1
+1940,District D,Health & hygiene,2025-Q3,False,False,17.1
+1941,District D,Livelihoods,2025-Q4,False,True,139.9
+1942,District F,Agriculture training,2025-Q4,False,False,19.6
+1943,District B,Agriculture training,2025-Q1,True,False,61.7
+1944,District F,Health & hygiene,2025-Q1,False,False,21.2
+1945,District E,Agriculture training,2025-Q1,False,False,23.4
+1946,District A,Livelihoods,2025-Q1,True,True,43.3
+1947,District A,Health & hygiene,2025-Q2,True,True,49.6
+1948,District B,Agriculture training,2025-Q1,True,True,61.3
+1949,District F,Health & hygiene,2025-Q4,True,True,55.0
+1950,District B,Health & hygiene,2025-Q1,False,False,23.8
+1951,District E,Agriculture training,2025-Q1,False,False,20.0
+1952,District F,Livelihoods,2025-Q1,False,False,56.3
+1953,District B,Livelihoods,2025-Q4,False,False,10.9
+1954,District E,Health & hygiene,2025-Q2,False,False,47.1
+1955,District A,Agriculture training,2025-Q4,True,True,54.9
+1956,District B,Agriculture training,2025-Q4,False,True,110.5
+1957,District C,Livelihoods,2025-Q3,False,False,45.0
+1958,District C,Agriculture training,2025-Q2,True,True,128.3
+1959,District A,Livelihoods,2025-Q1,True,False,12.2
+1960,District E,Agriculture training,2025-Q4,True,True,196.4
+1961,District F,Health & hygiene,2025-Q1,False,False,19.1
+1962,District A,Agriculture training,2025-Q2,True,True,49.2
+1963,District B,Agriculture training,2025-Q3,True,False,27.9
+1964,District B,Agriculture training,2025-Q1,True,True,93.6
+1965,District A,Health & hygiene,2025-Q4,True,True,124.2
+1966,District E,Agriculture training,2025-Q4,False,True,110.2
+1967,District A,Health & hygiene,2025-Q3,False,False,9.0
+1968,District B,Livelihoods,2025-Q1,True,True,56.0
+1969,District F,Health & hygiene,2025-Q2,True,False,57.5
+1970,District B,Livelihoods,2025-Q3,True,True,140.2
+1971,District E,Agriculture training,2025-Q3,False,False,74.2
+1972,District F,Health & hygiene,2025-Q1,False,True,87.7
+1973,District C,Health & hygiene,2025-Q2,True,True,152.7
+1974,District E,Health & hygiene,2025-Q4,False,True,110.0
+1975,District C,Livelihoods,2025-Q2,False,True,76.2
+1976,District F,Livelihoods,2025-Q3,False,False,37.6
+1977,District D,Agriculture training,2025-Q4,False,False,51.3
+1978,District E,Livelihoods,2025-Q3,False,False,10.9
+1979,District A,Livelihoods,2025-Q4,True,False,10.4
+1980,District D,Livelihoods,2025-Q2,False,False,34.6
+1981,District E,Livelihoods,2025-Q4,False,False,20.7
+1982,District B,Livelihoods,2025-Q3,True,True,153.8
+1983,District C,Agriculture training,2025-Q4,False,False,19.3
+1984,District E,Health & hygiene,2025-Q4,False,True,129.9
+1985,District D,Health & hygiene,2025-Q1,False,True,103.9
+1986,District D,Livelihoods,2025-Q3,False,False,16.5
+1987,District A,Agriculture training,2025-Q1,True,True,89.4
+1988,District E,Agriculture training,2025-Q1,True,True,256.9
+1989,District E,Agriculture training,2025-Q1,False,True,129.6
+1990,District E,Agriculture training,2025-Q3,False,True,64.3
+1991,District A,Livelihoods,2025-Q2,True,True,85.7
+1992,District E,Health & hygiene,2025-Q3,False,True,100.0
+1993,District C,Livelihoods,2025-Q4,True,False,12.2
+1994,District A,Agriculture training,2025-Q1,True,False,12.7
+1995,District C,Agriculture training,2025-Q2,True,True,64.8
+1996,District A,Livelihoods,2025-Q2,True,True,121.2
+1997,District A,Livelihoods,2025-Q1,True,True,85.2
+1998,District F,Livelihoods,2025-Q3,True,True,79.2
+1999,District B,Livelihoods,2025-Q1,False,True,50.4
+2000,District E,Agriculture training,2025-Q4,False,False,27.2
+2001,District E,Health & hygiene,2025-Q1,False,True,59.5
+2002,District F,Agriculture training,2025-Q2,False,True,93.5
+2003,District F,Agriculture training,2025-Q4,False,False,67.2
+2004,District A,Livelihoods,2025-Q4,True,True,36.8
+2005,District F,Agriculture training,2025-Q1,True,True,129.4
+2006,District D,Livelihoods,2025-Q3,False,False,38.9
+2007,District F,Agriculture training,2025-Q4,False,False,23.9
+2008,District A,Health & hygiene,2025-Q1,True,True,142.5
+2009,District F,Livelihoods,2025-Q4,True,False,10.5
+2010,District A,Livelihoods,2025-Q3,True,True,72.7
+2011,District D,Agriculture training,2025-Q1,False,True,92.8
+2012,District A,Agriculture training,2025-Q1,False,False,34.2
+2013,District A,Agriculture training,2025-Q1,True,False,17.2
+2014,District B,Agriculture training,2025-Q4,True,False,6.2
+2015,District F,Health & hygiene,2025-Q2,False,True,62.9
+2016,District B,Health & hygiene,2025-Q1,True,True,50.6
+2017,District A,Agriculture training,2025-Q1,False,False,17.3
+2018,District A,Health & hygiene,2025-Q1,True,False,19.5
+2019,District A,Health & hygiene,2025-Q3,True,True,115.9
+2020,District D,Health & hygiene,2025-Q2,False,True,80.3
+2021,District E,Livelihoods,2025-Q1,False,True,118.4
+2022,District D,Health & hygiene,2025-Q1,True,False,60.0
+2023,District D,Agriculture training,2025-Q4,False,False,12.2
+2024,District E,Agriculture training,2025-Q1,False,True,134.4
+2025,District F,Agriculture training,2025-Q1,False,False,55.8
+2026,District F,Livelihoods,2025-Q4,False,True,84.4
+2027,District E,Agriculture training,2025-Q2,False,False,20.6
+2028,District B,Livelihoods,2025-Q2,True,False,72.3
+2029,District A,Agriculture training,2025-Q2,True,True,115.2
+2030,District B,Health & hygiene,2025-Q1,True,True,60.8
+2031,District A,Livelihoods,2025-Q2,True,True,285.6
+2032,District B,Livelihoods,2025-Q1,False,False,17.4
+2033,District E,Agriculture training,2025-Q2,True,False,45.5
+2034,District E,Livelihoods,2025-Q3,False,False,13.7
+2035,District F,Agriculture training,2025-Q3,False,False,6.4
+2036,District D,Health & hygiene,2025-Q4,False,False,34.0
+2037,District C,Livelihoods,2025-Q1,False,True,70.2
+2038,District E,Agriculture training,2025-Q4,True,True,81.0
+2039,District B,Livelihoods,2025-Q3,False,False,23.0
+2040,District B,Livelihoods,2025-Q2,True,True,128.8
+2041,District D,Agriculture training,2025-Q1,False,True,71.4
+2042,District A,Health & hygiene,2025-Q3,True,False,72.8
+2043,District D,Agriculture training,2025-Q1,False,False,27.9
+2044,District C,Agriculture training,2025-Q3,True,False,101.8
+2045,District B,Health & hygiene,2025-Q4,True,False,21.8
+2046,District F,Agriculture training,2025-Q3,False,False,20.3
+2047,District D,Agriculture training,2025-Q3,False,False,18.1
+2048,District B,Agriculture training,2025-Q4,True,False,18.3
+2049,District C,Livelihoods,2025-Q3,True,False,53.5
+2050,District E,Agriculture training,2025-Q3,False,True,59.4
+2051,District D,Health & hygiene,2025-Q3,True,True,43.6
+2052,District E,Agriculture training,2025-Q1,False,True,195.1
+2053,District C,Livelihoods,2025-Q1,False,True,61.2
+2054,District C,Agriculture training,2025-Q1,False,False,7.1
+2055,District F,Health & hygiene,2025-Q1,False,True,114.1
+2056,District E,Agriculture training,2025-Q3,False,False,12.0
+2057,District C,Agriculture training,2025-Q4,True,False,34.3
+2058,District F,Agriculture training,2025-Q2,False,True,44.8
+2059,District F,Livelihoods,2025-Q3,False,True,45.5
+2060,District B,Agriculture training,2025-Q2,True,True,260.8
+2061,District C,Health & hygiene,2025-Q2,True,False,28.3
+2062,District B,Agriculture training,2025-Q1,False,True,197.8
+2063,District A,Agriculture training,2025-Q3,True,False,101.6
+2064,District C,Agriculture training,2025-Q3,False,True,129.4
+2065,District F,Agriculture training,2025-Q4,False,True,118.1
+2066,District B,Livelihoods,2025-Q4,True,True,191.5
+2067,District B,Livelihoods,2025-Q1,True,False,31.9
+2068,District C,Livelihoods,2025-Q2,True,True,98.8
+2069,District A,Agriculture training,2025-Q2,False,False,9.7
+2070,District E,Agriculture training,2025-Q1,False,False,28.5
+2071,District B,Livelihoods,2025-Q4,True,True,87.7
+2072,District F,Agriculture training,2025-Q4,False,False,73.3
+2073,District F,Agriculture training,2025-Q4,False,False,32.9
+2074,District D,Agriculture training,2025-Q1,True,True,73.5
+2075,District D,Livelihoods,2025-Q4,False,True,171.4
+2076,District D,Agriculture training,2025-Q1,True,False,34.9
+2077,District C,Livelihoods,2025-Q2,True,True,76.4
+2078,District F,Livelihoods,2025-Q3,False,True,55.1
+2079,District B,Livelihoods,2025-Q2,True,True,55.0
+2080,District B,Agriculture training,2025-Q2,True,True,114.4
+2081,District A,Health & hygiene,2025-Q3,False,True,65.4
+2082,District E,Livelihoods,2025-Q2,False,True,89.5
+2083,District F,Livelihoods,2025-Q2,True,True,108.5
+2084,District C,Agriculture training,2025-Q1,True,False,125.2
+2085,District A,Agriculture training,2025-Q2,False,True,41.3
+2086,District F,Agriculture training,2025-Q4,False,False,9.9
+2087,District A,Agriculture training,2025-Q1,True,True,81.4
+2088,District B,Livelihoods,2025-Q2,False,False,56.1
+2089,District D,Agriculture training,2025-Q1,False,False,24.5
+2090,District B,Livelihoods,2025-Q2,True,True,167.4
+2091,District D,Health & hygiene,2025-Q3,False,True,149.4
+2092,District A,Agriculture training,2025-Q3,True,True,91.8
+2093,District F,Health & hygiene,2025-Q2,False,True,80.4
+2094,District C,Health & hygiene,2025-Q1,False,True,128.1
+2095,District B,Livelihoods,2025-Q1,False,False,13.2
+2096,District E,Agriculture training,2025-Q4,False,False,21.8
+2097,District A,Agriculture training,2025-Q3,True,False,37.8
+2098,District B,Agriculture training,2025-Q3,True,True,72.5
+2099,District C,Livelihoods,2025-Q3,False,False,25.9
+2100,District F,Livelihoods,2025-Q3,False,False,25.4
+2101,District D,Agriculture training,2025-Q1,True,True,44.2
+2102,District E,Agriculture training,2025-Q1,False,False,41.7
+2103,District F,Livelihoods,2025-Q1,False,False,15.4
+2104,District B,Agriculture training,2025-Q1,True,False,18.0
+2105,District E,Agriculture training,2025-Q2,False,True,216.2
+2106,District D,Agriculture training,2025-Q1,False,False,14.0
+2107,District C,Agriculture training,2025-Q1,False,False,72.2
+2108,District D,Agriculture training,2025-Q1,False,False,19.3
+2109,District A,Agriculture training,2025-Q1,True,False,49.9
+2110,District A,Health & hygiene,2025-Q1,True,True,306.4
+2111,District B,Health & hygiene,2025-Q4,True,True,135.7
+2112,District D,Agriculture training,2025-Q1,False,False,25.2
+2113,District A,Livelihoods,2025-Q3,True,True,60.2
+2114,District D,Agriculture training,2025-Q2,False,False,15.2
+2115,District D,Livelihoods,2025-Q4,False,False,20.2
+2116,District F,Health & hygiene,2025-Q3,False,True,59.2
+2117,District C,Health & hygiene,2025-Q1,False,True,130.6
+2118,District B,Agriculture training,2025-Q3,True,True,122.2
+2119,District C,Agriculture training,2025-Q1,True,True,127.2
+2120,District A,Agriculture training,2025-Q4,True,True,270.3
+2121,District F,Health & hygiene,2025-Q1,False,True,104.8
+2122,District D,Agriculture training,2025-Q4,False,False,130.6
+2123,District C,Agriculture training,2025-Q3,True,True,153.5
+2124,District F,Agriculture training,2025-Q1,False,False,43.4
+2125,District E,Health & hygiene,2025-Q1,False,True,110.7
+2126,District A,Livelihoods,2025-Q1,True,True,79.0
+2127,District C,Livelihoods,2025-Q3,False,True,164.1
+2128,District B,Livelihoods,2025-Q3,False,False,39.8
+2129,District F,Livelihoods,2025-Q3,True,True,191.8
+2130,District A,Agriculture training,2025-Q4,True,True,110.9
+2131,District E,Agriculture training,2025-Q4,False,True,53.2
+2132,District F,Agriculture training,2025-Q4,False,False,33.7
+2133,District E,Livelihoods,2025-Q1,False,True,180.4
+2134,District E,Livelihoods,2025-Q4,False,False,17.9
+2135,District D,Health & hygiene,2025-Q4,True,True,72.0
+2136,District A,Health & hygiene,2025-Q3,True,True,175.9
+2137,District F,Agriculture training,2025-Q3,False,True,89.6
+2138,District F,Health & hygiene,2025-Q3,False,False,41.3
+2139,District B,Agriculture training,2025-Q2,True,True,50.4
+2140,District C,Agriculture training,2025-Q2,False,True,91.6
+2141,District C,Health & hygiene,2025-Q2,True,True,117.0
+2142,District A,Livelihoods,2025-Q1,True,True,110.6
+2143,District B,Agriculture training,2025-Q4,True,False,35.9
+2144,District A,Livelihoods,2025-Q2,True,True,38.3
+2145,District F,Health & hygiene,2025-Q3,False,False,15.0
+2146,District B,Livelihoods,2025-Q1,False,False,41.2
+2147,District C,Health & hygiene,2025-Q2,True,False,14.6
+2148,District A,Livelihoods,2025-Q2,False,False,29.3
+2149,District B,Agriculture training,2025-Q4,False,True,43.5
+2150,District B,Agriculture training,2025-Q1,False,False,36.8
+2151,District E,Livelihoods,2025-Q4,False,False,25.7
+2152,District A,Agriculture training,2025-Q3,True,False,20.9
+2153,District B,Livelihoods,2025-Q1,True,True,125.5
+2154,District A,Health & hygiene,2025-Q3,True,True,80.0
+2155,District F,Health & hygiene,2025-Q2,False,True,85.5
+2156,District A,Health & hygiene,2025-Q3,True,True,105.3
+2157,District F,Livelihoods,2025-Q4,False,False,109.0
+2158,District C,Health & hygiene,2025-Q4,True,False,12.2
+2159,District C,Health & hygiene,2025-Q3,True,False,45.2
+2160,District E,Livelihoods,2025-Q2,False,True,78.0
+2161,District F,Livelihoods,2025-Q2,False,False,48.8
+2162,District E,Livelihoods,2025-Q1,True,True,65.6
+2163,District F,Livelihoods,2025-Q2,False,False,43.6
+2164,District D,Health & hygiene,2025-Q1,False,False,124.0
+2165,District C,Agriculture training,2025-Q1,True,True,145.4
+2166,District A,Agriculture training,2025-Q3,True,True,72.7
+2167,District D,Agriculture training,2025-Q1,False,False,59.3
+2168,District F,Livelihoods,2025-Q2,True,False,18.6
+2169,District D,Agriculture training,2025-Q2,False,False,7.0
+2170,District A,Agriculture training,2025-Q1,True,False,22.0
+2171,District A,Livelihoods,2025-Q3,True,False,10.9
+2172,District A,Health & hygiene,2025-Q2,True,True,58.2
+2173,District A,Livelihoods,2025-Q2,True,False,36.4
+2174,District E,Agriculture training,2025-Q3,True,True,207.6
+2175,District B,Health & hygiene,2025-Q2,False,False,41.0
+2176,District D,Health & hygiene,2025-Q4,False,False,21.0
+2177,District B,Health & hygiene,2025-Q2,False,False,27.7
+2178,District E,Livelihoods,2025-Q2,False,False,18.7
+2179,District F,Livelihoods,2025-Q2,True,False,33.0
+2180,District B,Agriculture training,2025-Q2,True,True,72.9
+2181,District A,Health & hygiene,2025-Q1,True,True,176.6
+2182,District F,Agriculture training,2025-Q4,False,False,103.8
+2183,District D,Agriculture training,2025-Q4,True,True,90.1
+2184,District F,Health & hygiene,2025-Q4,False,False,8.6
+2185,District A,Livelihoods,2025-Q2,True,True,52.3
+2186,District A,Agriculture training,2025-Q1,True,True,245.4
+2187,District B,Livelihoods,2025-Q4,True,True,57.8
+2188,District F,Health & hygiene,2025-Q4,False,True,83.1
+2189,District D,Livelihoods,2025-Q4,False,True,88.1
+2190,District E,Health & hygiene,2025-Q2,True,True,124.6
+2191,District A,Livelihoods,2025-Q1,True,True,141.5
+2192,District F,Livelihoods,2025-Q4,False,False,12.4
+2193,District F,Agriculture training,2025-Q3,False,True,62.0
+2194,District C,Health & hygiene,2025-Q2,False,False,24.8
+2195,District E,Agriculture training,2025-Q1,False,False,50.0
+2196,District E,Health & hygiene,2025-Q4,False,True,94.1
+2197,District E,Health & hygiene,2025-Q1,False,True,23.3
+2198,District F,Agriculture training,2025-Q1,False,False,10.2
+2199,District D,Agriculture training,2025-Q4,False,False,47.0
+2200,District F,Livelihoods,2025-Q3,False,False,24.6
+2201,District D,Agriculture training,2025-Q3,False,False,16.3
+2202,District B,Livelihoods,2025-Q3,False,True,145.4
+2203,District B,Health & hygiene,2025-Q2,False,True,129.2
+2204,District B,Health & hygiene,2025-Q2,True,True,87.8
+2205,District D,Agriculture training,2025-Q3,False,False,124.3
+2206,District D,Agriculture training,2025-Q3,False,False,22.6
+2207,District F,Health & hygiene,2025-Q1,False,False,16.0
+2208,District C,Health & hygiene,2025-Q1,False,False,29.9
+2209,District E,Agriculture training,2025-Q2,False,False,78.1
+2210,District F,Agriculture training,2025-Q4,False,False,20.5
+2211,District D,Agriculture training,2025-Q1,False,False,28.8
+2212,District C,Agriculture training,2025-Q3,False,False,89.1
+2213,District F,Agriculture training,2025-Q4,False,True,236.0
+2214,District A,Livelihoods,2025-Q2,True,False,35.9
+2215,District E,Agriculture training,2025-Q3,False,True,78.8
+2216,District C,Agriculture training,2025-Q4,True,True,138.4
+2217,District D,Agriculture training,2025-Q4,True,True,108.3
+2218,District F,Livelihoods,2025-Q4,False,False,31.7
+2219,District D,Livelihoods,2025-Q4,True,False,19.6
+2220,District E,Livelihoods,2025-Q2,True,False,27.8
+2221,District B,Livelihoods,2025-Q2,True,True,119.3
+2222,District B,Livelihoods,2025-Q2,True,True,96.3
+2223,District A,Agriculture training,2025-Q3,True,False,23.2
+2224,District B,Health & hygiene,2025-Q1,False,True,32.2
+2225,District E,Livelihoods,2025-Q3,False,False,31.1
+2226,District C,Health & hygiene,2025-Q4,True,True,87.8
+2227,District B,Agriculture training,2025-Q2,True,False,21.5
+2228,District F,Agriculture training,2025-Q1,False,True,27.2
+2229,District C,Agriculture training,2025-Q4,True,False,34.9
+2230,District D,Agriculture training,2025-Q4,False,False,28.1
+2231,District F,Agriculture training,2025-Q2,False,False,24.3
+2232,District B,Agriculture training,2025-Q4,True,False,35.5
+2233,District A,Health & hygiene,2025-Q1,False,True,93.0
+2234,District B,Livelihoods,2025-Q2,True,True,37.5
+2235,District B,Agriculture training,2025-Q2,True,True,142.7
+2236,District B,Agriculture training,2025-Q2,True,True,148.7
+2237,District E,Agriculture training,2025-Q1,False,False,28.7
+2238,District D,Agriculture training,2025-Q3,False,True,33.8
+2239,District C,Agriculture training,2025-Q4,True,False,48.8
+2240,District B,Agriculture training,2025-Q3,False,False,13.1
+2241,District D,Health & hygiene,2025-Q4,False,True,102.4
+2242,District A,Livelihoods,2025-Q1,False,True,147.5
+2243,District A,Health & hygiene,2025-Q4,True,True,55.4
+2244,District E,Health & hygiene,2025-Q1,False,False,29.4
+2245,District D,Health & hygiene,2025-Q4,False,False,34.4
+2246,District D,Agriculture training,2025-Q1,True,True,376.4
+2247,District D,Health & hygiene,2025-Q3,False,True,74.7
+2248,District D,Livelihoods,2025-Q2,False,True,121.1
+2249,District F,Health & hygiene,2025-Q1,True,False,28.3
+2250,District B,Agriculture training,2025-Q1,True,False,17.3
+2251,District B,Livelihoods,2025-Q1,True,True,60.3
+2252,District C,Livelihoods,2025-Q1,False,False,31.3
+2253,District A,Agriculture training,2025-Q1,True,True,116.4
+2254,District F,Livelihoods,2025-Q2,False,False,16.0
+2255,District D,Agriculture training,2025-Q4,False,True,143.2
+2256,District B,Health & hygiene,2025-Q4,True,True,51.1
+2257,District F,Agriculture training,2025-Q4,True,True,158.6
+2258,District C,Livelihoods,2025-Q1,True,False,18.8
+2259,District C,Agriculture training,2025-Q1,False,True,75.2
+2260,District A,Agriculture training,2025-Q2,True,True,99.4
+2261,District F,Livelihoods,2025-Q2,True,True,49.2
+2262,District C,Livelihoods,2025-Q1,True,True,20.9
+2263,District B,Agriculture training,2025-Q4,True,True,83.2
+2264,District A,Livelihoods,2025-Q4,True,True,71.3
+2265,District B,Livelihoods,2025-Q1,True,True,125.2
+2266,District E,Agriculture training,2025-Q3,True,True,124.5
+2267,District C,Agriculture training,2025-Q4,True,False,29.5
+2268,District F,Livelihoods,2025-Q2,False,True,106.8
+2269,District A,Livelihoods,2025-Q2,True,True,77.8
+2270,District A,Livelihoods,2025-Q3,False,True,65.4
+2271,District C,Agriculture training,2025-Q4,True,True,148.2
+2272,District C,Livelihoods,2025-Q1,True,False,13.4
+2273,District B,Livelihoods,2025-Q4,True,False,22.3
+2274,District F,Agriculture training,2025-Q1,False,False,19.4
+2275,District B,Agriculture training,2025-Q1,True,False,38.1
+2276,District A,Agriculture training,2025-Q2,True,False,45.4
+2277,District B,Agriculture training,2025-Q4,True,True,49.5
+2278,District E,Agriculture training,2025-Q3,False,False,60.4
+2279,District F,Livelihoods,2025-Q3,False,True,33.7
+2280,District A,Health & hygiene,2025-Q3,True,True,68.4
+2281,District F,Livelihoods,2025-Q4,True,False,9.4
+2282,District C,Agriculture training,2025-Q2,True,True,119.7
+2283,District D,Agriculture training,2025-Q4,False,True,98.6
+2284,District E,Agriculture training,2025-Q2,False,True,68.4
+2285,District C,Livelihoods,2025-Q1,True,False,38.7
+2286,District E,Agriculture training,2025-Q3,False,True,79.5
+2287,District C,Health & hygiene,2025-Q2,True,True,103.2
+2288,District E,Agriculture training,2025-Q2,False,True,72.7
+2289,District F,Health & hygiene,2025-Q3,False,False,14.6
+2290,District B,Agriculture training,2025-Q2,True,True,140.2
+2291,District A,Livelihoods,2025-Q4,True,False,11.9
+2292,District D,Livelihoods,2025-Q4,False,False,40.0
+2293,District D,Agriculture training,2025-Q3,False,True,113.0
+2294,District A,Livelihoods,2025-Q1,True,True,100.5
+2295,District B,Agriculture training,2025-Q3,True,True,130.6
+2296,District F,Livelihoods,2025-Q4,False,False,10.9
+2297,District F,Agriculture training,2025-Q3,True,True,100.7
+2298,District E,Agriculture training,2025-Q3,False,True,136.3
+2299,District C,Agriculture training,2025-Q1,True,True,92.7
+2300,District C,Agriculture training,2025-Q1,False,False,14.7
+2301,District F,Agriculture training,2025-Q3,False,False,48.2
+2302,District C,Agriculture training,2025-Q1,False,False,33.8
+2303,District A,Agriculture training,2025-Q1,True,False,17.4
+2304,District D,Livelihoods,2025-Q4,True,True,56.5
+2305,District B,Livelihoods,2025-Q4,False,False,50.7
+2306,District C,Livelihoods,2025-Q4,True,True,220.4
+2307,District D,Livelihoods,2025-Q3,True,True,58.3
+2308,District B,Livelihoods,2025-Q2,True,False,75.2
+2309,District E,Health & hygiene,2025-Q2,False,True,46.1
+2310,District F,Agriculture training,2025-Q4,True,True,84.0
+2311,District A,Livelihoods,2025-Q1,True,False,24.2
+2312,District A,Agriculture training,2025-Q4,True,False,8.3
+2313,District D,Health & hygiene,2025-Q3,True,True,48.7
+2314,District F,Livelihoods,2025-Q4,False,False,13.2
+2315,District A,Agriculture training,2025-Q2,True,True,121.2
+2316,District D,Health & hygiene,2025-Q1,False,True,184.9
+2317,District E,Health & hygiene,2025-Q3,True,False,14.6
+2318,District C,Agriculture training,2025-Q2,True,False,11.9
+2319,District A,Agriculture training,2025-Q3,True,True,81.6
+2320,District C,Health & hygiene,2025-Q2,True,True,265.8
+2321,District B,Health & hygiene,2025-Q3,False,True,53.1
+2322,District A,Agriculture training,2025-Q3,True,True,84.8
+2323,District F,Agriculture training,2025-Q3,False,False,27.1
+2324,District B,Health & hygiene,2025-Q2,True,False,33.1
+2325,District E,Livelihoods,2025-Q4,False,False,52.3
+2326,District C,Health & hygiene,2025-Q2,True,False,27.9
+2327,District D,Agriculture training,2025-Q2,False,False,22.0
+2328,District A,Agriculture training,2025-Q2,True,False,46.9
+2329,District E,Livelihoods,2025-Q3,True,True,48.1
+2330,District A,Health & hygiene,2025-Q2,True,True,40.7
+2331,District E,Health & hygiene,2025-Q3,True,True,36.2
+2332,District A,Agriculture training,2025-Q3,True,True,73.8
+2333,District E,Health & hygiene,2025-Q1,True,True,52.0
+2334,District D,Health & hygiene,2025-Q2,False,False,29.8
+2335,District A,Livelihoods,2025-Q2,True,True,165.4
+2336,District A,Agriculture training,2025-Q3,False,False,27.3
+2337,District E,Livelihoods,2025-Q1,False,True,114.9
+2338,District F,Health & hygiene,2025-Q4,False,False,13.0
+2339,District D,Livelihoods,2025-Q3,True,True,43.4
+2340,District D,Agriculture training,2025-Q1,False,False,23.5
+2341,District D,Livelihoods,2025-Q1,True,True,96.3
+2342,District E,Agriculture training,2025-Q3,False,False,15.5
+2343,District F,Livelihoods,2025-Q4,False,True,37.0
+2344,District A,Agriculture training,2025-Q3,False,False,91.5
+2345,District E,Livelihoods,2025-Q3,False,True,43.7
+2346,District D,Health & hygiene,2025-Q3,True,True,63.7
+2347,District C,Agriculture training,2025-Q3,False,False,20.8
+2348,District B,Livelihoods,2025-Q4,False,True,52.4
+2349,District F,Health & hygiene,2025-Q4,False,True,111.3
+2350,District F,Livelihoods,2025-Q1,False,True,140.0
+2351,District A,Health & hygiene,2025-Q2,False,False,34.1
+2352,District C,Health & hygiene,2025-Q3,True,True,91.7
+2353,District A,Agriculture training,2025-Q2,True,True,94.2
+2354,District B,Livelihoods,2025-Q4,False,False,79.8
+2355,District F,Health & hygiene,2025-Q4,False,True,49.3
+2356,District C,Health & hygiene,2025-Q2,True,False,11.3
+2357,District A,Agriculture training,2025-Q1,True,True,107.6
+2358,District B,Livelihoods,2025-Q4,False,False,42.0
+2359,District D,Health & hygiene,2025-Q3,False,False,30.3
+2360,District A,Livelihoods,2025-Q3,True,True,73.2
+2361,District C,Health & hygiene,2025-Q1,True,True,42.5
+2362,District E,Health & hygiene,2025-Q3,False,True,95.9
+2363,District A,Health & hygiene,2025-Q3,False,False,15.9
+2364,District B,Livelihoods,2025-Q4,True,False,12.4
+2365,District E,Agriculture training,2025-Q2,True,True,46.5
+2366,District F,Health & hygiene,2025-Q4,False,False,36.7
+2367,District B,Health & hygiene,2025-Q2,True,True,67.4
+2368,District E,Agriculture training,2025-Q1,True,True,123.3
+2369,District B,Health & hygiene,2025-Q3,True,False,13.9
+2370,District F,Health & hygiene,2025-Q4,False,False,12.7
+2371,District D,Agriculture training,2025-Q3,True,True,45.6
+2372,District E,Health & hygiene,2025-Q3,True,False,43.9
+2373,District F,Agriculture training,2025-Q3,False,False,23.2
+2374,District F,Agriculture training,2025-Q1,False,True,169.9
+2375,District D,Livelihoods,2025-Q4,False,False,16.7
+2376,District F,Agriculture training,2025-Q3,False,False,52.9
+2377,District E,Health & hygiene,2025-Q3,False,False,21.0
+2378,District A,Livelihoods,2025-Q2,True,False,20.8
+2379,District C,Livelihoods,2025-Q4,True,True,110.1
+2380,District B,Livelihoods,2025-Q1,True,True,36.7
+2381,District C,Agriculture training,2025-Q2,False,False,25.4
+2382,District F,Health & hygiene,2025-Q1,False,True,128.3
+2383,District F,Livelihoods,2025-Q1,True,True,120.9
+2384,District D,Agriculture training,2025-Q2,False,False,31.3
+2385,District B,Health & hygiene,2025-Q2,True,False,31.5
+2386,District F,Agriculture training,2025-Q2,False,False,22.1
+2387,District A,Livelihoods,2025-Q3,True,True,53.6
+2388,District C,Agriculture training,2025-Q3,False,False,17.5
+2389,District D,Agriculture training,2025-Q4,False,True,142.0
+2390,District C,Health & hygiene,2025-Q4,False,False,29.0
+2391,District E,Livelihoods,2025-Q1,False,False,71.1
+2392,District E,Agriculture training,2025-Q1,False,False,30.8
+2393,District B,Agriculture training,2025-Q1,True,True,95.2
+2394,District B,Health & hygiene,2025-Q4,True,True,169.9
+2395,District A,Agriculture training,2025-Q4,True,False,26.6
+2396,District C,Agriculture training,2025-Q1,True,True,98.4
+2397,District F,Agriculture training,2025-Q4,False,True,63.4
+2398,District E,Agriculture training,2025-Q2,False,False,43.6
+2399,District C,Agriculture training,2025-Q3,True,True,88.0
+2400,District C,Agriculture training,2025-Q1,True,False,69.2
+2401,District B,Health & hygiene,2025-Q2,False,True,98.6
+2402,District D,Health & hygiene,2025-Q2,False,False,32.3
+2403,District D,Livelihoods,2025-Q4,False,False,9.7
+2404,District A,Agriculture training,2025-Q1,True,True,90.9
+2405,District F,Health & hygiene,2025-Q1,True,True,95.9
+2406,District B,Agriculture training,2025-Q1,True,True,76.3
+2407,District D,Livelihoods,2025-Q2,False,False,49.2
+2408,District F,Health & hygiene,2025-Q1,False,True,56.1
+2409,District D,Health & hygiene,2025-Q1,True,True,77.9
+2410,District B,Health & hygiene,2025-Q1,True,True,298.4
+2411,District F,Livelihoods,2025-Q1,False,False,13.7
+2412,District A,Agriculture training,2025-Q3,True,True,94.0
+2413,District F,Health & hygiene,2025-Q3,False,False,19.6
+2414,District A,Livelihoods,2025-Q1,True,True,113.8
+2415,District A,Agriculture training,2025-Q2,True,False,27.1
+2416,District A,Health & hygiene,2025-Q4,True,True,116.7
+2417,District A,Agriculture training,2025-Q4,True,True,50.2
+2418,District C,Livelihoods,2025-Q1,True,True,265.2
+2419,District E,Agriculture training,2025-Q4,False,True,86.0
+2420,District D,Agriculture training,2025-Q4,False,False,11.5
+2421,District D,Health & hygiene,2025-Q4,False,True,64.0
+2422,District F,Health & hygiene,2025-Q2,False,True,59.0
+2423,District B,Livelihoods,2025-Q2,True,False,49.1
+2424,District F,Livelihoods,2025-Q2,True,False,34.1
+2425,District A,Agriculture training,2025-Q3,True,True,51.3
+2426,District C,Health & hygiene,2025-Q1,True,True,93.4
+2427,District B,Agriculture training,2025-Q2,False,True,32.0
+2428,District C,Agriculture training,2025-Q1,False,False,59.3
+2429,District F,Agriculture training,2025-Q1,False,False,18.6
+2430,District C,Livelihoods,2025-Q2,False,True,87.8
+2431,District E,Agriculture training,2025-Q1,False,False,28.2
+2432,District C,Agriculture training,2025-Q3,True,True,170.4
+2433,District B,Livelihoods,2025-Q3,True,True,149.3
+2434,District F,Agriculture training,2025-Q4,False,True,95.8
+2435,District F,Agriculture training,2025-Q3,False,False,44.4
+2436,District C,Agriculture training,2025-Q1,True,True,165.7
+2437,District A,Agriculture training,2025-Q1,True,False,57.1
+2438,District E,Livelihoods,2025-Q2,False,True,168.9
+2439,District B,Health & hygiene,2025-Q2,True,True,165.1
+2440,District F,Health & hygiene,2025-Q1,False,True,114.8
+2441,District F,Livelihoods,2025-Q3,False,False,29.6
+2442,District C,Livelihoods,2025-Q2,False,False,44.4
+2443,District C,Livelihoods,2025-Q1,False,False,9.3
+2444,District C,Agriculture training,2025-Q3,False,False,7.4
+2445,District E,Agriculture training,2025-Q2,False,False,55.2
+2446,District A,Agriculture training,2025-Q4,True,True,38.2
+2447,District D,Agriculture training,2025-Q3,True,True,86.0
+2448,District E,Livelihoods,2025-Q4,True,True,47.6
+2449,District E,Livelihoods,2025-Q4,False,False,31.0
+2450,District E,Health & hygiene,2025-Q1,False,False,33.8
+2451,District C,Health & hygiene,2025-Q2,True,False,14.9
+2452,District D,Agriculture training,2025-Q2,False,False,62.9
+2453,District E,Health & hygiene,2025-Q3,True,True,59.1
+2454,District B,Agriculture training,2025-Q2,True,True,74.2
+2455,District E,Agriculture training,2025-Q3,True,True,94.9
+2456,District E,Livelihoods,2025-Q4,True,True,58.5
+2457,District B,Agriculture training,2025-Q3,True,True,63.8
+2458,District B,Health & hygiene,2025-Q1,False,True,89.7
+2459,District D,Agriculture training,2025-Q2,False,True,55.7
+2460,District E,Agriculture training,2025-Q2,False,False,43.7
+2461,District A,Health & hygiene,2025-Q3,False,False,41.0
+2462,District F,Livelihoods,2025-Q4,False,False,20.3
+2463,District C,Agriculture training,2025-Q1,True,False,28.1
+2464,District B,Agriculture training,2025-Q3,True,True,72.8
+2465,District E,Health & hygiene,2025-Q3,True,False,22.4
+2466,District D,Agriculture training,2025-Q2,False,False,14.5
+2467,District A,Agriculture training,2025-Q4,True,True,118.0
+2468,District C,Agriculture training,2025-Q1,False,True,90.0
+2469,District A,Agriculture training,2025-Q1,False,False,7.9
+2470,District B,Livelihoods,2025-Q4,True,False,16.3
+2471,District D,Agriculture training,2025-Q2,False,True,73.2
+2472,District F,Livelihoods,2025-Q1,False,True,143.3
+2473,District D,Agriculture training,2025-Q3,False,True,80.6
+2474,District B,Livelihoods,2025-Q1,True,True,128.3
+2475,District A,Livelihoods,2025-Q4,True,False,35.1
+2476,District E,Livelihoods,2025-Q4,True,True,32.5
+2477,District B,Agriculture training,2025-Q4,True,True,119.7
+2478,District E,Livelihoods,2025-Q2,False,True,71.1
+2479,District E,Livelihoods,2025-Q2,False,True,284.7
+2480,District A,Health & hygiene,2025-Q3,True,False,9.2
+2481,District F,Health & hygiene,2025-Q2,False,False,20.6
+2482,District E,Livelihoods,2025-Q3,True,True,205.3
+2483,District D,Agriculture training,2025-Q1,False,False,24.4
+2484,District C,Agriculture training,2025-Q1,True,True,77.8
+2485,District D,Livelihoods,2025-Q1,False,False,12.2
+2486,District C,Livelihoods,2025-Q4,True,False,15.7
+2487,District A,Agriculture training,2025-Q2,True,True,176.2
+2488,District C,Livelihoods,2025-Q3,True,True,19.2
+2489,District D,Agriculture training,2025-Q2,False,False,24.2
+2490,District C,Livelihoods,2025-Q3,True,False,18.5
+2491,District A,Livelihoods,2025-Q2,True,True,64.5
+2492,District C,Livelihoods,2025-Q1,False,True,49.2
+2493,District A,Livelihoods,2025-Q3,True,True,52.5
+2494,District E,Health & hygiene,2025-Q3,False,False,51.3
+2495,District C,Health & hygiene,2025-Q4,True,False,88.7
+2496,District B,Agriculture training,2025-Q4,True,True,93.7
+2497,District E,Livelihoods,2025-Q3,False,True,133.8
+2498,District A,Health & hygiene,2025-Q2,True,True,122.7
+2499,District D,Health & hygiene,2025-Q3,True,True,43.7
+2500,District E,Health & hygiene,2025-Q2,True,True,171.3
+2501,District F,Agriculture training,2025-Q3,False,True,74.5
+2502,District C,Livelihoods,2025-Q2,True,True,156.0
+2503,District B,Livelihoods,2025-Q3,False,False,15.9
+2504,District D,Health & hygiene,2025-Q3,False,False,13.9
+2505,District E,Agriculture training,2025-Q1,True,True,86.9
+2506,District B,Livelihoods,2025-Q3,True,True,177.3
+2507,District D,Agriculture training,2025-Q3,False,False,60.1
+2508,District E,Health & hygiene,2025-Q3,False,False,33.0
+2509,District F,Livelihoods,2025-Q1,True,True,107.1
+2510,District D,Agriculture training,2025-Q2,False,True,34.2
+2511,District F,Agriculture training,2025-Q4,True,True,70.7
+2512,District D,Agriculture training,2025-Q2,False,False,12.1
+2513,District E,Agriculture training,2025-Q2,True,True,81.0
+2514,District F,Agriculture training,2025-Q4,False,False,38.0
+2515,District E,Livelihoods,2025-Q1,True,True,92.3
+2516,District A,Livelihoods,2025-Q1,True,True,60.4
+2517,District E,Agriculture training,2025-Q1,False,False,15.5
+2518,District D,Agriculture training,2025-Q2,True,True,146.8
+2519,District E,Agriculture training,2025-Q1,False,True,104.5
+2520,District A,Agriculture training,2025-Q1,True,False,25.3
+2521,District F,Livelihoods,2025-Q1,False,True,37.0
+2522,District C,Health & hygiene,2025-Q4,False,False,38.0
+2523,District F,Health & hygiene,2025-Q3,False,False,13.7
+2524,District D,Agriculture training,2025-Q1,False,True,94.6
+2525,District B,Livelihoods,2025-Q2,True,True,59.6
+2526,District E,Agriculture training,2025-Q3,False,False,44.8
+2527,District C,Agriculture training,2025-Q3,True,False,18.1
+2528,District B,Health & hygiene,2025-Q3,True,True,101.6
+2529,District A,Agriculture training,2025-Q3,True,True,76.0
+2530,District F,Agriculture training,2025-Q1,False,False,37.9
+2531,District F,Agriculture training,2025-Q2,True,False,14.2
+2532,District F,Agriculture training,2025-Q4,True,False,21.2
+2533,District E,Livelihoods,2025-Q2,True,True,145.3
+2534,District F,Health & hygiene,2025-Q3,False,False,24.8
+2535,District E,Livelihoods,2025-Q3,False,True,51.1
+2536,District C,Agriculture training,2025-Q2,True,True,92.7
+2537,District D,Health & hygiene,2025-Q4,True,True,39.3
+2538,District D,Health & hygiene,2025-Q1,False,True,68.9
+2539,District C,Agriculture training,2025-Q2,True,True,52.8
+2540,District C,Agriculture training,2025-Q1,True,True,132.7
+2541,District E,Agriculture training,2025-Q4,True,True,128.5
+2542,District A,Health & hygiene,2025-Q2,True,True,198.7
+2543,District F,Livelihoods,2025-Q1,False,False,60.8
+2544,District B,Agriculture training,2025-Q3,True,True,99.6
+2545,District B,Health & hygiene,2025-Q3,True,False,26.3
+2546,District F,Agriculture training,2025-Q1,True,True,45.4
+2547,District C,Agriculture training,2025-Q2,True,True,140.9
+2548,District B,Health & hygiene,2025-Q3,True,False,19.2
+2549,District A,Agriculture training,2025-Q4,True,True,76.4
+2550,District C,Health & hygiene,2025-Q3,True,True,103.3
+2551,District D,Livelihoods,2025-Q1,False,False,17.5
+2552,District E,Livelihoods,2025-Q2,False,True,160.3
+2553,District E,Health & hygiene,2025-Q3,False,True,38.8
+2554,District C,Agriculture training,2025-Q4,False,True,49.8
+2555,District A,Livelihoods,2025-Q2,True,True,53.3
+2556,District D,Livelihoods,2025-Q1,False,False,30.1
+2557,District F,Health & hygiene,2025-Q4,False,True,58.6
+2558,District D,Agriculture training,2025-Q2,False,False,42.8
+2559,District A,Agriculture training,2025-Q4,True,True,68.7
+2560,District A,Agriculture training,2025-Q4,True,False,46.9
+2561,District A,Health & hygiene,2025-Q1,True,True,50.0
+2562,District A,Health & hygiene,2025-Q2,True,True,71.1
+2563,District F,Agriculture training,2025-Q3,False,True,62.5
+2564,District D,Agriculture training,2025-Q2,False,True,85.3
+2565,District C,Livelihoods,2025-Q2,False,True,35.0
+2566,District D,Livelihoods,2025-Q2,True,False,25.8
+2567,District F,Health & hygiene,2025-Q4,False,False,21.0
+2568,District D,Agriculture training,2025-Q2,False,True,57.2
+2569,District C,Livelihoods,2025-Q1,True,True,86.8
+2570,District F,Agriculture training,2025-Q4,False,False,37.2
+2571,District C,Health & hygiene,2025-Q1,True,True,76.5
+2572,District A,Livelihoods,2025-Q4,True,True,138.0
+2573,District D,Health & hygiene,2025-Q1,False,False,18.5
+2574,District A,Livelihoods,2025-Q2,True,False,55.2
+2575,District E,Agriculture training,2025-Q4,False,False,27.1
+2576,District F,Livelihoods,2025-Q2,False,False,16.1
+2577,District D,Livelihoods,2025-Q3,False,False,25.0
+2578,District F,Agriculture training,2025-Q2,False,False,64.4
+2579,District F,Agriculture training,2025-Q1,True,True,67.2
+2580,District F,Agriculture training,2025-Q3,False,False,22.1
+2581,District C,Livelihoods,2025-Q2,True,True,89.1
+2582,District F,Agriculture training,2025-Q4,False,True,52.8
+2583,District A,Agriculture training,2025-Q1,True,False,32.3
+2584,District C,Agriculture training,2025-Q1,True,True,54.8
+2585,District B,Agriculture training,2025-Q1,True,True,111.4
+2586,District D,Livelihoods,2025-Q1,False,False,26.6
+2587,District E,Agriculture training,2025-Q1,True,True,83.4
+2588,District D,Agriculture training,2025-Q2,False,False,21.2
+2589,District D,Agriculture training,2025-Q1,False,False,38.5
+2590,District D,Agriculture training,2025-Q4,True,True,45.5
+2591,District A,Livelihoods,2025-Q4,True,False,7.6
+2592,District C,Health & hygiene,2025-Q2,True,True,104.7
+2593,District F,Livelihoods,2025-Q4,True,True,62.2
+2594,District E,Health & hygiene,2025-Q2,False,True,149.1
+2595,District C,Agriculture training,2025-Q1,False,True,127.5
+2596,District E,Agriculture training,2025-Q1,True,True,78.0
+2597,District C,Livelihoods,2025-Q3,False,True,115.0
+2598,District A,Agriculture training,2025-Q3,True,True,228.1
+2599,District C,Health & hygiene,2025-Q1,True,False,36.4
+2600,District F,Livelihoods,2025-Q3,False,False,14.8
+2601,District F,Health & hygiene,2025-Q2,False,False,22.9
+2602,District C,Agriculture training,2025-Q4,True,True,74.2
+2603,District E,Agriculture training,2025-Q1,False,True,85.9
+2604,District E,Livelihoods,2025-Q3,False,True,144.6
+2605,District C,Agriculture training,2025-Q4,False,True,98.4
+2606,District F,Agriculture training,2025-Q4,False,False,12.3
+2607,District E,Agriculture training,2025-Q1,False,False,16.5
+2608,District D,Agriculture training,2025-Q1,False,False,11.0
+2609,District C,Agriculture training,2025-Q3,True,True,167.5
+2610,District B,Livelihoods,2025-Q3,True,True,128.9
+2611,District F,Livelihoods,2025-Q3,False,False,19.6
+2612,District D,Health & hygiene,2025-Q2,False,False,14.9
+2613,District D,Livelihoods,2025-Q3,True,True,72.2
+2614,District C,Agriculture training,2025-Q2,False,False,41.3
+2615,District E,Agriculture training,2025-Q1,False,False,43.8
+2616,District B,Livelihoods,2025-Q2,True,True,101.1
+2617,District B,Health & hygiene,2025-Q3,True,True,63.3
+2618,District A,Livelihoods,2025-Q3,True,True,55.7
+2619,District C,Agriculture training,2025-Q2,False,True,112.7
+2620,District E,Livelihoods,2025-Q3,False,True,70.1
+2621,District A,Agriculture training,2025-Q4,True,True,128.6
+2622,District C,Health & hygiene,2025-Q2,True,True,112.6
+2623,District B,Livelihoods,2025-Q1,True,True,67.9
+2624,District C,Health & hygiene,2025-Q1,True,False,14.9
+2625,District D,Livelihoods,2025-Q2,False,False,19.6
+2626,District C,Agriculture training,2025-Q1,True,True,57.9
+2627,District C,Health & hygiene,2025-Q1,True,False,39.2
+2628,District D,Agriculture training,2025-Q2,False,True,95.3
+2629,District C,Agriculture training,2025-Q1,True,True,101.4
+2630,District D,Agriculture training,2025-Q2,False,False,10.5
+2631,District F,Agriculture training,2025-Q3,False,False,71.8
+2632,District E,Health & hygiene,2025-Q4,False,True,30.9
+2633,District D,Agriculture training,2025-Q3,True,True,86.0
+2634,District B,Agriculture training,2025-Q1,True,True,113.9
+2635,District C,Agriculture training,2025-Q2,False,False,52.4
+2636,District D,Agriculture training,2025-Q1,False,False,30.4
+2637,District E,Livelihoods,2025-Q2,False,True,93.4
+2638,District D,Health & hygiene,2025-Q3,False,False,20.6
+2639,District D,Health & hygiene,2025-Q4,False,False,100.4
+2640,District A,Health & hygiene,2025-Q4,True,True,261.4
+2641,District C,Agriculture training,2025-Q1,False,True,77.3
+2642,District F,Agriculture training,2025-Q2,True,True,189.9
+2643,District F,Livelihoods,2025-Q3,True,True,128.9
+2644,District D,Agriculture training,2025-Q1,False,False,15.5
+2645,District B,Agriculture training,2025-Q1,False,True,22.6
+2646,District C,Agriculture training,2025-Q4,True,True,425.9
+2647,District E,Agriculture training,2025-Q2,False,True,64.3
+2648,District D,Agriculture training,2025-Q1,False,False,20.4
+2649,District F,Livelihoods,2025-Q1,False,False,29.9
+2650,District D,Health & hygiene,2025-Q2,False,False,17.8
+2651,District D,Agriculture training,2025-Q1,False,False,34.0
+2652,District C,Health & hygiene,2025-Q1,True,False,59.2
+2653,District D,Health & hygiene,2025-Q3,False,True,46.5
+2654,District D,Health & hygiene,2025-Q4,True,True,50.9
+2655,District E,Agriculture training,2025-Q1,False,True,73.4
+2656,District E,Agriculture training,2025-Q3,False,False,14.9
+2657,District F,Health & hygiene,2025-Q1,True,False,39.6
+2658,District C,Health & hygiene,2025-Q1,True,True,51.0
+2659,District C,Agriculture training,2025-Q3,False,False,27.0
+2660,District E,Agriculture training,2025-Q1,True,True,84.9
+2661,District B,Agriculture training,2025-Q3,False,True,113.6
+2662,District A,Health & hygiene,2025-Q2,False,False,26.7
+2663,District E,Health & hygiene,2025-Q1,False,True,25.2
+2664,District B,Agriculture training,2025-Q2,False,False,50.1
+2665,District A,Agriculture training,2025-Q3,True,False,24.1
+2666,District E,Agriculture training,2025-Q1,False,True,94.9
+2667,District B,Agriculture training,2025-Q4,False,False,40.9
+2668,District D,Health & hygiene,2025-Q2,False,False,21.1
+2669,District A,Livelihoods,2025-Q4,True,True,90.9
+2670,District A,Agriculture training,2025-Q4,True,True,107.4
+2671,District A,Livelihoods,2025-Q3,True,False,30.6
+2672,District C,Agriculture training,2025-Q3,True,True,232.4
+2673,District A,Health & hygiene,2025-Q4,True,True,156.6
+2674,District C,Livelihoods,2025-Q1,True,True,71.0
+2675,District C,Livelihoods,2025-Q3,True,True,51.8
+2676,District E,Livelihoods,2025-Q4,False,False,15.3
+2677,District F,Agriculture training,2025-Q3,False,False,18.6
+2678,District A,Agriculture training,2025-Q3,True,True,64.7
+2679,District E,Agriculture training,2025-Q3,True,True,55.8
+2680,District A,Agriculture training,2025-Q4,True,False,70.3
+2681,District B,Livelihoods,2025-Q4,True,True,30.7
+2682,District B,Livelihoods,2025-Q4,True,True,83.5
+2683,District E,Agriculture training,2025-Q2,True,True,70.2
+2684,District C,Agriculture training,2025-Q1,True,False,79.2
+2685,District B,Health & hygiene,2025-Q3,False,False,15.7
+2686,District E,Agriculture training,2025-Q1,False,True,106.8
+2687,District B,Agriculture training,2025-Q2,True,False,8.8
+2688,District C,Agriculture training,2025-Q1,True,False,37.1
+2689,District E,Livelihoods,2025-Q3,False,True,227.1
+2690,District E,Health & hygiene,2025-Q1,False,True,45.9
+2691,District E,Agriculture training,2025-Q1,False,True,52.1
+2692,District B,Health & hygiene,2025-Q4,True,True,151.4
+2693,District B,Livelihoods,2025-Q3,True,True,108.7
+2694,District C,Livelihoods,2025-Q4,True,True,60.6
+2695,District D,Health & hygiene,2025-Q1,False,True,66.5
+2696,District E,Health & hygiene,2025-Q3,False,False,66.0
+2697,District A,Agriculture training,2025-Q3,True,False,8.9
+2698,District C,Livelihoods,2025-Q2,True,False,20.0
+2699,District E,Livelihoods,2025-Q4,True,True,78.3
+2700,District D,Agriculture training,2025-Q4,False,False,23.8
+2701,District A,Agriculture training,2025-Q4,True,True,146.7
+2702,District C,Agriculture training,2025-Q3,False,True,206.9
+2703,District F,Agriculture training,2025-Q4,False,False,12.4
+2704,District A,Health & hygiene,2025-Q1,True,False,16.6
+2705,District D,Agriculture training,2025-Q4,True,True,100.0
+2706,District D,Livelihoods,2025-Q1,False,True,69.3
+2707,District E,Agriculture training,2025-Q4,False,True,61.2
+2708,District A,Agriculture training,2025-Q3,True,True,98.6
+2709,District E,Livelihoods,2025-Q3,False,False,22.0
+2710,District A,Agriculture training,2025-Q4,False,False,32.0
+2711,District D,Livelihoods,2025-Q3,True,False,16.1
+2712,District E,Livelihoods,2025-Q3,True,True,121.7
+2713,District E,Health & hygiene,2025-Q2,False,False,21.3
+2714,District E,Livelihoods,2025-Q3,False,False,22.6
+2715,District E,Agriculture training,2025-Q3,False,True,79.3
+2716,District F,Agriculture training,2025-Q3,False,False,18.0
+2717,District C,Agriculture training,2025-Q1,True,True,99.5
+2718,District E,Health & hygiene,2025-Q2,False,True,116.2
+2719,District F,Livelihoods,2025-Q2,False,True,55.3
+2720,District C,Health & hygiene,2025-Q4,True,False,14.5
+2721,District F,Livelihoods,2025-Q3,False,True,120.2
+2722,District B,Livelihoods,2025-Q2,True,False,19.8
+2723,District F,Livelihoods,2025-Q2,False,True,67.7
+2724,District B,Health & hygiene,2025-Q1,False,False,39.9
+2725,District A,Livelihoods,2025-Q4,True,True,211.0
+2726,District B,Livelihoods,2025-Q4,True,True,42.2
+2727,District A,Health & hygiene,2025-Q3,True,True,77.0
+2728,District F,Agriculture training,2025-Q2,True,True,62.7
+2729,District C,Agriculture training,2025-Q4,False,True,163.5
+2730,District C,Health & hygiene,2025-Q3,True,False,41.0
+2731,District A,Agriculture training,2025-Q2,False,False,24.4
+2732,District D,Agriculture training,2025-Q1,False,False,17.5
+2733,District A,Agriculture training,2025-Q1,True,False,88.8
+2734,District D,Health & hygiene,2025-Q2,False,False,24.7
+2735,District F,Health & hygiene,2025-Q1,False,True,77.3
+2736,District A,Agriculture training,2025-Q1,True,True,114.5
+2737,District D,Agriculture training,2025-Q3,False,False,12.9
+2738,District D,Agriculture training,2025-Q4,False,True,129.3
+2739,District C,Agriculture training,2025-Q4,True,False,32.4
+2740,District A,Agriculture training,2025-Q2,True,False,35.9
+2741,District F,Livelihoods,2025-Q3,True,True,94.3
+2742,District D,Livelihoods,2025-Q1,True,False,37.8
+2743,District E,Agriculture training,2025-Q3,False,True,81.9
+2744,District B,Agriculture training,2025-Q2,False,True,125.5
+2745,District B,Agriculture training,2025-Q1,True,True,156.2
+2746,District F,Livelihoods,2025-Q1,False,False,115.4
+2747,District F,Livelihoods,2025-Q1,False,True,149.5
+2748,District D,Health & hygiene,2025-Q2,False,False,21.7
+2749,District D,Livelihoods,2025-Q4,False,False,10.8
+2750,District C,Agriculture training,2025-Q4,True,True,70.4
+2751,District F,Livelihoods,2025-Q2,True,True,66.8
+2752,District A,Health & hygiene,2025-Q4,False,False,33.1
+2753,District C,Livelihoods,2025-Q4,True,False,53.3
+2754,District B,Health & hygiene,2025-Q2,True,False,41.5
+2755,District C,Health & hygiene,2025-Q3,False,False,40.9
+2756,District B,Agriculture training,2025-Q4,False,False,12.3
+2757,District D,Health & hygiene,2025-Q1,True,True,70.8
+2758,District F,Agriculture training,2025-Q2,True,True,98.2
+2759,District E,Livelihoods,2025-Q1,False,False,6.2
+2760,District D,Agriculture training,2025-Q2,True,False,7.7
+2761,District F,Agriculture training,2025-Q2,False,False,14.5
+2762,District D,Agriculture training,2025-Q4,False,False,44.8
+2763,District E,Livelihoods,2025-Q1,True,False,91.6
+2764,District C,Health & hygiene,2025-Q4,True,True,92.8
+2765,District B,Agriculture training,2025-Q1,True,True,91.1
+2766,District C,Health & hygiene,2025-Q4,True,False,35.3
+2767,District B,Agriculture training,2025-Q2,True,True,112.8
+2768,District E,Agriculture training,2025-Q4,False,False,37.1
+2769,District C,Health & hygiene,2025-Q2,True,False,19.6
+2770,District C,Agriculture training,2025-Q1,False,False,31.4
+2771,District D,Agriculture training,2025-Q4,False,False,53.3
+2772,District D,Livelihoods,2025-Q1,False,True,93.4
+2773,District F,Livelihoods,2025-Q3,False,False,45.3
+2774,District E,Health & hygiene,2025-Q1,False,True,123.6
+2775,District D,Health & hygiene,2025-Q1,False,False,16.6
+2776,District D,Agriculture training,2025-Q3,False,True,33.4
+2777,District C,Health & hygiene,2025-Q2,False,False,13.7
+2778,District B,Health & hygiene,2025-Q1,True,True,71.2
+2779,District E,Agriculture training,2025-Q3,False,False,25.7
+2780,District F,Agriculture training,2025-Q4,False,False,14.6
+2781,District C,Livelihoods,2025-Q4,True,True,37.9
+2782,District B,Agriculture training,2025-Q4,True,False,40.9
+2783,District D,Livelihoods,2025-Q1,True,False,44.4
+2784,District D,Health & hygiene,2025-Q4,False,False,26.1
+2785,District B,Agriculture training,2025-Q3,True,False,21.7
+2786,District F,Agriculture training,2025-Q2,False,True,105.0
+2787,District C,Agriculture training,2025-Q3,False,False,36.0
+2788,District F,Livelihoods,2025-Q2,False,True,175.6
+2789,District F,Agriculture training,2025-Q2,False,False,12.5
+2790,District C,Agriculture training,2025-Q3,True,True,61.6
+2791,District B,Livelihoods,2025-Q4,True,True,171.5
+2792,District D,Livelihoods,2025-Q4,False,True,91.0
+2793,District C,Health & hygiene,2025-Q3,True,False,47.3
+2794,District D,Agriculture training,2025-Q4,False,False,29.7
+2795,District F,Health & hygiene,2025-Q2,True,True,59.9
+2796,District B,Agriculture training,2025-Q2,False,False,26.3
+2797,District D,Agriculture training,2025-Q3,False,True,60.9
+2798,District C,Health & hygiene,2025-Q4,True,False,26.9
+2799,District F,Livelihoods,2025-Q4,False,False,38.3
+2800,District D,Health & hygiene,2025-Q2,False,True,82.9
+2801,District B,Livelihoods,2025-Q2,False,False,31.7
+2802,District B,Agriculture training,2025-Q4,True,True,56.1
+2803,District F,Livelihoods,2025-Q1,False,False,81.8
+2804,District E,Agriculture training,2025-Q4,True,True,67.1
+2805,District F,Livelihoods,2025-Q3,False,False,14.0
+2806,District F,Livelihoods,2025-Q3,False,False,24.8
+2807,District B,Agriculture training,2025-Q1,True,True,73.1
+2808,District A,Livelihoods,2025-Q4,True,True,58.9
+2809,District D,Livelihoods,2025-Q1,True,True,118.2
+2810,District F,Health & hygiene,2025-Q1,False,True,24.1
+2811,District B,Livelihoods,2025-Q1,True,True,131.2
+2812,District C,Agriculture training,2025-Q2,True,True,35.0
+2813,District A,Agriculture training,2025-Q3,False,True,65.2
+2814,District E,Health & hygiene,2025-Q4,False,True,67.6
+2815,District E,Agriculture training,2025-Q1,False,False,13.4
+2816,District C,Agriculture training,2025-Q2,True,True,46.6
+2817,District C,Agriculture training,2025-Q3,True,True,165.4
+2818,District C,Agriculture training,2025-Q3,False,False,8.6
+2819,District D,Livelihoods,2025-Q2,False,True,67.4
+2820,District A,Health & hygiene,2025-Q1,False,False,42.2
+2821,District F,Health & hygiene,2025-Q2,False,True,100.8
+2822,District B,Agriculture training,2025-Q3,True,False,95.4
+2823,District E,Agriculture training,2025-Q3,False,False,30.3
+2824,District A,Agriculture training,2025-Q3,True,True,230.4
+2825,District C,Health & hygiene,2025-Q3,True,True,124.7
+2826,District D,Health & hygiene,2025-Q4,False,False,12.6
+2827,District C,Agriculture training,2025-Q2,True,True,94.1
+2828,District D,Health & hygiene,2025-Q1,False,True,101.5
+2829,District C,Health & hygiene,2025-Q2,True,True,101.9
+2830,District C,Livelihoods,2025-Q3,False,False,56.5
+2831,District A,Health & hygiene,2025-Q3,True,True,107.2
+2832,District F,Livelihoods,2025-Q1,False,False,20.4
+2833,District D,Livelihoods,2025-Q3,True,True,35.2
+2834,District F,Livelihoods,2025-Q1,False,False,32.7
+2835,District B,Agriculture training,2025-Q1,True,True,170.2
+2836,District B,Livelihoods,2025-Q2,True,True,81.8
+2837,District C,Agriculture training,2025-Q3,True,True,201.0
+2838,District B,Agriculture training,2025-Q1,True,True,31.4
+2839,District D,Agriculture training,2025-Q3,False,False,36.1
+2840,District B,Agriculture training,2025-Q3,True,False,21.7
+2841,District D,Livelihoods,2025-Q3,False,False,113.6
+2842,District B,Health & hygiene,2025-Q4,True,True,149.1
+2843,District C,Livelihoods,2025-Q1,True,True,67.2
+2844,District E,Agriculture training,2025-Q3,True,True,269.8
+2845,District E,Livelihoods,2025-Q1,False,True,171.6
+2846,District E,Health & hygiene,2025-Q3,False,True,119.0
+2847,District E,Agriculture training,2025-Q2,True,True,53.6
+2848,District F,Health & hygiene,2025-Q1,True,True,76.4
+2849,District D,Agriculture training,2025-Q1,True,True,60.9
+2850,District D,Agriculture training,2025-Q4,True,True,63.3
+2851,District A,Livelihoods,2025-Q4,True,False,24.9
+2852,District C,Agriculture training,2025-Q2,True,True,156.9
+2853,District E,Agriculture training,2025-Q3,True,True,40.6
+2854,District F,Livelihoods,2025-Q3,False,True,156.4
+2855,District C,Health & hygiene,2025-Q1,False,False,15.3
+2856,District A,Livelihoods,2025-Q4,True,True,28.1
+2857,District D,Health & hygiene,2025-Q3,True,True,135.1
+2858,District D,Agriculture training,2025-Q1,True,False,19.2
+2859,District F,Agriculture training,2025-Q3,True,True,73.1
+2860,District B,Health & hygiene,2025-Q4,True,True,79.0
+2861,District D,Livelihoods,2025-Q1,False,False,35.6
+2862,District E,Livelihoods,2025-Q4,False,False,33.1
+2863,District D,Livelihoods,2025-Q4,False,False,61.0
+2864,District B,Livelihoods,2025-Q4,True,True,70.6
+2865,District E,Livelihoods,2025-Q3,False,False,34.2
+2866,District A,Livelihoods,2025-Q4,True,True,211.4
+2867,District A,Agriculture training,2025-Q2,True,True,103.8
+2868,District F,Agriculture training,2025-Q3,False,True,43.6
+2869,District C,Livelihoods,2025-Q2,True,True,82.4
+2870,District F,Health & hygiene,2025-Q4,False,False,28.0
+2871,District C,Livelihoods,2025-Q3,True,True,100.8
+2872,District F,Livelihoods,2025-Q1,False,True,104.3
+2873,District C,Agriculture training,2025-Q3,False,False,32.8
+2874,District A,Agriculture training,2025-Q3,True,False,48.8
+2875,District F,Agriculture training,2025-Q1,False,True,157.0
+2876,District B,Health & hygiene,2025-Q3,True,True,131.5
+2877,District F,Agriculture training,2025-Q2,False,False,15.4
+2878,District C,Health & hygiene,2025-Q2,True,True,222.8
+2879,District E,Health & hygiene,2025-Q4,False,False,28.5
+2880,District C,Health & hygiene,2025-Q1,False,False,58.9
+2881,District F,Health & hygiene,2025-Q3,False,True,133.7
+2882,District D,Health & hygiene,2025-Q3,False,True,78.8
+2883,District B,Agriculture training,2025-Q4,True,True,88.8
+2884,District E,Agriculture training,2025-Q1,False,False,12.0
+2885,District A,Livelihoods,2025-Q2,True,False,31.9
+2886,District F,Agriculture training,2025-Q4,False,False,10.6
+2887,District E,Agriculture training,2025-Q4,False,True,103.6
+2888,District E,Agriculture training,2025-Q2,False,True,183.9
+2889,District C,Agriculture training,2025-Q1,True,True,68.2
+2890,District E,Agriculture training,2025-Q1,False,False,118.8
+2891,District E,Livelihoods,2025-Q4,False,False,23.2
+2892,District C,Agriculture training,2025-Q2,True,True,141.5
+2893,District C,Agriculture training,2025-Q1,True,True,62.6
+2894,District B,Health & hygiene,2025-Q2,True,True,89.4
+2895,District E,Livelihoods,2025-Q1,True,True,118.5
+2896,District F,Livelihoods,2025-Q1,False,False,24.2
+2897,District F,Health & hygiene,2025-Q3,True,True,140.0
+2898,District C,Agriculture training,2025-Q1,True,False,31.4
+2899,District D,Agriculture training,2025-Q2,False,False,93.9
+2900,District F,Health & hygiene,2025-Q3,False,False,33.9
+2901,District F,Agriculture training,2025-Q1,False,False,13.0
+2902,District E,Livelihoods,2025-Q1,False,True,121.0
+2903,District D,Livelihoods,2025-Q2,False,False,26.0
+2904,District B,Agriculture training,2025-Q4,True,True,45.5
+2905,District D,Livelihoods,2025-Q3,False,True,234.9
+2906,District B,Agriculture training,2025-Q4,True,False,10.2
+2907,District E,Health & hygiene,2025-Q1,False,False,23.7
+2908,District E,Agriculture training,2025-Q1,False,True,51.8
+2909,District D,Livelihoods,2025-Q2,False,True,46.3
+2910,District E,Agriculture training,2025-Q3,False,False,29.3
+2911,District C,Livelihoods,2025-Q2,True,True,112.8
+2912,District D,Agriculture training,2025-Q1,True,True,105.0
+2913,District B,Agriculture training,2025-Q1,True,True,42.4
+2914,District D,Agriculture training,2025-Q1,True,True,109.3
+2915,District F,Health & hygiene,2025-Q4,False,True,126.3
+2916,District B,Health & hygiene,2025-Q4,True,True,157.0
+2917,District A,Agriculture training,2025-Q3,True,True,35.0
+2918,District F,Livelihoods,2025-Q2,False,True,59.2
+2919,District A,Livelihoods,2025-Q2,True,True,120.3
+2920,District D,Agriculture training,2025-Q1,False,True,48.1
+2921,District F,Agriculture training,2025-Q3,False,False,34.3
+2922,District F,Health & hygiene,2025-Q1,False,False,14.8
+2923,District F,Livelihoods,2025-Q4,False,False,23.6
+2924,District E,Livelihoods,2025-Q4,False,False,13.1
+2925,District C,Agriculture training,2025-Q1,True,False,16.7
+2926,District E,Health & hygiene,2025-Q2,False,False,17.5
+2927,District E,Agriculture training,2025-Q1,True,False,10.1
+2928,District A,Agriculture training,2025-Q2,False,False,28.5
+2929,District A,Agriculture training,2025-Q2,True,True,103.9
+2930,District A,Health & hygiene,2025-Q1,True,True,92.2
+2931,District B,Livelihoods,2025-Q2,True,True,95.8
+2932,District C,Agriculture training,2025-Q4,True,False,49.4
+2933,District F,Agriculture training,2025-Q1,False,False,27.4
+2934,District F,Health & hygiene,2025-Q1,False,False,29.1
+2935,District C,Agriculture training,2025-Q4,False,False,25.7
+2936,District A,Agriculture training,2025-Q2,True,True,117.7
+2937,District C,Agriculture training,2025-Q2,True,False,13.1
+2938,District A,Livelihoods,2025-Q4,True,False,9.2
+2939,District B,Agriculture training,2025-Q2,True,True,92.5
+2940,District B,Livelihoods,2025-Q4,True,False,30.4
+2941,District C,Agriculture training,2025-Q1,False,False,26.0
+2942,District B,Agriculture training,2025-Q4,True,False,20.6
+2943,District E,Agriculture training,2025-Q4,False,False,36.0
+2944,District D,Agriculture training,2025-Q4,True,False,12.9
+2945,District F,Agriculture training,2025-Q2,False,True,132.4
+2946,District A,Livelihoods,2025-Q4,True,True,49.2
+2947,District C,Health & hygiene,2025-Q1,True,True,56.0
+2948,District E,Agriculture training,2025-Q1,False,False,27.3
+2949,District D,Agriculture training,2025-Q4,False,False,26.6
+2950,District D,Health & hygiene,2025-Q1,True,True,62.4
+2951,District B,Agriculture training,2025-Q4,True,True,64.6
+2952,District D,Agriculture training,2025-Q4,False,True,90.2
+2953,District C,Livelihoods,2025-Q1,True,True,35.6
+2954,District E,Agriculture training,2025-Q4,False,True,269.2
+2955,District E,Agriculture training,2025-Q4,True,False,59.8
+2956,District C,Agriculture training,2025-Q4,True,True,92.1
+2957,District C,Agriculture training,2025-Q2,True,True,179.4
+2958,District F,Agriculture training,2025-Q2,True,True,180.4
+2959,District C,Livelihoods,2025-Q2,True,True,103.9
+2960,District C,Livelihoods,2025-Q2,True,False,72.1
+2961,District B,Health & hygiene,2025-Q2,True,True,58.4
+2962,District D,Health & hygiene,2025-Q1,True,True,55.6
+2963,District D,Agriculture training,2025-Q2,True,False,67.3
+2964,District E,Agriculture training,2025-Q2,False,True,67.2
+2965,District A,Agriculture training,2025-Q3,True,True,87.0
+2966,District C,Agriculture training,2025-Q4,True,False,62.5
+2967,District C,Agriculture training,2025-Q2,True,True,144.2
+2968,District E,Livelihoods,2025-Q2,False,True,114.7
+2969,District B,Agriculture training,2025-Q3,True,True,178.2
+2970,District A,Livelihoods,2025-Q1,True,False,35.3
+2971,District D,Agriculture training,2025-Q3,False,True,89.9
+2972,District D,Agriculture training,2025-Q2,False,True,96.4
+2973,District F,Agriculture training,2025-Q3,False,False,26.4
+2974,District D,Agriculture training,2025-Q4,False,True,80.0
+2975,District E,Agriculture training,2025-Q2,True,True,97.8
+2976,District A,Health & hygiene,2025-Q4,True,True,94.3
+2977,District C,Health & hygiene,2025-Q2,True,True,59.5
+2978,District D,Health & hygiene,2025-Q1,True,True,71.4
+2979,District D,Livelihoods,2025-Q1,True,True,100.9
+2980,District F,Agriculture training,2025-Q3,False,False,21.5
+2981,District E,Agriculture training,2025-Q1,False,False,17.8
+2982,District E,Agriculture training,2025-Q4,False,True,137.8
+2983,District E,Livelihoods,2025-Q3,False,True,223.8
+2984,District B,Agriculture training,2025-Q3,True,True,88.8
+2985,District C,Agriculture training,2025-Q1,True,False,9.1
+2986,District D,Livelihoods,2025-Q4,True,True,63.9
+2987,District D,Livelihoods,2025-Q1,False,True,114.6
+2988,District E,Agriculture training,2025-Q1,True,False,27.7
+2989,District D,Agriculture training,2025-Q1,False,False,32.2
+2990,District E,Health & hygiene,2025-Q2,False,False,77.2
+2991,District D,Agriculture training,2025-Q1,False,True,74.0
+2992,District E,Health & hygiene,2025-Q2,False,True,89.2
+2993,District E,Agriculture training,2025-Q3,False,True,116.1
+2994,District E,Agriculture training,2025-Q3,True,True,74.9
+2995,District F,Agriculture training,2025-Q2,False,True,106.4
+2996,District C,Agriculture training,2025-Q2,True,True,53.4
+2997,District A,Agriculture training,2025-Q4,True,True,39.5
+2998,District E,Livelihoods,2025-Q1,False,True,112.8
+2999,District F,Livelihoods,2025-Q4,False,True,77.7
+3000,District C,Livelihoods,2025-Q3,True,False,18.3
